@@ -52,8 +52,7 @@ By tearing out noise nodes and organizing the remaining fragments into nine auto
 | File | Predicted | TP | Precision | Recall | F1 |
 |------|-----------|---:|-----------|--------|----|
 | skill-flattened-index | 6 | 3 | 0.5000 | 0.1579 | **0.2400** |
-| with-skill-3.md | 19 | 3 | 0.1579 | 0.1579 | **0.1579** |
-| with-skill-2.py | 17 | 2 | 0.1176 | 0.1053 | **0.1111** |
+| tree-index | 19 | 3 | 0.1579 | 0.1579 | **0.1579** |
 | no-skill-2.py | 14 | 1 | 0.0714 | 0.0526 | **0.0606** |
 
 ---
