@@ -49,11 +49,12 @@ By tearing out noise nodes and organizing the remaining fragments into nine auto
 
 ### Citation Extraction Accuracy
 
-| Test Configuration | Hit Rate | Details |
-|--------------------|----------|---------|
-| **no-skill-2.py** (Baseline) | 7.1% | 1/14 hits |
-| **with-skill-2.py** (V2 Plugin) | 11.7% | 2/17 hits |
-| **with-skill-3.md** (V3 Plugin) | 15.8% | 3/19 hits |
+| File | Predicted | TP | Precision | Recall | F1 |
+|------|-----------|---:|-----------|--------|----|
+| no-skill-index.py | 6 | 3 | 0.5000 | 0.1579 | **0.2400** |
+| with-skill-3.md | 19 | 3 | 0.1579 | 0.1579 | **0.1579** |
+| with-skill-2.py | 17 | 2 | 0.1176 | 0.1053 | **0.1111** |
+| no-skill-2.py | 14 | 1 | 0.0714 | 0.0526 | **0.0606** |
 
 ---
 
