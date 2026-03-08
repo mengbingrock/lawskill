@@ -1,0 +1,67 @@
+{
+  "name": "swiss-law-sr",
+  "title": "Swiss Systematische Rechtssammlung (SR)",
+  "description": "Navigate all 9 categories of Swiss federal law with 2147 laws and ~76K articles.",
+  "skills": [
+    {
+      "name": "swiss-law-sr",
+      "title": "Swiss Systematische Rechtssammlung (SR)",
+      "description": "Main entry point for Swiss federal law. Routes to 9 specialized categories covering 2147 laws.",
+      "path": "skills/swiss-law-sr"
+    },
+    {
+      "name": "staat",
+      "title": "SR 1 – 1 Staat",
+      "description": "Swiss federal law category 1: State - Constitutional Law. Navigate laws, SR numbers, and articles.",
+      "path": "skills/staat"
+    },
+    {
+      "name": "privatrecht",
+      "title": "SR 2 – 2 Privatrecht",
+      "description": "Swiss federal law category 2: Private Law. Navigate laws, SR numbers, and articles.",
+      "path": "skills/privatrecht"
+    },
+    {
+      "name": "strafrecht",
+      "title": "SR 3 – 3 Strafrecht",
+      "description": "Swiss federal law category 3: Criminal Law. Navigate laws, SR numbers, and articles.",
+      "path": "skills/strafrecht"
+    },
+    {
+      "name": "schule",
+      "title": "SR 4 – 4 Schule",
+      "description": "Swiss federal law category 4: Education, Science, Culture. Navigate laws, SR numbers, and articles.",
+      "path": "skills/schule"
+    },
+    {
+      "name": "landesverteidigung",
+      "title": "SR 5 – 5 Landesverteidigung",
+      "description": "Swiss federal law category 5: National Defence. Navigate laws, SR numbers, and articles.",
+      "path": "skills/landesverteidigung"
+    },
+    {
+      "name": "finanzen",
+      "title": "SR 6 – 6 Finanzen",
+      "description": "Swiss federal law category 6: Finance. Navigate laws, SR numbers, and articles.",
+      "path": "skills/finanzen"
+    },
+    {
+      "name": "oeffentliche-werke",
+      "title": "SR 7 – 7 Öffentliche Werke",
+      "description": "Swiss federal law category 7: Public Works, Energy, Transport. Navigate laws, SR numbers, and articles.",
+      "path": "skills/oeffentliche-werke"
+    },
+    {
+      "name": "gesundheit",
+      "title": "SR 8 – 8 Gesundheit",
+      "description": "Swiss federal law category 8: Health, Social Security. Navigate laws, SR numbers, and articles.",
+      "path": "skills/gesundheit"
+    },
+    {
+      "name": "wirtschaft",
+      "title": "SR 9 – 9 Wirtschaft",
+      "description": "Swiss federal law category 9: Economy, Trade. Navigate laws, SR numbers, and articles.",
+      "path": "skills/wirtschaft"
+    }
+  ]
+}

@@ -1,0 +1,9290 @@
+# SR 2 – 2 Privatrecht: Article Listings
+
+## 21 Zivilgesetzbuch
+
+### SR 210 – Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907
+
+ELI: `/eli/cc/24/233_245_233/de`
+
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 4
+- Art. 5
+- Art. 6
+- Art. 7
+- Art. 8
+- Art. 9
+- Art. 107
+- Art. 11
+- Art. 12
+- Art. 138
+- Art. 149
+- Art. 1510
+- Art. 1611
+- Art. 1712
+- Art. 18
+- Art. 19
+- Art. 19a16
+- Art. 19b17
+- Art. 19c18
+- Art. 19d19
+- Art. 20
+- Art. 2122
+- Art. 22
+- Art. 23
+- Art. 24
+- Art. 2525
+- Art. 2628
+- Art. 27
+- Art. 2830
+- Art. 28a32
+- Art. 28b33
+- Art. 28c35
+- Art. 28d–28f 36
+- Art. 28g38
+- Art. 28h39
+- Art. 28i40
+- Art. 28k41
+- Art. 28l42
+- Art. 29
+- Art. 30
+- Art. 30a48
+- Art. 30b49
+- Art. 31
+- Art. 32
+- Art. 33
+- Art. 34
+- Art. 35
+- Art. 36
+- Art. 37
+- Art. 38
+- Art. 3953
+- Art. 40
+- Art. 41
+- Art. 42
+- Art. 43
+- Art. 43a56
+- Art. 44
+- Art. 45
+- Art. 45a75
+- Art. 46
+- Art. 47
+- Art. 48
+- Art. 49
+- Art. 50 und 51
+- Art. 52
+- Art. 53
+- Art. 54
+- Art. 55
+- Art. 5683
+- Art. 57
+- Art. 58
+- Art. 59
+- Art. 60
+- Art. 61
+- Art. 61a91
+- Art. 62
+- Art. 63
+- Art. 64
+- Art. 65
+- Art. 66
+- Art. 67
+- Art. 68
+- Art. 69
+- Art. 69a94
+- Art. 69b96
+- Art. 69c99
+- Art. 69d101
+- Art. 70
+- Art. 71102
+- Art. 72
+- Art. 73
+- Art. 74
+- Art. 75
+- Art. 75a103
+- Art. 76
+- Art. 77
+- Art. 78
+- Art. 79
+- Art. 80
+- Art. 81
+- Art. 82
+- Art. 83106
+- Art. 83a107
+- Art. 83b109
+- Art. 83c111
+- Art. 83d112
+- Art. 84
+- Art. 84a116
+- Art. 84b117
+- Art. 85120
+- Art. 86
+- Art. 86a124
+- Art. 86b130
+- Art. 86c131
+- Art. 87
+- Art. 88133
+- Art. 89134
+- Art. 89a136
+- Art. 89b
+- Art. 89c
+- Art. 90
+- Art. 91
+- Art. 92169
+- Art. 93
+- Art. 94170
+- Art. 95
+- Art. 96173
+- Art. 97
+- Art. 97a174
+- Art. 98
+- Art. 99
+- Art. 100180
+- Art. 101
+- Art. 102
+- Art. 103
+- Art. 104
+- Art. 105
+- Art. 105a190
+- Art. 106
+- Art. 107
+- Art. 108
+- Art. 109
+- Art. 110200
+- Art. 111202
+- Art. 112
+- Art. 113204
+- Art. 114205
+- Art. 115206
+- Art. 116207
+- Art. 117
+- Art. 118
+- Art. 119209
+- Art. 120
+- Art. 121
+- Art. 122212
+- Art. 123213
+- Art. 124216
+- Art. 124a218
+- Art. 124b219
+- Art. 124c220
+- Art. 124d221
+- Art. 124e222
+- Art. 125
+- Art. 126
+- Art. 127
+- Art. 128
+- Art. 129
+- Art. 130
+- Art. 131223
+- Art. 131a224
+- Art. 132
+- Art. 133226
+- Art. 134
+- Art. 135–149230
+- Art. 150–158
+- Art. 159
+- Art. 160232
+- Art. 161235
+- Art. 162
+- Art. 163
+- Art. 164
+- Art. 165
+- Art. 166
+- Art. 167
+- Art. 168
+- Art. 169
+- Art. 170
+- Art. 171
+- Art. 172
+- Art. 173
+- Art. 174
+- Art. 175
+- Art. 176
+- Art. 176a239
+- Art. 177
+- Art. 178
+- Art. 179242
+- Art. 180244
+- Art. 181
+- Art. 182
+- Art. 183
+- Art. 184
+- Art. 185
+- Art. 186248
+- Art. 187
+- Art. 188
+- Art. 189
+- Art. 190
+- Art. 191
+- Art. 192
+- Art. 193
+- Art. 194251
+- Art. 195
+- Art. 195a
+- Art. 196
+- Art. 197
+- Art. 198
+- Art. 199
+- Art. 200
+- Art. 201
+- Art. 202
+- Art. 203
+- Art. 204
+- Art. 205
+- Art. 206
+- Art. 207
+- Art. 208
+- Art. 209
+- Art. 210
+- Art. 211
+- Art. 212
+- Art. 213
+- Art. 214
+- Art. 215
+- Art. 216
+- Art. 217
+- Art. 218
+- Art. 219
+- Art. 220
+- Art. 221
+- Art. 222
+- Art. 223
+- Art. 224
+- Art. 225
+- Art. 226
+- Art. 227
+- Art. 228
+- Art. 229
+- Art. 230
+- Art. 231
+- Art. 232
+- Art. 233
+- Art. 234
+- Art. 235
+- Art. 236
+- Art. 237
+- Art. 238
+- Art. 239
+- Art. 240
+- Art. 241
+- Art. 242
+- Art. 243
+- Art. 244
+- Art. 245
+- Art. 246
+- Art. 247
+- Art. 248
+- Art. 249
+- Art. 250
+- Art. 251
+- Art. 252261
+- Art. 253263
+- Art. 254264
+- Art. 255267
+- Art. 255a268
+- Art. 256271
+- Art. 256a275
+- Art. 256b277
+- Art. 256c278
+- Art. 257280
+- Art. 258282
+- Art. 259283
+- Art. 260286
+- Art. 260a288
+- Art. 260b289
+- Art. 260c290
+- Art. 261292
+- Art. 262293
+- Art. 263294
+- Art. 264297
+- Art. 264a298
+- Art. 264b299
+- Art. 264c300
+- Art. 264d301
+- Art. 265302
+- Art. 265a304
+- Art. 265b306
+- Art. 265c307
+- Art. 265d308
+- Art. 266311
+- Art. 267312
+- Art. 267a313
+- Art. 267b314
+- Art. 268315
+- Art. 268a320
+- Art. 268abis 323
+- Art. 268ater 324
+- Art. 268aquater 325
+- Art. 268b326
+- Art. 268c327
+- Art. 268d328
+- Art. 268e329
+- Art. 269330
+- Art. 269a331
+- Art. 269b332
+- Art. 269c333
+- Art. 270338
+- Art. 270a339
+- Art. 270b340
+- Art. 271341
+- Art. 272342
+- Art. 273343
+- Art. 274345
+- Art. 274a347
+- Art. 275348
+- Art. 275a350
+- Art. 276353
+- Art. 276a356
+- Art. 277357
+- Art. 278360
+- Art. 279362
+- Art. 280–284364
+- Art. 285365
+- Art. 285a366
+- Art. 286368
+- Art. 286a370
+- Art. 287371
+- Art. 287a372
+- Art. 288374
+- Art. 289375
+- Art. 290377
+- Art. 291378
+- Art. 292379
+- Art. 293380
+- Art. 294381
+- Art. 295382
+- Art. 296385
+- Art. 297386
+- Art. 298387
+- Art. 298a390
+- Art. 298b391
+- Art. 298c395
+- Art. 298d396
+- Art. 298e398
+- Art. 299400
+- Art. 300402
+- Art. 301403
+- Art. 301a405
+- Art. 302407
+- Art. 303409
+- Art. 304411
+- Art. 305416
+- Art. 306418
+- Art. 307422
+- Art. 308424
+- Art. 309426
+- Art. 310428
+- Art. 311430
+- Art. 312434
+- Art. 313436
+- Art. 314437
+- Art. 314a438
+- Art. 314abis 439
+- Art. 314b440
+- Art. 314c441
+- Art. 314d443
+- Art. 314e445
+- Art. 315449
+- Art. 315a451
+- Art. 315b454
+- Art. 316456
+- Art. 317458
+- Art. 318460
+- Art. 319463
+- Art. 320464
+- Art. 321465
+- Art. 322466
+- Art. 323467
+- Art. 324468
+- Art. 325469
+- Art. 326470
+- Art. 327471
+- Art. 327a
+- Art. 327b
+- Art. 327c
+- Art. 328473
+- Art. 329
+- Art. 330
+- Art. 331
+- Art. 332
+- Art. 333
+- Art. 334483
+- Art. 334bis 485
+- Art. 335
+- Art. 336
+- Art. 337
+- Art. 338
+- Art. 339
+- Art. 340
+- Art. 341
+- Art. 342
+- Art. 343
+- Art. 344
+- Art. 345
+- Art. 346
+- Art. 347
+- Art. 348
+- Art. 349–358486
+- Art. 359487
+- Art. 360
+- Art. 361
+- Art. 362
+- Art. 363
+- Art. 364
+- Art. 365
+- Art. 366
+- Art. 367
+- Art. 368
+- Art. 369
+- Art. 370
+- Art. 371
+- Art. 372
+- Art. 373
+- Art. 374
+- Art. 375
+- Art. 376
+- Art. 377
+- Art. 378
+- Art. 379
+- Art. 380
+- Art. 381
+- Art. 382
+- Art. 383
+- Art. 384
+- Art. 385
+- Art. 386
+- Art. 387
+- Art. 388
+- Art. 389
+- Art. 390
+- Art. 391
+- Art. 392
+- Art. 393
+- Art. 394
+- Art. 395
+- Art. 396
+- Art. 397
+- Art. 398
+- Art. 399
+- Art. 400
+- Art. 401
+- Art. 402
+- Art. 403
+- Art. 404
+- Art. 405
+- Art. 406
+- Art. 407
+- Art. 408
+- Art. 409
+- Art. 410
+- Art. 411
+- Art. 412
+- Art. 413
+- Art. 414
+- Art. 415
+- Art. 416
+- Art. 417
+- Art. 418
+- Art. 419
+- Art. 420
+- Art. 421
+- Art. 422
+- Art. 423
+- Art. 424
+- Art. 425
+- Art. 426
+- Art. 427
+- Art. 428
+- Art. 429
+- Art. 430
+- Art. 431
+- Art. 432
+- Art. 433
+- Art. 434
+- Art. 435
+- Art. 436
+- Art. 437
+- Art. 438
+- Art. 439
+- Art. 440
+- Art. 441
+- Art. 442
+- Art. 443
+- Art. 444
+- Art. 445
+- Art. 446
+- Art. 447
+- Art. 448
+- Art. 449
+- Art. 449a
+- Art. 449b
+- Art. 449c498
+- Art. 450
+- Art. 450a
+- Art. 450b
+- Art. 450c
+- Art. 450d
+- Art. 450e
+- Art. 450f
+- Art. 450g
+- Art. 451
+- Art. 452
+- Art. 453
+- Art. 454
+- Art. 455
+- Art. 456
+- Art. 457
+- Art. 458
+- Art. 459
+- Art. 460506
+- Art. 461507
+- Art. 462508
+- Art. 463–464509
+- Art. 465510
+- Art. 466511
+- Art. 467
+- Art. 468512
+- Art. 469
+- Art. 470
+- Art. 471514
+- Art. 472515
+- Art. 473516
+- Art. 474
+- Art. 475
+- Art. 476517
+- Art. 477
+- Art. 478
+- Art. 479
+- Art. 480
+- Art. 481
+- Art. 482
+- Art. 483
+- Art. 484
+- Art. 485
+- Art. 486
+- Art. 487
+- Art. 488
+- Art. 489
+- Art. 490
+- Art. 491
+- Art. 492
+- Art. 492a520
+- Art. 493
+- Art. 494
+- Art. 495
+- Art. 496
+- Art. 497
+- Art. 498
+- Art. 499
+- Art. 500
+- Art. 501
+- Art. 502
+- Art. 503
+- Art. 504
+- Art. 505
+- Art. 506
+- Art. 507
+- Art. 508
+- Art. 509
+- Art. 510
+- Art. 511
+- Art. 512
+- Art. 513
+- Art. 514
+- Art. 515
+- Art. 516
+- Art. 517
+- Art. 518
+- Art. 519
+- Art. 520
+- Art. 520a527
+- Art. 521
+- Art. 522528
+- Art. 523529
+- Art. 524
+- Art. 525
+- Art. 526
+- Art. 527
+- Art. 528
+- Art. 529530
+- Art. 530
+- Art. 531531
+- Art. 532532
+- Art. 533
+- Art. 534
+- Art. 535
+- Art. 536
+- Art. 537
+- Art. 538
+- Art. 539
+- Art. 540
+- Art. 541
+- Art. 542
+- Art. 543
+- Art. 544
+- Art. 545
+- Art. 546
+- Art. 547
+- Art. 548
+- Art. 549
+- Art. 550
+- Art. 551
+- Art. 552
+- Art. 553
+- Art. 554
+- Art. 555
+- Art. 556
+- Art. 557
+- Art. 558
+- Art. 559
+- Art. 560
+- Art. 561541
+- Art. 562
+- Art. 563
+- Art. 564
+- Art. 565
+- Art. 566
+- Art. 567
+- Art. 568
+- Art. 569
+- Art. 570
+- Art. 571
+- Art. 572
+- Art. 573
+- Art. 574
+- Art. 575
+- Art. 576
+- Art. 577
+- Art. 578
+- Art. 579
+- Art. 580
+- Art. 581
+- Art. 582
+- Art. 583
+- Art. 584
+- Art. 585
+- Art. 586
+- Art. 587
+- Art. 588
+- Art. 589
+- Art. 590
+- Art. 591
+- Art. 592
+- Art. 593
+- Art. 594
+- Art. 595
+- Art. 596
+- Art. 597
+- Art. 598
+- Art. 599
+- Art. 600
+- Art. 601
+- Art. 602
+- Art. 603
+- Art. 604
+- Art. 605
+- Art. 606
+- Art. 607
+- Art. 608
+- Art. 609
+- Art. 610
+- Art. 611
+- Art. 612
+- Art. 612a545
+- Art. 613
+- Art. 613a547
+- Art. 614
+- Art. 615
+- Art. 616548
+- Art. 617549
+- Art. 618
+- Art. 619552
+- Art. 620–625554
+- Art. 626
+- Art. 627
+- Art. 628
+- Art. 629
+- Art. 630
+- Art. 631
+- Art. 632
+- Art. 633556
+- Art. 634
+- Art. 635
+- Art. 636
+- Art. 637
+- Art. 638
+- Art. 639
+- Art. 640
+- Art. 641
+- Art. 641a559
+- Art. 642
+- Art. 643
+- Art. 644
+- Art. 645
+- Art. 646
+- Art. 647560
+- Art. 647a563
+- Art. 647b564
+- Art. 647c565
+- Art. 647d566
+- Art. 647e567
+- Art. 648568
+- Art. 649569
+- Art. 649a571
+- Art. 649b573
+- Art. 649c574
+- Art. 650575
+- Art. 651
+- Art. 651a577
+- Art. 652
+- Art. 653
+- Art. 654
+- Art. 654a578
+- Art. 655581
+- Art. 655a583
+- Art. 656
+- Art. 657
+- Art. 658
+- Art. 659
+- Art. 660
+- Art. 660a585
+- Art. 660b586
+- Art. 661
+- Art. 662
+- Art. 663
+- Art. 664
+- Art. 665
+- Art. 666
+- Art. 666a588
+- Art. 666b589
+- Art. 667
+- Art. 668
+- Art. 669
+- Art. 670
+- Art. 671
+- Art. 672
+- Art. 673
+- Art. 674
+- Art. 675
+- Art. 676
+- Art. 677
+- Art. 678
+- Art. 679
+- Art. 679a597
+- Art. 680
+- Art. 681598
+- Art. 681a599
+- Art. 681b600
+- Art. 682602
+- Art. 682a605
+- Art. 683607
+- Art. 684
+- Art. 685
+- Art. 686
+- Art. 687
+- Art. 688
+- Art. 689
+- Art. 690
+- Art. 691
+- Art. 692
+- Art. 693
+- Art. 694
+- Art. 695
+- Art. 696
+- Art. 697
+- Art. 698
+- Art. 699
+- Art. 700
+- Art. 701
+- Art. 702
+- Art. 703612
+- Art. 704
+- Art. 705
+- Art. 706
+- Art. 707
+- Art. 708
+- Art. 709
+- Art. 710
+- Art. 711
+- Art. 712
+- Art. 712a
+- Art. 712b
+- Art. 712c
+- Art. 712d
+- Art. 712e
+- Art. 712f
+- Art. 712g
+- Art. 712h
+- Art. 712i
+- Art. 712k
+- Art. 712l
+- Art. 712m
+- Art. 712n
+- Art. 712o
+- Art. 712p
+- Art. 712q
+- Art. 712r
+- Art. 712s
+- Art. 712t
+- Art. 713
+- Art. 714
+- Art. 715
+- Art. 716
+- Art. 717
+- Art. 718
+- Art. 719
+- Art. 720
+- Art. 720a623
+- Art. 721
+- Art. 722
+- Art. 723
+- Art. 724
+- Art. 725
+- Art. 726
+- Art. 727
+- Art. 728
+- Art. 729
+- Art. 730
+- Art. 731
+- Art. 732632
+- Art. 733
+- Art. 734
+- Art. 735
+- Art. 736
+- Art. 737
+- Art. 738
+- Art. 739
+- Art. 740
+- Art. 740a633
+- Art. 741
+- Art. 742
+- Art. 743637
+- Art. 744638
+- Art. 745
+- Art. 746
+- Art. 747640
+- Art. 748
+- Art. 749
+- Art. 750
+- Art. 751
+- Art. 752
+- Art. 753
+- Art. 754
+- Art. 755
+- Art. 756
+- Art. 757
+- Art. 758
+- Art. 759
+- Art. 760
+- Art. 761
+- Art. 762
+- Art. 763
+- Art. 764
+- Art. 765
+- Art. 766
+- Art. 767
+- Art. 768
+- Art. 769
+- Art. 770
+- Art. 771
+- Art. 772
+- Art. 773
+- Art. 774
+- Art. 775
+- Art. 776
+- Art. 777
+- Art. 778
+- Art. 779
+- Art. 779a642
+- Art. 779b644
+- Art. 779c646
+- Art. 779d647
+- Art. 779e648
+- Art. 779f649
+- Art. 779g650
+- Art. 779h651
+- Art. 779i652
+- Art. 779k653
+- Art. 779l654
+- Art. 780
+- Art. 781
+- Art. 781a655
+- Art. 782
+- Art. 783
+- Art. 784657
+- Art. 785658
+- Art. 786
+- Art. 787
+- Art. 788
+- Art. 789
+- Art. 790
+- Art. 791
+- Art. 792
+- Art. 793
+- Art. 794
+- Art. 795
+- Art. 796
+- Art. 797
+- Art. 798
+- Art. 798a664
+- Art. 799
+- Art. 800
+- Art. 801
+- Art. 802
+- Art. 803
+- Art. 804
+- Art. 805
+- Art. 806
+- Art. 807
+- Art. 808
+- Art. 809
+- Art. 810
+- Art. 811
+- Art. 812
+- Art. 813
+- Art. 814
+- Art. 815
+- Art. 816
+- Art. 817
+- Art. 818
+- Art. 819672
+- Art. 820
+- Art. 821
+- Art. 822
+- Art. 823673
+- Art. 824
+- Art. 825
+- Art. 826
+- Art. 827
+- Art. 828
+- Art. 829
+- Art. 830
+- Art. 831
+- Art. 832
+- Art. 833
+- Art. 834
+- Art. 835
+- Art. 836674
+- Art. 837675
+- Art. 838
+- Art. 839676
+- Art. 840
+- Art. 841
+- Art. 842
+- Art. 843
+- Art. 844
+- Art. 845
+- Art. 846
+- Art. 847
+- Art. 848
+- Art. 849
+- Art. 850
+- Art. 851
+- Art. 852
+- Art. 853
+- Art. 854
+- Art. 855
+- Art. 856
+- Art. 857
+- Art. 858
+- Art. 859
+- Art. 860
+- Art. 861
+- Art. 862
+- Art. 863
+- Art. 864
+- Art. 865
+- Art. 866–874
+- Art. 875
+- Art. 876–883679
+- Art. 884
+- Art. 885
+- Art. 886
+- Art. 887
+- Art. 888
+- Art. 889
+- Art. 890
+- Art. 891
+- Art. 892
+- Art. 893
+- Art. 894
+- Art. 895
+- Art. 896
+- Art. 897
+- Art. 898
+- Art. 899
+- Art. 900
+- Art. 901
+- Art. 902
+- Art. 903
+- Art. 904
+- Art. 905
+- Art. 906
+- Art. 907
+- Art. 908
+- Art. 909
+- Art. 910
+- Art. 911
+- Art. 912
+- Art. 913
+- Art. 914
+- Art. 915
+- Art. 916–918687
+- Art. 919
+- Art. 920
+- Art. 921
+- Art. 922
+- Art. 923
+- Art. 924
+- Art. 925
+- Art. 926
+- Art. 927
+- Art. 928
+- Art. 929
+- Art. 930
+- Art. 931
+- Art. 932
+- Art. 933
+- Art. 934
+- Art. 935
+- Art. 936
+- Art. 937
+- Art. 938
+- Art. 939
+- Art. 940
+- Art. 941
+- Art. 942
+- Art. 943693
+- Art. 944
+- Art. 945
+- Art. 946
+- Art. 947
+- Art. 948
+- Art. 949
+- Art. 949a696
+- Art. 949b697
+- Art. 949c698
+- Art. 949d699
+- Art. 950700
+- Art. 951
+- Art. 952
+- Art. 953
+- Art. 954
+- Art. 955
+- Art. 956704
+- Art. 956a705
+- Art. 956b706
+- Art. 957707
+- Art. 958
+- Art. 959
+- Art. 960
+- Art. 961
+- Art. 961a711
+- Art. 962712
+- Art. 962a713
+- Art. 963
+- Art. 964
+- Art. 965
+- Art. 966
+- Art. 967
+- Art. 968
+- Art. 969
+- Art. 970715
+- Art. 970a716
+- Art. 971
+- Art. 972
+- Art. 973
+- Art. 974
+- Art. 974a718
+- Art. 974b719
+- Art. 975
+- Art. 976721
+- Art. 976a722
+- Art. 976b723
+- Art. 976c724
+- Art. 977
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 4
+- Art. 5
+- Art. 6
+- Art. 6a728
+- Art. 6b730
+- Art. 6bbis 732
+- Art. 6c733
+- Art. 6cbis 735
+- Art. 6d736
+- Art. 7737
+- Art. 7a739
+- Art. 7abis 741
+- Art. 7b743
+- Art. 7c745
+- Art. 7d747
+- Art. 7e748
+- Art. 8750
+- Art. 8a751
+- Art. 8b752
+- Art. 9754
+- Art. 9a756
+- Art. 9b757
+- Art. 9c758
+- Art. 9d759
+- Art. 9e760
+- Art. 9f 761
+- Art. 9g762
+- Art. 10764
+- Art. 10a765
+- Art. 10b766
+- Art. 10c767
+- Art. 10d 768
+- Art. 10e769
+- Art. 11770
+- Art. 11a771
+- Art. 12772
+- Art. 12a775
+- Art. 12b778
+- Art. 12c779
+- Art. 12cbis 780
+- Art. 12d781
+- Art. 13782
+- Art. 13a783
+- Art. 13b784
+- Art. 13c785
+- Art. 13cbis 786
+- Art. 13d787
+- Art. 14788
+- Art. 14a791
+- Art. 15
+- Art. 16
+- Art. 17
+- Art. 18
+- Art. 19
+- Art. 20793
+- Art. 20bis 794
+- Art. 20ter 795
+- Art. 20quater 796
+- Art. 21
+- Art. 22
+- Art. 23
+- Art. 24
+- Art. 25
+- Art. 26
+- Art. 27
+- Art. 28
+- Art. 29
+- Art. 30
+- Art. 31 und 32800
+- Art. 33
+- Art. 33a802
+- Art. 33b803
+- Art. 34
+- Art. 35
+- Art. 36
+- Art. 37
+- Art. 38
+- Art. 39807
+- Art. 40
+- Art. 41
+- Art. 42809
+- Art. 43
+- Art. 44
+- Art. 45812
+- Art. 46
+- Art. 47
+- Art. 48
+- Art. 49813
+- Art. 50
+- Art. 51
+- Art. 52
+- Art. 53
+- Art. 54
+- Art. 55
+- Art. 55a821
+- Art. 56824
+- Art. 57825
+- Art. 58826
+- Art. 59829
+- Art. 60832
+- Art. 61836
+- Art. 178
+- Art. 179
+- Art. 180
+- Art. 181
+- Art. 182
+- Art. 183
+- Art. 184
+- Art. 185
+- Art. 186
+- Art. 187
+- Art. 188
+- Art. 189
+- Art. 190
+- Art. 191
+- Art. 192
+- Art. 193
+- Art. 194
+- Art. 195
+- Art. 196
+- Art. 197
+- Art. 198
+- Art. 199
+- Art. 200
+- Art. 201
+- Art. 202
+- Art. 203
+- Art. 204
+- Art. 205
+- Art. 206
+- Art. 207
+- Art. 208
+- Art. 209
+- Art. 210
+- Art. 211
+- Art. 212
+- Art. 213
+- Art. 214
+- Art. 215
+- Art. 216
+- Art. 217
+- Art. 218
+- Art. 219
+- Art. 220
+- Art. 221
+- Art. 222
+- Art. 223
+- Art. 224
+- Art. 225
+- Art. 226
+- Art. 227
+- Art. 228
+- Art. 229
+- Art. 230
+- Art. 231
+- Art. 232
+- Art. 233
+- Art. 234
+- Art. 235
+- Art. 236
+- Art. 237
+- Art. 238
+- Art. 239
+- Art. 240
+- Art. 241
+- Art. 242
+- Art. 243
+- Art. 244
+- Art. 245
+- Art. 246
+- Art. 247
+- Art. 248
+- Art. 249
+- Art. 250
+- Art. 251
+
+### SR 211.111.1 – Bundesgesetz vom 17. Dezember 2004 über Voraussetzungen und Verfahren bei Sterilisationen (Sterilisationsgesetz)
+
+ELI: `/eli/cc/2005/425/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Sterilisation
+- Art. 3 Sterilisation von Personen unter 18 Jahren
+- Art. 4 Sterilisation vorübergehend Urteilsunfähiger
+- Art. 5 Sterilisation Urteilsfähiger
+- Art. 6 Sterilisation von Personen unter umfassender Beistandschaft4
+- Art. 7 Sterilisation dauernd Urteilsunfähiger
+- Art. 8 Zustimmung der Erwachsenenschutzbehörde7
+- Art. 99 Gerichtliche Beurteilung des Entscheids
+der Erwachsenenschutzbehörde
+- Art. 10 Berichterstattung
+- Art. 11
+
+### SR 211.112.2 – Zivilstandsverordnung vom 28. April 2004 (ZStV)
+
+ELI: `/eli/cc/2004/362/de`
+
+- Art. 14 Zivilstandskreise
+- Art. 1a5 Amtssitz und Amtsräume
+- Art. 2 Sonderzivilstandsämter
+- Art. 3 Amtssprache
+- Art. 412 Zivilstandsbeamtin und Zivilstandsbeamter
+- Art. 515 Vertretungen der Schweiz im Ausland
+- Art. 627 Zivilstandsformulare
+- Art. 6a28 Zivilstandsregister, Personenstandsregister
+- Art. 7 Personenstand
+- Art. 836 Beurkundete Daten
+- Art. 8a37 Weitere Geschäfte und Daten
+- Art. 9 Geburt
+- Art. 9a43 Fehlgeburt
+- Art. 9b44 Form der Meldung, Zuständigkeit, Aufbewahrung
+- Art. 9c46 Bestätigung der Fehlgeburt
+- Art. 10 Findelkind
+- Art. 11 Kindesanerkennung
+- Art. 11a52 Wirkung der Anerkennung auf die Namensführung des Kindes
+- Art. 11b53 Anerkennung und Erklärung über die gemeinsame elterliche Sorge
+- Art. 1257 Namenserklärung vor der Trauung
+- Art. 12a61
+- Art. 1362 Namenserklärung nach Auflösung der Ehe
+- Art. 13a63 Namenserklärung nach Auflösung der eingetragenen Partnerschaft
+- Art. 14 Erklärung über die Unterstellung unter das Heimatrecht64
+- Art. 14a71 Namenserklärung nach Artikel 8a Schlusstitel ZGB
+- Art. 14b72 Erklärung über die Änderung des im Personenstandsregister eingetragenen Geschlechts
+- Art. 1574 Grundsätze
+- Art. 15a76 Aufnahme in das Personenstandsregister
+- Art. 15b81 Zusätzliche Identitäten im Personenstandsregister
+- Art. 16 Prüfung
+- Art. 16a98 Richtigkeitsbestätigung
+- Art. 17 Nachweis nicht streitiger Angaben (Art. 41 ZGB)
+- Art. 18101 Unterschrift
+- Art. 18a111 Beglaubigung
+- Art. 19112 Frist für die Beurkundung von Personenstandsdaten
+- Art. 19a113 Fehler
+- Art. 20114 Geburt
+- Art. 20a115 Tod
+- Art. 20b116 Besondere Fälle von Geburt und Tod
+- Art. 21119 Trauungen und Erklärungen120
+- Art. 22 Inländische Gerichtsurteile, Verwaltungsverfügungen
+und Einbürgerungen
+- Art. 23123 Ausländische Entscheidungen und Urkunden über den Zivilstand
+- Art. 23a128 Vorsorgeauftrag
+- Art. 24 Namen
+- Art. 25 Titel und Grade
+- Art. 26131 Ortsnamen
+- Art. 27136
+- Art. 28
+- Art. 29 Durch die Zivilstandsbehörden
+- Art. 29a142 Bereinigungen durch eine Zivilstandsbehörde eines anderen Kantons
+- Art. 30143 Durch die Gerichte
+- Art. 31144 Ablage
+- Art. 32 Aufbewahrungsfrist
+- Art. 33 Bekanntgabe von Daten aus den Belegen
+- Art. 34148 Geburt
+- Art. 34a151 Tod
+- Art. 35 Zuständige Behörde, Form und Frist der Meldung
+- Art. 35a162 Geburt eines Kindes mit einer Variante der Geschlechtsentwicklung
+- Art. 36 Bestattung
+- Art. 37163 Name des Kindes miteinander verheirateter Eltern
+- Art. 37a164 Name des Kindes nicht miteinander verheirateter Eltern
+- Art. 37b165 Zustimmung des Kindes
+- Art. 37c166 Vornamen des Kindes
+- Art. 38 Findelkind
+- Art. 39
+- Art. 40 Gerichte
+- Art. 41 Verwaltungsbehörden
+- Art. 42 Weitere Fälle
+- Art. 43 Zuständige Behörde, Form und Frist der Mitteilung
+- Art. 44 Amtsgeheimnis
+- Art. 44a183 Zuständigkeit für die Bekanntgabe
+- Art. 45 Voraussetzungen der Bekanntgabe
+- Art. 46 Sperrung der Bekanntgabe
+- Art. 46a192 Sperrung der Verwendung
+- Art. 47193 Form der Bekanntgabe
+- Art. 47a195 Urkunden in Papierform und Beglaubigungen von Dokumenten in Papierform
+- Art. 47b197 Elektronische Urkunden und elektronische Beglaubigungen
+- Art. 48 Beweiskraft
+- Art. 48a201 Zeitpunkt der Bekanntgabe
+- Art. 49202 An die Gemeindeverwaltung des Wohnsitzes oder Aufenthaltsortes
+- Art. 49a207 An das Zivilstandsamt des Heimatortes
+- Art. 50 An die Kindesschutzbehörde208
+- Art. 51218 An das Staatssekretariat für Migration219
+- Art. 52 An das Bundesamt für Statistik
+- Art. 52a227 An das Bundesamt für Polizei
+- Art. 53229 An die AHV-Behörde
+- Art. 54 An ausländische Behörden
+- Art. 55 Todesmeldungen an ausländische Vertretungen
+- Art. 56 An andere Stellen
+- Art. 57234
+- Art. 58 An Gerichte und Verwaltungsbehörden
+- Art. 59 An Private
+- Art. 60236 An Forschende
+- Art. 61 An ausländische Behörden
+- Art. 62 Zuständigkeit
+- Art. 63 Einreichung des Gesuchs
+- Art. 64240 Dokumente
+- Art. 65 Erklärungen
+- Art. 66 Prüfung des Gesuchs
+- Art. 67256 Abschluss des Vorbereitungsverfahrens
+- Art. 68260 Frist
+- Art. 69261 Mitwirkung
+- Art. 70 Ort
+- Art. 71 Form der Trauung
+- Art. 72 Besondere organisatorische Vorschriften
+- Art. 73 Wohnsitz im Ausland
+- Art. 74269
+- Art. 74a270 Umgehung des Ausländerrechts
+- Art. 75
+- Art. 75a–75m
+- Art. 75n Umwandlungserklärung
+- Art. 75o Zeremonielle Umwandlung
+- Art. 76278 Verantwortliche Organe
+- Art. 77279 Finanzierung, Leistungen und Gebühren
+- Art. 78280 Einbezug der Kantone in die Entwicklung
+- Art. 78a281 Fachkommission
+- Art. 78b282 Fachpersonen
+- Art. 79 Zugriffsrechte
+- Art. 79a286 Sicherung der Daten
+- Art. 80287 Zeichensatz
+- Art. 81 Auskunftsrecht
+- Art. 82 Datensicherheit
+- Art. 83 Aufsicht
+- Art. 84 Behörden
+- Art. 85 Inspektion und Berichterstattung
+- Art. 86 Einschreiten von Amtes wegen
+- Art. 87 Entlassung und Nichtwiederwahl einer Zivilstandsbeamtin oder eines Zivilstandsbeamten
+- Art. 88304 Registertechnische Anpassung von Gruppen von Personenstandsdaten
+- Art. 89 Verfahrensgrundsätze
+- Art. 90 Rechtsmittel
+- Art. 91
+- Art. 92315 Weiterverwendung bisheriger Informatikmittel
+- Art. 92a316 Zugang zu den in Papierform geführten Zivilstandsregistern
+- Art. 92b321 Bekanntgabe von Daten aus den in Papierform
+geführten Zivilstandsregistern und den Belegen
+- Art. 92c324 Sicherung der in Papierform geführten Zivilstandsregister
+- Art. 93 Rückerfassung von Personenstandsdaten
+- Art. 94328
+- Art. 95 Eidgenössischer Fachausweis329
+- Art. 96 Trauung durch Mitglieder einer Gemeindeexekutive331
+- Art. 97335
+- Art. 98336 Randanmerkungen und Löschungen
+- Art. 99 Aufhebung und Änderung bisherigen Rechts
+- Art. 99a342 Übergangsbestimmung zur Änderung vom 21. November 2007
+- Art. 99b344 Übergangsbestimmung zur Änderung vom 7. November 2012
+- Art. 99c345
+- Art. 99d346 Übergangsbestimmung zur Änderung vom 31. Oktober 2018
+- Art. 99e347
+- Art. 99f348 Übergangsbestimmungen zur Änderung vom 26. Juni 2024
+- Art. 100 Inkrafttreten
+
+### SR 211.121.3 – Verordnung vom 24. August 2005 über die Revisionsstelle von Stiftungen
+
+ELI: `/eli/cc/2005/592/de`
+
+- Art. 1 Befreiung von der Pflicht zur Bezeichnung einer Revisionsstelle
+- Art. 25
+- Art. 3 Inkrafttreten
+
+### SR 211.214.32 – Verordnung vom 6. Dezember 2019 über die Inkassohilfe bei familienrechtlichen Unterhaltsansprüchen (Inkassohilfeverordnung, InkHV)
+
+ELI: `/eli/cc/2020/4/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Organisation der Inkassohilfe
+- Art. 3 Gegenstand der Inkassohilfe
+- Art. 4 Unterhaltstitel
+- Art. 5 Zuständigkeit
+- Art. 6 Informationsaustausch und Koordination zwischen den Fachstellen
+- Art. 7 Informationsgesuch an andere Behörden
+- Art. 8 Zulässigkeit des Gesuchs
+- Art. 9 Inhalt und Form des Gesuchs
+- Art. 10 Mitwirkungspflicht der berechtigten Person
+- Art. 11 Vorgehen der Fachstelle
+- Art. 12 Leistungen der Fachstelle
+- Art. 13 Meldungen der Fachstelle an die Vorsorge-
+oder Freizügigkeitseinrichtung
+- Art. 14 Meldung der Vorsorge- oder Freizügigkeitseinrichtung
+an die Fachstelle
+- Art. 15
+- Art. 16
+- Art. 17 Leistungen der Fachstelle
+- Art. 18 Leistungen Dritter: Kostenvorschuss
+- Art. 19 Leistungen Dritter: Kostentragung
+- Art. 20 Grundsatz
+- Art. 21 Zuständigkeiten
+- Art. 22 Kosten der Inkassohilfe
+- Art. 23 Übergangsbestimmung
+- Art. 24 Inkrafttreten
+
+### SR 211.221.31 – Bundesgesetz vom 22. Juni 2001 zum Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen (BG-HAÜ)
+
+ELI: `/eli/cc/2002/639/de`
+
+- Art. 1
+- Art. 2 Zentrale Behörde des Bundes
+- Art. 3 Zentrale Behörden der Kantone
+- Art. 4 Einleitung des Verfahrens
+- Art. 5 Dossier über die Adoptiveltern
+- Art. 6 Einverständnis der Adoptiveltern
+- Art. 7 Fortsetzung des Verfahrens
+- Art. 8 Voraussetzungen für die Fortsetzung des Verfahrens
+- Art. 9 Bewilligung der Adoption im Heimatstaat
+- Art. 10 Einreise des Kindes
+- Art. 11 Meldepflicht
+- Art. 12 Adoptionsbescheinigung
+- Art. 13 Adoption von Kindern aus der Schweiz im Ausland
+- Art. 14 Auskunftspflicht
+- Art. 15 Gebühren
+- Art. 16 Rechtsmittel
+- Art. 17 Beistandschaft bei Adoption vor der Einreise
+- Art. 18 Vormundschaft bei Adoption nach der Einreise
+- Art. 19 Massnahmen bei Aufnahme ohne Bewilligung
+- Art. 20 Unterhaltspflicht
+- Art. 21
+- Art. 22 Aufnahme ohne Bewilligung und Widerhandlung gegen Auflagen
+- Art. 23 Verschaffen unstatthafter Vermögensvorteile
+- Art. 24 Kinderhandel
+- Art. 25 Zuständigkeit
+- Art. 26 Ausführungsbestimmungen
+- Art. 27 Übergangsbestimmungen
+- Art. 28 Referendum und Inkrafttreten
+
+### SR 211.221.36 – Verordnung vom 29. Juni 2011 über die Adoption (Adoptionsverordnung, AdoV)
+
+ELI: `/eli/cc/2011/505/de`
+
+- Art. 1 Gegenstand und Geltungsbereich
+- Art. 2 Zuständige Behörden
+- Art. 3 Kindeswohl
+- Art. 4 Bewilligungspflicht
+- Art. 5 Adoptionseignung
+- Art. 6 Eignungsbescheinigung
+- Art. 7 Bewilligung
+- Art. 8 Kantonale Migrationsbehörde
+- Art. 9 Meldepflichten
+- Art. 10 Aufsicht
+- Art. 11 Sanktionen
+- Art. 12 Bewilligungspflicht
+- Art. 13 Bewilligungsvoraussetzungen
+- Art. 14 Erteilung der Bewilligung
+- Art. 15 Meldungen wesentlicher Änderungen
+- Art. 16 Vorschlag zur Aufnahme eines Kindes zur Adoption
+- Art. 17 Information und Beratung
+- Art. 18 Entgelt
+- Art. 19 Aktenführung
+- Art. 20 Berichterstattung und Auskunftspflicht
+- Art. 21 Zusammenarbeit
+- Art. 22 Schweigepflicht
+- Art. 23 Sanktionen
+- Art. 24 Anwendbarkeit der Allgemeinen Gebührenverordnung
+- Art. 25 Gebührenpflicht
+- Art. 26 Gebührenbemessung
+- Art. 27 Gebührenermässigung oder Gebührenerlass
+- Art. 28 Aufhebung und Änderung bisherigen Rechts
+- Art. 29 Inkrafttreten
+
+### SR 211.222.32 – Bundesgesetz vom 21. Dezember 2007 über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen (BG-KKE)
+
+ELI: `/eli/cc/2009/379/de`
+
+- Art. 1 Zentrale Behörde des Bundes
+- Art. 2 Zentrale Behörden der Kantone
+- Art. 3 Fachpersonen und Institutionen
+- Art. 4 Vermittlungsverfahren oder Mediation
+- Art. 5 Rückführung und Kindeswohl
+- Art. 6 Schutzmassnahmen
+- Art. 7 Zuständiges Gericht
+- Art. 8 Gerichtsverfahren
+- Art. 9 Anhörung und Vertretung des Kindes
+- Art. 10 Internationale Zusammenarbeit
+- Art. 11 Rückführungsentscheid
+- Art. 12 Vollstreckung
+- Art. 13 Änderung des Rückführungsentscheids
+- Art. 14 Kosten
+- Art. 15 Änderung bisherigen Rechts
+- Art. 16 Übergangsbestimmung
+
+### SR 211.222.338 – Verordnung vom 19. Oktober 1977 über die Aufnahme von Pflegekindern (Pflegekinderverordnung, PAVO)
+
+ELI: `/eli/cc/1977/1931_1931_1931/de`
+
+- Art. 1 Grundsätze8
+- Art. 1a12 Kindeswohl
+- Art. 213 Zuständige Behörde
+- Art. 2a15 Internationale Verhältnisse
+- Art. 3 Kantonales Recht
+- Art. 418 Bewilligungspflicht
+- Art. 5 Allgemeine Voraussetzungen der Bewilligung
+- Art. 620 Aufnahme ausländischer Kinder
+- Art. 6a21
+- Art. 6b22 Erleichterte Aufnahme ausländischer Kinder
+- Art. 724 Untersuchung
+- Art. 8 Bewilligung
+- Art. 8a27 Kantonale Migrationsbehörde
+- Art. 8b28 Meldepflicht
+- Art. 9 Änderung der Verhältnisse
+- Art. 1029 Aufsicht
+- Art. 11 Widerruf der Bewilligung
+- Art. 11a–11j33
+- Art. 12
+- Art. 13 Bewilligungspflicht
+- Art. 14 Bewilligungsgesuch
+- Art. 15 Voraussetzungen der Bewilligung
+- Art. 16 Bewilligung
+- Art. 16a40 Umplatzierungen
+- Art. 17 Führen von Verzeichnissen41
+- Art. 18 Änderung der Verhältnisse
+- Art. 19 Aufsicht
+- Art. 20 Widerruf der Bewilligung
+- Art. 20a Meldepflicht
+- Art. 20b Meldung
+- Art. 20c Änderung der Verhältnisse
+- Art. 20d Führen von Verzeichnissen
+- Art. 20e Aufsicht
+- Art. 20f Aufsichtsmassnahmen
+- Art. 21 Aktenführung
+- Art. 22 Schweigepflicht
+- Art. 23 Mitteilung
+- Art. 24 Rechtshilfe
+- Art. 25 Unentgeltlichkeit
+- Art. 26 Sanktionen61
+- Art. 27 Beschwerdeverfahren
+- Art. 28 Bestehende Pflegeverhältnisse
+- Art. 29 Aufhebung kantonalen Rechts
+- Art. 29a66 Übergangsbestimmung zur Änderung vom 10. Oktober 2012
+- Art. 30 Inkrafttreten
+
+### SR 211.223.11 – Verordnung vom 23. August 2023 über die Vermögensverwaltung im Rahmen einer Beistandschaft oder Vormundschaft (VBVV)
+
+ELI: `/eli/cc/2023/486/de`
+
+- Art. 1 Gegenstand, Geltungsbereich, Begriffe
+- Art. 2 Grundsätze der Vermögensanlage
+- Art. 3 Bargeld
+- Art. 4 Aufbewahrung von Wertsachen
+- Art. 5 Berücksichtigung der persönlichen Verhältnisse der betroffenen Person
+- Art. 6 Sicherstellung des gewöhnlichen Lebensunterhalts
+- Art. 7 Anlagen für weitergehende Bedürfnisse
+- Art. 8 Umwandlung in zulässige Anlagen
+- Art. 9 Entscheide und Bewilligungen der KESB
+- Art. 10 Verträge über die Anlage, Aufbewahrung und Verwaltung von Vermögenswerten; Belege, Auskunft und Einsicht
+- Art. 11 Dokumentationspflicht und Weisungsrecht
+- Art. 12 Aufhebung eines anderen Erlasses
+- Art. 13 Übergangsbestimmungen
+- Art. 14 Inkrafttreten
+
+### SR 211.223.13 – Bundesgesetz vom 30. September 2016 über die Aufarbeitung der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981 (AFZFG)
+
+ELI: `/eli/cc/2017/145/de`
+
+- Art. 1 Zweck, Geltungsbereich und Gegenstand
+- Art. 2 Begriffe
+- Art. 3 Anerkennung des Unrechts
+- Art. 4 Grundsätze
+- Art. 5 Gesuche
+- Art. 6 Prüfung der Gesuche und Entscheid
+- Art. 716 Betrag und Auszahlung
+- Art. 8 Rechtsschutz
+- Art. 9 Finanzierung17
+- Art. 10 Archivierung
+- Art. 11 Akteneinsicht
+- Art. 12 Unterstützung durch die kantonalen Archive
+- Art. 13 Sparguthaben von Betroffenen
+- Art. 14
+- Art. 15 Wissenschaftliche Aufarbeitung
+- Art. 16 Zeichen der Erinnerung
+- Art. 17
+- Art. 18 Zuständige Behörde und beratende Kommission
+- Art. 19 Ausführungsbestimmungen
+- Art. 20 Erlöschen von Forderungen
+- Art. 21 Aufhebung und Änderung anderer Erlasse
+- Art. 21a24 Übergangsbestimmungen zur Änderung vom 20. Dezember 2019
+- Art. 21b27 Übergangsbestimmung zur Änderung vom 19. Juni 2020
+- Art. 21c29 Übergangsbestimmung zur Änderung vom 27. September 2024
+- Art. 22 Referendum und Inkrafttreten
+
+### SR 211.223.131 – Verordnung vom 15. Februar 2017 zum Bundesgesetz über die Aufarbeitung der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981 (AFZFV)
+
+ELI: `/eli/cc/2017/146/de`
+
+- Art. 1
+- Art. 2 Einreichung der Gesuche
+- Art. 3 Opfereigenschaft
+- Art. 4 Prüfung der Gesuche
+- Art. 5 Beratende Kommission
+- Art. 6 Entscheid und Auszahlung des Solidaritätsbeitrags
+- Art. 6a8 Solidaritätsbeitrag im Todesfall des Opfers
+- Art. 6b9 Rechtsschutz
+- Art. 7 Aufbewahrung und Archivierung beim Bund
+- Art. 8 Administrative Aufbewahrung
+- Art. 9 Schutzfrist und Einsichtnahme während der Schutzfrist
+- Art. 10 Förderung von Selbsthilfeprojekten
+- Art. 11 Gesuche um Finanzhilfen für Selbsthilfeprojekte
+- Art. 12 Informations- und Erfahrungsaustausch
+- Art. 12a Plattform für Suchdienste
+- Art. 13
+
+### SR 211.231 – Bundesgesetz vom 18. Juni 2004 über die eingetragene Partnerschaft gleichgeschlechtlicher Paare (Partnerschaftsgesetz, PartG)
+
+ELI: `/eli/cc/2005/782/de`
+
+- Art. 1
+- Art. 2
+- Art. 3 und 45
+- Art. 5–86
+- Art. 97 Absolute Ungültigkeitsgründe: Allgemeine Gründe
+- Art. 9a8 Absolute Ungültigkeitsgründe: Eingetragene Partnerschaften mit Minderjährigen
+- Art. 9b9 Absolute Ungültigkeitsgründe: Klage
+- Art. 10 Relative Ungültigkeitsgründe10
+- Art. 11 Wirkungen des Ungültigkeitsurteils
+- Art. 12 Beistand und Rücksicht
+- Art. 12a11 Name
+- Art. 13 Unterhalt
+- Art. 14 Gemeinsame Wohnung
+- Art. 15 Vertretung der Gemeinschaft
+- Art. 16 Auskunftspflicht
+- Art. 17 Aufhebung des Zusammenlebens
+- Art. 18 Vermögen
+- Art. 19 Beweis
+- Art. 20 Inventar
+- Art. 21 Verwaltungsauftrag
+- Art. 22 Beschränkung der Verfügungsbefugnis
+- Art. 23 Schulden zwischen Partnerinnen oder Partnern
+- Art. 24 Zuweisung von Miteigentum
+- Art. 25 Vermögensvertrag
+- Art. 2619
+- Art. 27 Kinder der Partnerin oder des Partners
+- Art. 27a21 Stiefkindadoption
+- Art. 2823 Adoption und Fortpflanzungsmedizin
+- Art. 29 Gemeinsames Begehren
+- Art. 30 Klage
+- Art. 30a24 Name
+- Art. 31 Erbrecht
+- Art. 32 Zuteilung der gemeinsamen Wohnung
+- Art. 33 Berufliche Vorsorge
+- Art. 34 Unterhaltsbeitrag
+- Art. 3529 Umwandlungserklärung
+- Art. 35a30 Wirkungen der Umwandlungserklärung
+- Art. 36 Änderung bisherigen Rechts
+- Art. 37 Koordination mit Änderungen anderer Erlasse
+- Art. 37a32 Übergangsbestimmung zur Änderung vom 30. September 2011
+- Art. 37b33 Übergangsbestimmungen zur Änderung vom 14. Juni 2024
+- Art. 38 Referendum und Inkrafttreten
+
+### SR 211.412.11 – Bundesgesetz vom 4. Oktober 1991 über das bäuerliche Bodenrecht (BGBB)
+
+ELI: `/eli/cc/1993/1410_1410_1410/de`
+
+- Art. 1
+- Art. 2 Allgemeiner Geltungsbereich
+- Art. 3 Besonderer Geltungsbereich
+- Art. 4 Besondere Bestimmungen für landwirtschaftliche Gewerbe
+- Art. 5 Vorbehalte kantonalen Rechts
+- Art. 6 Landwirtschaftliches Grundstück
+- Art. 7 Landwirtschaftliches Gewerbe; im Allgemeinen
+- Art. 812 Landwirtschaftliches Gewerbe; besondere Fälle
+- Art. 9 Selbstbewirtschafter
+- Art. 10 Ertragswert
+- Art. 10a16 Eingetragene Partnerschaften
+- Art. 11 Anspruch auf Zuweisung eines landwirtschaftlichen Gewerbes
+- Art. 12 Aufschiebung der Erbteilung
+- Art. 13 Anspruch auf Zuweisung von Miteigentumsanteilen
+- Art. 14 Anspruch auf Zuweisung bei Gesamteigentum
+- Art. 15 Betriebsinventar, nichtlandwirtschaftliches Nebengewerbe
+- Art. 1618
+- Art. 17 Anrechnung an den Erbteil
+- Art. 18 Erhöhung des Anrechnungswerts
+- Art. 19 Verfügungen des Erblassers bei mehreren übernahmewilligen Erben
+- Art. 20 Fehlen einer Verfügung
+- Art. 21 Anspruch auf Zuweisung eines landwirtschaftlichen Grundstücks
+- Art. 2219
+- Art. 23 Sicherung der Selbstbewirtschaftung; Veräusserungsverbot
+- Art. 24 Sicherung der Selbstbewirtschaftung; Kaufsrecht
+- Art. 25 Grundsatz
+- Art. 26 Konkurrenz mit erbrechtlichem Zuweisungsanspruch
+- Art. 27 Voraussetzungen und Bedingungen
+- Art. 28 Grundsatz
+- Art. 29 Veräusserung
+- Art. 30 Fälligkeit
+- Art. 31 Gewinn
+- Art. 32 Abzug für Realersatz
+- Art. 33 Abzug für Ausbesserung und für Ersatz von Bauten und Anlagen
+- Art. 34 Sicherung des Gewinnanspruchs
+- Art. 35 Aufhebung oder Änderung des Gewinnanspruchs
+- Art. 36 Zuweisungsanspruch; Grundsatz
+- Art. 37 Anrechnungswert
+- Art. 38 Anwendung erbrechtlicher Bestimmungen
+- Art. 39 Aufhebung und Abänderung
+- Art. 40 Zustimmung des Ehegatten
+- Art. 41 Vertraglicher Gewinnanspruch und vertragliches Rückkaufsrecht
+- Art. 42 Gegenstand und Rangordnung
+- Art. 43 Vorkaufsfall
+- Art. 44 Übernahmepreis
+- Art. 45 Gemeinschaftliches Eigentum
+- Art. 46 Berechtigte im gleichen Rang
+- Art. 47 Gegenstand
+- Art. 4830 Verzicht auf das Vorkaufsrecht
+- Art. 49
+- Art. 5032
+- Art. 51 Umfang des Vorkaufsrechts, Übernahmepreis
+- Art. 52 Erhöhung des Übernahmepreises
+- Art. 53 Gewinnanspruch des Veräusserers
+- Art. 54 Sicherung der Selbstbewirtschaftung; Veräusserungsverbot
+- Art. 55 Sicherung der Selbstbewirtschaftung; Rückkaufsrecht
+- Art. 56
+- Art. 57
+- Art. 58 Realteilungs- und Zerstückelungsverbot
+- Art. 59 Ausnahmen
+- Art. 60 Bewilligung von Ausnahmen
+- Art. 61 Grundsatz
+- Art. 62 Ausnahmen
+- Art. 63 Verweigerungsgründe
+- Art. 64 Ausnahmen vom Prinzip der Selbstbewirtschaftung
+- Art. 65 Erwerb durch das Gemeinwesen
+- Art. 66 Übersetzter Erwerbspreis
+- Art. 67 Zwangsversteigerung
+- Art. 6854
+- Art. 69 Unzulässigkeit freiwilliger Versteigerung
+- Art. 70 Nichtige Rechtsgeschäfte
+- Art. 71 Widerruf der Bewilligung
+- Art. 72 Berichtigung des Grundbuchs
+- Art. 73 Belastungsgrenze
+- Art. 74 Gesamtpfandrechte
+- Art. 75 Ausnahmen von der Belastungsgrenze
+- Art. 76 Überschreitung der Belastungsgrenze
+- Art. 77 Gewährung von pfandgesicherten Darlehen
+- Art. 78 Rückzahlungspflicht
+- Art. 79 Anerkennung von Genossenschaften, Stiftungen und
+kantonalen Institutionen
+- Art. 80 Zuständigkeit
+- Art. 81 Behandlung durch den Grundbuchverwalter
+- Art. 8264
+- Art. 83 Bewilligungsverfahren
+- Art. 84 Feststellungsverfügung
+- Art. 85 Änderung eines Nutzungsplanes
+- Art. 86 Anmerkung im Grundbuch
+- Art. 87 Schätzung des Ertragswerts
+- Art. 88 …68
+- Art. 8970 Beschwerde an das Bundesgericht
+- Art. 90 Zuständigkeit der Kantone
+- Art. 91 Zuständigkeit des Bundes
+- Art. 92 Änderung bisherigen Rechts
+- Art. 93 Aufhebung bisherigen Rechts
+- Art. 94 Privatrecht
+- Art. 95 Übrige Bestimmungen
+- Art. 95a77 Übergangsbestimmungen zur Änderung vom 20. Juni 2003
+- Art. 95b78 Übergangsbestimmung zur Änderung vom 5. Oktober 2007
+- Art. 96
+
+### SR 211.412.110 – Verordnung vom 4. Oktober 1993 über das bäuerliche Bodenrecht (VBB)
+
+ELI: `/eli/cc/1993/2904_2904_2904/de`
+
+- Art. 13 Art der Berechnung und Bemessungsperiode
+- Art. 24 Schätzung5
+- Art. 2a9
+- Art. 3 Ausnahmen von der Anmerkungspflicht
+- Art. 4 Löschung der Anmerkungen von Amtes wegen
+- Art. 4a14 Verfahrenskoordination
+- Art. 5 Zuständigkeit des Bundesamtes für Justiz16
+- Art. 6 Aufhebung bisherigen Rechts
+- Art. 7 Änderung bisherigen Rechts
+- Art. 8 Inkrafttreten
+
+### SR 211.412.41 – Bundesgesetz vom 16. Dezember 1983 über den Erwerb von Grundstücken durch Personen im Ausland (BewG)
+
+ELI: `/eli/cc/1984/1148_1148_1148/de`
+
+- Art. 1 Zweck
+- Art. 2 Bewilligungspflicht
+- Art. 3 Bundesrecht und kantonales Recht
+- Art. 4 Erwerb von Grundstücken
+- Art. 5 Personen im Ausland
+- Art. 6 Beherrschende Stellung
+- Art. 7 Übrige Ausnahmen von der Bewilligungspflicht21
+- Art. 7a28 Institutionelle Begünstigte von Vorrechten, Immunitäten
+und Erleichterungen
+- Art. 8 Allgemeine Bewilligungsgründe
+- Art. 9 Kantonale Bewilligungsgründe34
+- Art. 10 Apparthotels
+- Art. 1138 Bewilligungskontingente
+- Art. 12 Zwingende Verweigerungsgründe
+- Art. 13 Weitergehende kantonale Beschränkungen
+- Art. 14 Bedingungen und Auflagen
+- Art. 15 Kantonale Behörden
+- Art. 16 Bundesbehörden
+- Art. 17 Bewilligungsverfahren
+- Art. 18 Grundbuch und Handelsregister
+- Art. 19 Zwangsversteigerung
+- Art. 20 Beschwerde an die kantonale Beschwerdeinstanz
+- Art. 2144 Beschwerde an Bundesbehörden
+- Art. 22 Beweiserhebung
+- Art. 23 Vorsorgliche Massnahmen
+- Art. 24 Rechts- und Amtshilfe
+- Art. 25 Widerruf der Bewilligung und nachträgliche Feststellung
+der Bewilligungspflicht46
+- Art. 26 Unwirksamkeit und Nichtigkeit
+- Art. 27 Beseitigung des rechtswidrigen Zustandes
+- Art. 28 Umgehung der Bewilligungspflicht
+- Art. 29 Unrichtige Angaben
+- Art. 30 Missachtung von Auflagen
+- Art. 31 Verweigerung von Auskunft oder Edition
+- Art. 32 Verjährung
+- Art. 33 Einziehung unrechtmässiger Vermögensvorteile
+- Art. 34 Widerhandlungen im Geschäftsbetrieb
+- Art. 35 Strafverfolgung
+- Art. 36 Ausführungsbestimmungen
+- Art. 37 Aufhebung und Änderung anderer Erlasse
+- Art. 38 Übergangsbestimmung
+- Art. 39 Bewilligungskontingente
+- Art. 40 Referendum und Inkrafttreten
+
+### SR 211.412.411 – Verordnung vom 1. Oktober 1984 über den Erwerb von Grundstücken durch Personen im Ausland (BewV)
+
+ELI: `/eli/cc/1984/1164_1164_1164/de`
+
+- Art. 1 Erwerb von Grundstücken
+- Art. 26 Personen im Ausland
+- Art. 314 Erstellung und gewerbsmässige Vermietung von Wohnraum
+- Art. 4 Härtefall
+- Art. 5 Hauptwohnung
+- Art. 6 Zweitwohnung
+- Art. 7 Apparthotels
+- Art. 823 Erwerb einer Wohnung durch eine natürliche Person
+- Art. 9 Bewilligungskontingente
+- Art. 10 Zulässige Fläche
+- Art. 11 Bedingungen und Auflagen
+- Art. 12 Verfall der Bewilligungen
+- Art. 13–1436
+- Art. 15 Feststellung der Bewilligungspflicht
+- Art. 16 Örtliche Zuständigkeit
+- Art. 17 Eröffnung von Verfügungen
+- Art. 18 Prüfung und Beweiserhebung
+- Art. 18a45 Prüfung durch Grundbuchamt und Steigerungsbehörde
+- Art. 18b50 Prüfung durch das Handelsregisteramt
+- Art. 19 Stellungnahme anderer Behörden
+- Art. 20 Statistik
+- Art. 21 Aufhebung von Erlassen
+- Art. 22 Inkrafttreten
+
+### SR 211.413.1 – Verordnung vom 19. Dezember 1910 betreffend die Eintragung der Eigentumsvorbehalte
+
+ELI: `/eli/cc/27/215_211_275/de`
+
+- Art. 1
+- Art. 2
+- Art. 35
+- Art. 46
+- Art. 4bis 8
+- Art. 5
+- Art. 6
+- Art. 7
+- Art. 8
+- Art. 9
+- Art. 10
+- Art. 11
+- Art. 12
+- Art. 13
+- Art. 14
+- Art. 1513
+- Art. 1615
+- Art. 16bis 16
+- Art. 17
+- Art. 18
+- Art. 19
+- Art. 20
+- Art. 21
+- Art. 2218
+- Art. 23
+
+### SR 211.413.11 – Verordnung des Bundesgerichtes vom 29. März 1939 betreffend die Bereinigung der Eigentumsvorbehaltsregister
+
+ELI: `/eli/cc/55/427_433_388/de`
+
+- Art. 1
+- Art. 2
+- Art. 33
+- Art. 4
+- Art. 5
+- Art. 6
+- Art. 7
+
+### SR 211.423.1 – Verordnung vom 30. Oktober 1917 betreffend die Viehverpfändung
+
+ELI: `/eli/cc/33/913_943_962/de`
+
+- Art. 1
+- Art. 2
+- Art. 35
+- Art. 46
+- Art. 57
+- Art. 6
+- Art. 7
+- Art. 8
+- Art. 9
+- Art. 10
+- Art. 11
+- Art. 12
+- Art. 13
+- Art. 14
+- Art. 15
+- Art. 16
+- Art. 17
+- Art. 18
+- Art. 19
+- Art. 20
+- Art. 21
+- Art. 22
+- Art. 23
+- Art. 24
+- Art. 25
+- Art. 26
+- Art. 27
+- Art. 28−3211
+- Art. 33
+- Art. 34
+- Art. 35
+- Art. 36
+- Art. 37–4412
+- Art. 45–4713
+- Art. 48
+
+### SR 211.423.4 – Pfandbriefgesetz vom 25. Juni 1930 (PfG)
+
+ELI: `/eli/cc/47/109_113_57/de`
+
+- Art. 1
+- Art. 2
+- Art. 34
+- Art. 4
+- Art. 56
+- Art. 6
+- Art. 78
+- Art. 89
+- Art. 910
+- Art. 1011
+- Art. 11
+- Art. 12
+- Art. 13
+- Art. 1412
+- Art. 15
+- Art. 16
+- Art. 17
+- Art. 18
+- Art. 19
+- Art. 20
+- Art. 21
+- Art. 22
+- Art. 2313
+- Art. 24
+- Art. 25
+- Art. 26
+- Art. 27
+- Art. 2815
+- Art. 2916
+- Art. 30
+- Art. 31
+- Art. 32
+- Art. 33
+- Art. 34
+- Art. 35
+- Art. 36
+- Art. 37
+- Art. 38
+- Art. 38a18
+- Art. 38b22
+- Art. 3923
+- Art. 4025
+- Art. 40a26
+- Art. 4128
+- Art. 4230
+- Art. 4332
+- Art. 44
+- Art. 4533
+- Art. 4635
+- Art. 4737
+- Art. 48–4938
+- Art. 5039
+- Art. 51
+- Art. 52
+
+### SR 211.423.41 – Pfandbriefverordnung vom 23. Januar 1931 (PfV)
+
+ELI: `/eli/cc/47/121_125_70/de`
+
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 4
+- Art. 5
+- Art. 6
+- Art. 76
+- Art. 88
+- Art. 9
+- Art. 10
+- Art. 119
+- Art. 12
+- Art. 13
+- Art. 1413 Verwaltung der Deckung
+- Art. 14a14 Ergänzung der Deckung
+- Art. 14b15 Mindestdeckung
+- Art. 1517
+- Art. 1618
+- Art. 17
+- Art. 1820 Zwischenbilanzen21
+- Art. 1934
+- Art. 2035 Erfolgsrechnung36
+- Art. 2139
+- Art. 21a40 Offenlegung
+- Art. 21abis 42
+- Art. 21b
+- Art. 22–2446
+- Art. 25
+
+### SR 211.432.1 – Grundbuchverordnung vom 23. September 2011 (GBV)
+
+ELI: `/eli/cc/2011/667/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Begriffe
+- Art. 3 Gleichwertigkeit der Formen
+- Art. 4 Grundbuchämter
+- Art. 5 Amtssprache
+- Art. 6 Oberaufsicht des Bundes
+- Art. 7 Eröffnung von Beschwerdeentscheiden
+- Art. 8 Führung des Grundbuchs
+- Art. 9 Gliederung des Hauptbuchblatts
+- Art. 10 Tagebuch
+- Art. 11 Eigentümerregister des Papiergrundbuchs13
+- Art. 12 Gläubigerregister des Papiergrundbuchs14
+- Art. 12a15 Personenidentifikationsregister des informatisierten Grundbuchs
+- Art. 13 Weitere Hilfsregister16
+- Art. 14 Verfügbarkeit der Grundbuchdaten
+- Art. 15 Meldung von Systemänderungen
+- Art. 16 Örtliche Zuständigkeit
+- Art. 17 Aufnahme von Grundstücken in das Grundbuch
+- Art. 18 Bezeichnung der Grundstücke
+- Art. 19 Eidgenössische Grundstücksidentifikation
+- Art. 20 Grundstücksbeschreibung
+- Art. 2117 Darstellung von Grundstücken im Plan für das Grundbuch
+- Art. 22 Aufnahme von selbstständigen und dauernden Rechten
+und Bergwerken
+- Art. 23 Aufnahme von Miteigentumsanteilen
+- Art. 23a Personenidentifikationsregister
+- Art. 23b Datenquellen
+- Art. 23c Zuordnung der AHV-Nummer im Bearbeitungsverfahren
+- Art. 23d Periodische Überprüfung
+- Art. 23e Technische Einzelheiten
+- Art. 24 Übertragung im Papiergrundbuch
+- Art. 25 Schliessung eines Hauptbuchblatts
+- Art. 26 Öffentlich zugängliche Daten des Hauptbuchs
+- Art. 27 Elektronischer Zugang25
+- Art. 2828 Erweiterter elektronischer Zugang: Zugriffsberechtigung
+- Art. 2936 Erweiterter elektronischer Zugang: Modalitäten
+- Art. 3037 Erweiterter elektronischer Zugang: Protokollierung, Entzug der Zugriffsberechtigung bei Missbrauch
+- Art. 30a38 Statistische Datenerhebung
+- Art. 31 Inhalt von Auszügen aus dem Grundbuch
+- Art. 3240 Erstellung von amtlichen Auszügen
+- Art. 33 Nichtbeglaubigte Kopien und Ausdrucke
+- Art. 34 Elektronische Veröffentlichung der Handänderungen
+- Art. 34a Grundsatz
+- Art. 34b Dienst für landesweite Grundstücksuche
+- Art. 34c Zugang des Grundstücksuchdienstes zu den rechtswirksamen Daten des Hauptbuchs und zu den Daten des Personenidentifikationsregisters sowie Übermittlung von Daten an den Suchindex
+- Art. 34d Zugriff der berechtigten Behörden im Allgemeinen
+- Art. 34e Zulässige Suchkriterien und Umfang der Suchresultate
+- Art. 34f Protokollierung der Abfragen durch den Grundstücksuchdienst
+- Art. 34g Zugriffskontrolle durch die Kantone, Auskunftsrechte der Grundeigentümerinnen und Grundeigentümer
+- Art. 34h Entzug der Zugriffsberechtigung
+- Art. 34i Gebühren
+- Art. 35 Datensicherheit
+- Art. 36 Aufbewahrung des Papiergrundbuchs und der Hilfsregister
+- Art. 37 Aufbewahrung von Belegen auf Papier
+- Art. 38
+- Art. 39 Zulässigkeit von elektronischen Eingaben und anwendbares Recht
+- Art. 40 Übermittlung
+- Art. 41 Datenformate und Mustervorlagen
+- Art. 42 Gemischte Eingaben an das Grundbuchamt
+- Art. 43 Zeitpunkt des Eingangs
+- Art. 44 Zustellungen durch das Grundbuchamt
+- Art. 45 Zeitpunkt der Zustellung
+- Art. 46 Anmeldungsprinzip
+- Art. 47 Inhalt der Anmeldung
+- Art. 48 Form
+- Art. 49 Anmeldung durch eine zur Vertretung berechtigte Person
+- Art. 50 Anmeldung durch den Willensvollstrecker
+oder die Willensvollstreckerin
+- Art. 51 Anmeldungsbelege
+- Art. 52
+- Art. 53 Befugnis zur Anmeldung im Allgemeinen
+- Art. 54 Privatrechtliche Rechtsverhältnisse
+- Art. 55 bundesrechtliche Verfügungsbeschränkungen
+- Art. 56 Grundbuchsperre
+- Art. 57 Bäuerliches Bodenrecht
+- Art. 58 Trustverhältnis
+- Art. 59 Enteignungsentschädigung
+- Art. 60 Änderungen der Landesgrenze
+- Art. 61 Gesetzliche Wegrechte
+- Art. 62 Belege für Rechtsgrundausweise
+- Art. 63 Ausländische öffentliche Urkunden und Beglaubigungen
+- Art. 64 Erwerb durch Eintragung
+- Art. 65 Erwerb vor Eintragung
+- Art. 66 Erwerb und Umwandlung nach dem Fusionsgesetz
+- Art. 67 Erwerb im Zusammenhang mit einem Trust
+- Art. 68 Aufteilungsplan bei Stockwerkeigentum
+- Art. 69 Eintragung von Stockwerkeigentum vor Erstellung des Gebäudes
+- Art. 70 Dienstbarkeiten und Grundlasten
+- Art. 71 Rechte an Wasserrechten und Bergwerken
+- Art. 72 Eintragung eines Pfandrechts
+- Art. 73 Umwandlung von Pfandrechten
+- Art. 74 Vereinfachte Umwandlung eines Papier-Schuldbriefs
+in einen Register-Schuldbrief
+- Art. 75 Pfandrechte bei Bodenverbesserungen
+- Art. 76 Gesetzliche Grundpfandrechte
+- Art. 77 Vormerkungen im Allgemeinen
+- Art. 78 Vormerkung persönlicher Rechte
+- Art. 79 Verfügungsbeschränkungen
+- Art. 80 Anmerkungen
+- Art. 81 Behandlung der Anmeldung
+- Art. 82 Hinweis auf hängige Anmeldungen beim Papiergrundbuch
+- Art. 83 Allgemeine Prüfungspflicht des Grundbuchamts
+- Art. 84 Prüfung der Verfügungsberechtigung
+- Art. 85 Prüfung bei Anmeldung durch eine Behörde
+- Art. 86 Beglaubigung von Unterschriften
+- Art. 87 Mangelhafte Anträge
+- Art. 88 Aussetzen des Eintragungsverfahrens
+- Art. 89 Grundsätze
+- Art. 90 Bezeichnung von Personen
+- Art. 91 Bearbeitungsverfahren
+- Art. 92 Reihenfolge der Eintragung, Rangverhältnisse der Einträge
+- Art. 93 Bescheinigung der Eintragung
+- Art. 94 Inhalt des Eintrags
+- Art. 95 Unselbstständiges Grundeigentum
+- Art. 96 Mit- und Gesamteigentum
+- Art. 97 Stockwerkeigentum
+- Art. 98 Dienstbarkeiten
+- Art. 99 Dienstbarkeiten auf Kollektivblättern
+- Art. 100 Grundlasten
+- Art. 101 Inhalt des Eintrags
+- Art. 102 Bemerkungen zu den Grundpfandeinträgen im Papiergrundbuch
+- Art. 103 Eintragungen ohne Grundbuchwirkung
+- Art. 104 Register-Schuldbrief: Gläubiger oder Gläubigerin, Nutzniessung
+und Pfändung
+- Art. 105 Vertretungsberechtigte Person bei Schuldbrief
+und Anleihensobligationen
+- Art. 106 Nebenvereinbarungen, Abzahlungen
+- Art. 107 Umwandlung eines Schuldbriefs
+- Art. 108 Vereinfachte Umwandlung eines Papier-Schuldbriefs
+- Art. 109 Grundpfandrechte auf Kollektivblättern
+- Art. 110 Gesamtpfandrechte
+- Art. 111 Gesamtpfandrechte auf Grundstücken verschiedener Eigentümer
+und Eigentümerinnen
+- Art. 112 Gesamtpfandrechte bei nachträglicher Belastung
+weiterer Grundstücke
+- Art. 113 Eintragung von Teilpfandrechten
+- Art. 114 Gesetzlicher Übergang der Gläubigerrechte einer Teilforderung
+- Art. 115 Verteilung der Pfandbelastung bei Veräusserung eines von
+mehreren insgesamt verpfändeten Grundstücken
+- Art. 116 Grundpfandrechte und Grundlasten auf Miteigentumsanteilen
+- Art. 117 Vorbehaltener Vorgang und leere Pfandstelle
+- Art. 118 Gesetzliche Grundpfandrechte
+- Art. 119 Grundpfandrechte für Bodenverbesserungen
+- Art. 120 Bauhandwerkerpfandrechte und gesetzliche Pfandrechte
+bei Baurecht
+- Art. 121 Anleihensobligationen
+- Art. 122 Rangänderungen
+- Art. 123 Vormerkungen
+- Art. 124 Vormerkung vorläufiger Eintragungen
+- Art. 125 Anmerkungen
+- Art. 126 Anmerkung von Projektmutationen mit aufgeschobener Vermarkung
+- Art. 127 Anmerkung eines gesetzlichen Wegrechts
+- Art. 128 Anmerkung eines Trustverhältnisses
+- Art. 129 Öffentlich-rechtliche Eigentumsbeschränkungen
+- Art. 130 Bemerkungen
+- Art. 131 Voraussetzungen
+- Art. 132 Vorgehen
+- Art. 133 Löschungen und Änderungen im Papiergrundbuch
+- Art. 134 Löschung von Grundpfandrechten
+- Art. 135 Änderung von Pfandrechtseinträgen
+- Art. 136 Löschung einer Anmerkung auf Antrag
+- Art. 137 Löschung der Anmerkung eines Trustverhältnisses
+- Art. 138 Löschung einer Anmerkung von Amtes wegen
+- Art. 139 Löschung von Bemerkungen
+- Art. 140 Pflicht zur Berichtigung
+- Art. 141 Berichtigung von blossen Schreibfehlern
+- Art. 142 Berichtigung von sinnverändernden Fehlern
+- Art. 143 Berichtigungen im Papiergrundbuch
+- Art. 144 Inhalt des Pfandtitels
+- Art. 145 Ausstellung der Titel bei Gesamtpfandrechten und Teilpfandrechten
+- Art. 146 Ausstellung eines Titels bei Pfandvermehrung
+- Art. 147 Ausstellung der Pfandtitel bei Grundstücken
+in mehreren Grundbuchkreisen
+- Art. 148 Aushändigung der Pfandtitel
+- Art. 149 Auszüge für Grundpfandverschreibungen und Register-Schuldbriefe
+- Art. 150 Änderung des Pfandtitels
+- Art. 151 Änderung des Pfandtitels von Amtes wegen
+- Art. 152 Entkräftung von Pfandtiteln
+- Art. 153 Eröffnung neuer Hauptbuchblätter
+- Art. 154 Bereinigung der Dienstbarkeiten
+- Art. 155 Bereinigung der Grundpfandrechte
+- Art. 156 Bereinigung der Grundlasten
+- Art. 157 Bereinigung von Vormerkungen und Anmerkungen
+- Art. 158
+- Art. 159 Vorprüfungsverfahren für die Grundbuchführung mittels Informatik
+- Art. 160 Ermächtigung
+- Art. 160a78 Austausch, vollständige Erneuerung und wesentliche Änderungen am System
+- Art. 161 Aufhebung bisherigen Rechts
+- Art. 162 Änderung bisherigen Rechts
+- Art. 163 Bestehende Schuldbriefe
+- Art. 164 Bestehende öffentlich-rechtliche Eigentumsbeschränkungen
+- Art. 164a80 Übergangsbestimmungen zur Änderung vom 10. Dezember 2021: Zuordnung der AHV-Nummern bereits im Hauptbuch eingetragener Personen
+- Art. 164b82 Übergangsbestimmungen zur Änderung vom 10. Dezember 2021: Zugang des Grundstücksuchdienstes zu den rechtswirksamen Daten des Hauptbuchs und Übermittlung von Daten an den Suchindex
+- Art. 164c83 Übergangsbestimmungen zur Änderung vom 10. Dezember 2021: Gebühren
+- Art. 164d84 Übergangsbestimmungen zur Änderung vom 10. Dezember 2021: Fristverlängerungen bei Austausch oder vollständiger Erneuerung des Systems
+- Art. 165 Inkrafttreten
+
+### SR 211.432.11 – Technische Verordnung des EJPD und des VBS vom 28. Dezember 2012 über das Grundbuch (TGBV)
+
+ELI: `/eli/cc/2013/3/de`
+
+- Art. 1
+- Art. 2 EJPD
+- Art. 3 EJPD und VBS
+- Art. 4 Eidgenössisches Amt für Grundbuch- und Bodenrecht
+- Art. 517 EGBA und Fachstelle Eidgenössische Vermessungsdirektion
+- Art. 6 Kantone
+- Art. 7
+- Art. 7a Inhalt
+- Art. 7b Genauigkeit und Zuverlässigkeit
+- Art. 7c Grundstückbeschreibung
+- Art. 7d Mutationsurkunden
+- Art. 8
+- Art. 8a Verfahren der Übernahme und Aktualisierung von Daten
+- Art. 8b Protokollierung der Übernahme und Aktualisierung von Daten
+- Art. 9
+- Art. 10
+- Art. 10a Schnittstelle zum Suchindex
+- Art. 10b Datenübermittlung
+- Art. 11 Definition
+- Art. 12 Einsatz
+- Art. 13 Anforderungen für die Grundbuchführung
+- Art. 14 Datenhaltung der Grundbuchsysteme
+- Art. 15 Anforderungen für die Grundbuchführung und
+die amtliche Vermessung
+- Art. 16 Grundsätze
+- Art. 17 Zuordnung zu den Grundstücken
+- Art. 18 Eingaben an das Grundbuchamt
+- Art. 19 Zustellungen des Grundbuchamtes
+- Art. 20 Zulässige Datenformate
+- Art. 21 Anerkennung von alternativen Plattformen
+- Art. 22 Anerkennungsverfahren
+- Art. 22a Technische Anforderungen
+- Art. 22b Gesuch um Bewilligung zur Verwendung der Schnittstelle
+- Art. 23
+- Art. 24
+- Art. 25 Aufhebung bisherigen Rechts
+- Art. 26 Übergangsbestimmung
+- Art. 26a49 Übergangsbestimmungen zur Änderung vom 10. Dezember 2021
+- Art. 26b50 Übergangsbestimmungen zur Änderung vom 29. August 2023
+- Art. 27 Inkrafttreten
+
+### SR 211.432.2 – Verordnung vom 18. November 1992 über die amtliche Vermessung (VAV)
+
+ELI: `/eli/cc/1992/2446_2446_2446/de`
+
+- Art. 15 Funktionen der amtlichen Vermessung
+- Art. 1a6 Verhältnis zum allgemeinen Geoinformationsrecht
+- Art. 28 Mitwirkung der Kantone, Anhörung der Organisationen
+- Art. 39 Planung und Umsetzung
+- Art. 4 Militärische Anlagen
+- Art. 512 Bestandteile der amtlichen Vermessung
+- Art. 613 Geodatenmodell der amtlichen Vermessung
+- Art. 6a14
+- Art. 6bis 15
+- Art. 716 Plan für das Grundbuch
+- Art. 8–917
+- Art. 1018
+- Art. 11 Begriff und Umfang
+- Art. 12 Kantonales Recht
+- Art. 13 Verfahren
+- Art. 1423 Grenzverlauf
+- Art. 14a24 Behebung von Widersprüchen
+- Art. 15 Grundsatz
+- Art. 16 Zeitpunkt
+- Art. 17 Verzicht
+- Art. 18 Begriffe
+- Art. 19 Verfahren
+- Art. 2031 Geodätisches Bezugssystem
+- Art. 2133 Zeitpunkt der Durchführung
+- Art. 22 Nachführungsgrundsatz
+- Art. 2335 Laufende Nachführung
+- Art. 24 Periodische Nachführung
+- Art. 2537
+- Art. 2638
+- Art. 2739
+- Art. 2840 Öffentliche Auflage
+- Art. 2946 Genehmigung
+- Art. 3048 Anerkennung durch den Bund
+- Art. 30bis 49
+- Art. 30a
+- Art. 31 …56
+- Art. 3259
+- Art. 33
+- Art. 34 Grundsatz
+- Art. 35 Beschreibung der Auszüge und Auswertungen
+- Art. 3663 Download-Dienst und Schnittstellen
+- Art. 37 Beglaubigte Auszüge
+- Art. 3866
+- Art. 3967 Abgabe an Bundesbehörden
+- Art. 40 Fachstelle des Bundes
+- Art. 4174
+- Art. 42 Kantonale Vermessungsaufsicht76
+- Art. 42a80 Verwaltungsvereinbarung mit Liechtenstein
+- Art. 4381 Zuständigkeit
+- Art. 4482 Berechtigung zur Ausführung der Arbeiten
+- Art. 4583 Arbeitsvergabe
+- Art. 4684 Geschäftsverkehr mit dem Grundbuch
+- Art. 46a85 Mutationsurkunden und beglaubigte Auszüge
+- Art. 4789 Gegenstand und Dauer
+- Art. 47a90 Berichterstattung und Kontrolle
+- Art. 47b91 Mangelhafte Erfüllung
+- Art. 47c94 Bemessung des Bundesbeitrags
+- Art. 47d95 Anrechenbare Kosten
+- Art. 4897 Berechnung der anrechenbaren Kosten
+- Art. 48a98
+- Art. 49100
+- Art. 50 Aufhebung
+- Art. 51 Anpassung bestehender Vermessungen
+- Art. 52 Erstvermessungen, Erneuerungen, in Ausführung stehende Vermessungen
+- Art. 53 Nachführung von Vermessungen alter Ordnung
+- Art. 54 Weitergeltung alten Rechts
+- Art. 55109 Übersichtsplan
+- Art. 56 Besondere Massnahmen zur Erhaltung der Parzellarvermessungen
+- Art. 57113 Übergangsbestimmungen zur Änderung vom 21. Mai 2008
+- Art. 57a115 Übergangsbestimmungen zur Änderung vom 23. August 2023
+- Art. 58
+
+### SR 211.432.21 – Verordnung des VBS vom 24. August 2023 über die amtliche Vermessung (VAV-VBS)
+
+ELI: `/eli/cc/2023/530/de`
+
+- Art. 1 Punktzeichen
+- Art. 2 Fixpunkte
+- Art. 3 Daten: Inhalt
+- Art. 4 Daten: Genauigkeit und Zuverlässigkeit
+- Art. 5 Technische und administrative Dokumente
+- Art. 6 Abgeleitete amtliche Produkte
+- Art. 7 Grundsätze
+- Art. 8 Beschreibungssprache
+- Art. 9 Objekte
+- Art. 10 Metadaten
+- Art. 11 Prüfung der Modellkonformität
+- Art. 12 Änderungen
+- Art. 13 Vereinfachtes Geodatenmodell
+- Art. 14 Periodische Nachführung
+- Art. 15 Massnahmen infolge von Naturereignissen
+- Art. 16 Überführung militärischer Anlagen in eine zivile Nutzung
+- Art. 17 Arbeiten auf dem Bahngebiet
+- Art. 18 Grundsätze
+- Art. 19 Informationssicherheit
+- Art. 20 Qualitätsprüfung bei Änderungen im Datenbestand
+- Art. 21 Archivierung und Historisierung
+- Art. 22 Unterhalt der Punktzeichen
+- Art. 23 Auszüge
+- Art. 24 Kantonaler Umsetzungsplan
+- Art. 25 Download-Dienst und Schnittstellen
+- Art. 26 Meldungen an Dritte
+- Art. 27 Datenabgabe im vereinfachten Geodatenmodell
+- Art. 28 Übergang von alter zu neuer Ordnung: Ersterhebung bei definitiv anerkannten Vermessungen
+- Art. 29 Übergang von alter zu neuer Ordnung: Provisorische Numerisierung
+- Art. 30 Weitergeltung des Rechts nach alter Ordnung
+- Art. 31 Aufhebung eines anderen Erlasses
+- Art. 32 Übergangsbestimmungen
+- Art. 33 Inkrafttreten
+
+### SR 211.432.261 – Verordnung vom 21. Mai 2008 über die Ingenieur-Geometerinnen und Ingenieur-Geometer (Geometerverordnung, GeomV)
+
+ELI: `/eli/cc/2008/387/de`
+
+- Art. 1
+- Art. 2 Grundsatz
+- Art. 3 Hochschulabschluss
+- Art. 4 Theoretische Vorbildung
+- Art. 5 Anerkennungsverfahren
+- Art. 6 Prüfung der theoretischen Vorbildung
+- Art. 7 Ergebnis der Prüfung
+- Art. 8 Wiederholung
+- Art. 9 Prüfungsinhalt
+- Art. 10 Durchführung
+- Art. 11 Zulassungsverfahren
+- Art. 12 Verhinderung
+- Art. 13 Ergebnis
+- Art. 14 Patent
+- Art. 15 Wiederholung
+- Art. 16 Unlauterkeit
+- Art. 17 Voraussetzungen
+- Art. 18 Eintragung
+- Art. 19 Löschung
+- Art. 20 Inhalt
+- Art. 21 Zugang
+- Art. 22 Berufspflichten
+- Art. 22a4 Ausstand
+- Art. 23 Inspektionsrecht
+- Art. 24 Meldepflicht, Melderecht
+- Art. 25 Disziplinarverfahren
+- Art. 26 Disziplinarmassnahmen
+- Art. 27 Verjährung
+- Art. 28 Löschung der Disziplinarmassnahme
+- Art. 29 …5
+- Art. 30–347
+- Art. 35 Prüfungsgebühren
+- Art. 36 Registergebühr
+- Art. 37 Gebühr des Disziplinarverfahrens
+- Art. 38 Fälligkeit
+- Art. 39 Anwendbarkeit der Allgemeinen Gebührenverordnung
+- Art. 40 Aufhebung bisherigen Rechts
+- Art. 41 Übergangsbestimmungen
+- Art. 42 Inkrafttreten
+
+### SR 211.435.1 – Verordnung vom 8. Dezember 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen (EÖBV)
+
+ELI: `/eli/cc/2018/29/de`
+
+- Art. 1 Gegenstand und Zweck
+- Art. 2 Begriffe
+- Art. 3 Gleichwertigkeit der Formen
+- Art. 4 Anwendbarkeit ausländischen Rechts
+- Art. 5 Zweck und Betrieb
+- Art. 6 Einzutragende Personen
+- Art. 7 Einträge
+- Art. 8 Verantwortung für die Daten, Datenführung und Datenlieferung
+- Art. 9 Öffentlichkeit der Daten
+- Art. 10 Allgemeine Bestimmungen
+- Art. 11 Elektronische Ausfertigung einer öffentlichen Urkunde
+- Art. 12 Elektronische öffentliche Urkunden aus einem öffentlichen Register
+- Art. 13 Beglaubigung einer elektronischen Kopie eines Papierdokuments
+- Art. 14 Beglaubigung einer elektronischen Kopie eines elektronischen Dokuments
+- Art. 15 Elektronische Beglaubigung einer eigenhändigen Unterschrift oder eines Handzeichens auf einem Papierdokument
+- Art. 16 Elektronische Beglaubigung einer elektronischen Signatur
+- Art. 17
+- Art. 18
+- Art. 19
+- Art. 20
+- Art. 21 Ansätze
+- Art. 22 Anwendbarkeit der Allgemeinen Gebührenverordnung
+- Art. 23 Rechnungsstellung und Verzugsfolgen
+- Art. 24 Gebührenfreier Bezug von Zulassungsbestätigungen
+- Art. 25 Aufhebung und Änderung anderer Erlasse
+- Art. 26 Übergangsbestimmung für elektronische öffentliche Urkunden und elektronische Beglaubigungen ohne Zulassungsbestätigung
+- Art. 27 Übergangsbestimmung zu Art. 166 Abs. 6 der Handelsregisterverordnung vom 17. Oktober 200715
+- Art. 28 Inkrafttreten
+
+### SR 211.435.11 – Verordnung des EJPD vom 8. Dezember 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen (EÖBV-EJPD)
+
+ELI: `/eli/cc/2018/30/de`
+
+- Art. 1
+- Art. 2 Technische Anforderungen
+- Art. 3 Gesuch um Bewilligung, Daten zu liefern
+- Art. 4 Einlesen eines Papierdokuments
+- Art. 5 Verbalseite und Verbal
+- Art. 6 Dateiformate der elektronischen Dokumente
+- Art. 7
+- Art. 8 Form und technischer Inhalt der Zulassungsbestätigung
+- Art. 9 Abrufen der Zulassungsbestätigung
+- Art. 10 Vermittlung des Zugriffs auf das UPReg durch Dritte
+- Art. 11 Voraussetzungen für die Ausgabe der Zulassungsbestätigung
+- Art. 12 Ausgabe der Zulassungsbestätigung
+- Art. 13 Anbringen der Zulassungsbestätigung
+- Art. 14 Ausgabe des Siegels
+- Art. 15 Anbringen des Siegels an das Dokument
+- Art. 16
+- Art. 17
+- Art. 184
+- Art. 19 Übergangsbestimmung für die Überprüfung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen ohne elektronische Zulassungsbestätigung
+- Art. 20 Aufhebung eines anderen Erlasses
+- Art. 21 Inkrafttreten
+
+## 22 Obligationenrecht
+
+### SR 220 – Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht)
+
+ELI: `/eli/cc/27/317_321_377/de`
+
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 4
+- Art. 5
+- Art. 6
+- Art. 6a2
+- Art. 7
+- Art. 8
+- Art. 9
+- Art. 10
+- Art. 11
+- Art. 12
+- Art. 13
+- Art. 14
+- Art. 15
+- Art. 16
+- Art. 17
+- Art. 18
+- Art. 19
+- Art. 20
+- Art. 21
+- Art. 22
+- Art. 23
+- Art. 24
+- Art. 25
+- Art. 26
+- Art. 27
+- Art. 28
+- Art. 29
+- Art. 30
+- Art. 31
+- Art. 32
+- Art. 33
+- Art. 34
+- Art. 35
+- Art. 36
+- Art. 37
+- Art. 38
+- Art. 39
+- Art. 40
+- Art. 40a8
+- Art. 40b13
+- Art. 40c16
+- Art. 40d17
+- Art. 40e20
+- Art. 40f24
+- Art. 40g25
+- Art. 41
+- Art. 42
+- Art. 43
+- Art. 44
+- Art. 45
+- Art. 46
+- Art. 47
+- Art. 4828
+- Art. 4929
+- Art. 50
+- Art. 51
+- Art. 52
+- Art. 53
+- Art. 54
+- Art. 55
+- Art. 56
+- Art. 57
+- Art. 58
+- Art. 59
+- Art. 59a32
+- Art. 60
+- Art. 61
+- Art. 62
+- Art. 63
+- Art. 64
+- Art. 65
+- Art. 66
+- Art. 67
+- Art. 68
+- Art. 69
+- Art. 70
+- Art. 71
+- Art. 72
+- Art. 73
+- Art. 74
+- Art. 75
+- Art. 76
+- Art. 77
+- Art. 78
+- Art. 79
+- Art. 80
+- Art. 81
+- Art. 82
+- Art. 83
+- Art. 8441
+- Art. 85
+- Art. 86
+- Art. 87
+- Art. 88
+- Art. 89
+- Art. 90
+- Art. 91
+- Art. 92
+- Art. 93
+- Art. 94
+- Art. 95
+- Art. 96
+- Art. 97
+- Art. 98
+- Art. 99
+- Art. 100
+- Art. 101
+- Art. 102
+- Art. 103
+- Art. 104
+- Art. 105
+- Art. 106
+- Art. 107
+- Art. 108
+- Art. 109
+- Art. 110
+- Art. 111
+- Art. 112
+- Art. 113
+- Art. 114
+- Art. 115
+- Art. 116
+- Art. 117
+- Art. 118
+- Art. 119
+- Art. 120
+- Art. 121
+- Art. 122
+- Art. 123
+- Art. 124
+- Art. 125
+- Art. 126
+- Art. 127
+- Art. 128
+- Art. 128a48
+- Art. 129
+- Art. 130
+- Art. 131
+- Art. 132
+- Art. 133
+- Art. 134
+- Art. 135
+- Art. 13657
+- Art. 137
+- Art. 138
+- Art. 13959
+- Art. 140
+- Art. 141
+- Art. 142
+- Art. 143
+- Art. 144
+- Art. 145
+- Art. 146
+- Art. 147
+- Art. 148
+- Art. 149
+- Art. 150
+- Art. 151
+- Art. 152
+- Art. 153
+- Art. 154
+- Art. 155
+- Art. 156
+- Art. 157
+- Art. 158
+- Art. 15964
+- Art. 160
+- Art. 161
+- Art. 162
+- Art. 163
+- Art. 164
+- Art. 165
+- Art. 166
+- Art. 167
+- Art. 168
+- Art. 169
+- Art. 170
+- Art. 171
+- Art. 172
+- Art. 173
+- Art. 174
+- Art. 175
+- Art. 176
+- Art. 177
+- Art. 178
+- Art. 179
+- Art. 180
+- Art. 181
+- Art. 18269
+- Art. 183
+- Art. 184
+- Art. 185
+- Art. 186
+- Art. 187
+- Art. 188
+- Art. 189
+- Art. 190
+- Art. 191
+- Art. 192
+- Art. 19370
+- Art. 194
+- Art. 195
+- Art. 196
+- Art. 196a72
+- Art. 197
+- Art. 198
+- Art. 199
+- Art. 200
+- Art. 201
+- Art. 202
+- Art. 203
+- Art. 204
+- Art. 205
+- Art. 206
+- Art. 207
+- Art. 208
+- Art. 209
+- Art. 21075
+- Art. 211
+- Art. 212
+- Art. 213
+- Art. 214
+- Art. 215
+- Art. 216
+- Art. 216a79
+- Art. 216b80
+- Art. 216c81
+- Art. 216d82
+- Art. 216e83
+- Art. 217
+- Art. 21884
+- Art. 219
+- Art. 219a88
+- Art. 220
+- Art. 221
+- Art. 222
+- Art. 223
+- Art. 224
+- Art. 225
+- Art. 22689
+- Art. 226a–226d90
+- Art. 226e91
+- Art. 226f–226k92
+- Art. 226l93
+- Art. 226m94
+- Art. 22795
+- Art. 227a–227i96
+- Art. 22897
+- Art. 229
+- Art. 230
+- Art. 231
+- Art. 232
+- Art. 233
+- Art. 234
+- Art. 235
+- Art. 236
+- Art. 237
+- Art. 238
+- Art. 239
+- Art. 240
+- Art. 241
+- Art. 242
+- Art. 243
+- Art. 244
+- Art. 245
+- Art. 246
+- Art. 247
+- Art. 248
+- Art. 249
+- Art. 250
+- Art. 251
+- Art. 252
+- Art. 253
+- Art. 253a
+- Art. 253b
+- Art. 254
+- Art. 255
+- Art. 256
+- Art. 256a
+- Art. 256b
+- Art. 257
+- Art. 257a
+- Art. 257b
+- Art. 257c
+- Art. 257d
+- Art. 257e
+- Art. 257f
+- Art. 257g
+- Art. 257h
+- Art. 258
+- Art. 259
+- Art. 259a
+- Art. 259b
+- Art. 259c
+- Art. 259d
+- Art. 259e
+- Art. 259f
+- Art. 259g
+- Art. 259h
+- Art. 259i102
+- Art. 260
+- Art. 260a
+- Art. 261
+- Art. 261a
+- Art. 261b
+- Art. 262
+- Art. 263
+- Art. 264
+- Art. 265
+- Art. 266
+- Art. 266a
+- Art. 266b
+- Art. 266c
+- Art. 266d
+- Art. 266e
+- Art. 266f
+- Art. 266g
+- Art. 266h
+- Art. 266i
+- Art. 266k
+- Art. 266l
+- Art. 266m
+- Art. 266n105
+- Art. 266o
+- Art. 267
+- Art. 267a
+- Art. 268
+- Art. 268a
+- Art. 268b
+- Art. 269
+- Art. 269a
+- Art. 269b
+- Art. 269c
+- Art. 269d
+- Art. 270
+- Art. 270a
+- Art. 270b
+- Art. 270c
+- Art. 270d
+- Art. 270e
+- Art. 271
+- Art. 271a
+- Art. 272
+- Art. 272a
+- Art. 272b
+- Art. 272c
+- Art. 272d
+- Art. 273
+- Art. 273a
+- Art. 273b
+- Art. 273c
+- Art. 274–274g113
+- Art. 275
+- Art. 276
+- Art. 276a
+- Art. 277
+- Art. 278
+- Art. 279
+- Art. 280
+- Art. 281
+- Art. 282
+- Art. 283
+- Art. 284
+- Art. 285
+- Art. 286
+- Art. 287
+- Art. 288
+- Art. 289
+- Art. 289a
+- Art. 290
+- Art. 291
+- Art. 292
+- Art. 293
+- Art. 294
+- Art. 295
+- Art. 296
+- Art. 297
+- Art. 297a
+- Art. 297b
+- Art. 298
+- Art. 299
+- Art. 299a
+- Art. 299b
+- Art. 299c
+- Art. 300
+- Art. 301117
+- Art. 302
+- Art. 303
+- Art. 304
+- Art. 305
+- Art. 306
+- Art. 307
+- Art. 308
+- Art. 309
+- Art. 310
+- Art. 311
+- Art. 312
+- Art. 313
+- Art. 314
+- Art. 315
+- Art. 316
+- Art. 317
+- Art. 318
+- Art. 319
+- Art. 320
+- Art. 321
+- Art. 321a
+- Art. 321b
+- Art. 321c
+- Art. 321d
+- Art. 321e
+- Art. 322
+- Art. 322a
+- Art. 322b
+- Art. 322c
+- Art. 322d
+- Art. 323
+- Art. 323a
+- Art. 323b
+- Art. 324
+- Art. 324a
+- Art. 324b
+- Art. 325123
+- Art. 326
+- Art. 326a
+- Art. 327
+- Art. 327a
+- Art. 327b
+- Art. 327c
+- Art. 328
+- Art. 328a
+- Art. 328b129
+- Art. 329
+- Art. 329a
+- Art. 329b
+- Art. 329c
+- Art. 329d
+- Art. 329e142
+- Art. 329f143
+- Art. 329g146
+- Art. 329gbis 147
+- Art. 329h148
+- Art. 329i149
+- Art. 329j151
+- Art. 330
+- Art. 330a
+- Art. 330b153
+- Art. 331
+- Art. 331a159
+- Art. 331b160
+- Art. 331c161
+- Art. 331d162
+- Art. 331e167
+- Art. 331f 175
+- Art. 332176
+- Art. 332a177
+- Art. 333
+- Art. 333a181
+- Art. 333b182
+- Art. 334183
+- Art. 335184
+- Art. 335a185
+- Art. 335b186
+- Art. 335c187
+- Art. 335d189
+- Art. 335e190
+- Art. 335f 192
+- Art. 335g193
+- Art. 335h194
+- Art. 335i195
+- Art. 335j196
+- Art. 335k197
+- Art. 336198
+- Art. 336a202
+- Art. 336b204
+- Art. 336c205
+- Art. 336d212
+- Art. 337
+- Art. 337a
+- Art. 337b
+- Art. 337c214
+- Art. 337d
+- Art. 338
+- Art. 338a
+- Art. 339
+- Art. 339a
+- Art. 339b
+- Art. 339c
+- Art. 339d
+- Art. 340
+- Art. 340a
+- Art. 340b
+- Art. 340c
+- Art. 341
+- Art. 342
+- Art. 343221
+- Art. 344
+- Art. 344a
+- Art. 345
+- Art. 345a
+- Art. 346
+- Art. 346a
+- Art. 347
+- Art. 347a
+- Art. 348
+- Art. 348a
+- Art. 348b
+- Art. 349
+- Art. 349a
+- Art. 349b
+- Art. 349c
+- Art. 349d
+- Art. 349e
+- Art. 350
+- Art. 350a
+- Art. 351
+- Art. 351a
+- Art. 352
+- Art. 352a
+- Art. 353
+- Art. 353a
+- Art. 353b
+- Art. 354
+- Art. 355
+- Art. 356
+- Art. 356a
+- Art. 356b
+- Art. 356c
+- Art. 357
+- Art. 357a
+- Art. 357b
+- Art. 358
+- Art. 359
+- Art. 359a
+- Art. 360
+- Art. 360a225
+- Art. 360b227
+- Art. 360c229
+- Art. 360d230
+- Art. 360e231
+- Art. 360f232
+- Art. 361
+- Art. 362
+- Art. 363
+- Art. 364
+- Art. 365
+- Art. 366
+- Art. 367
+- Art. 368
+- Art. 369
+- Art. 370
+- Art. 371260
+- Art. 372
+- Art. 373
+- Art. 374
+- Art. 375
+- Art. 376
+- Art. 377
+- Art. 378
+- Art. 379
+- Art. 380
+- Art. 381
+- Art. 382
+- Art. 383
+- Art. 384
+- Art. 385
+- Art. 386
+- Art. 387
+- Art. 388
+- Art. 389
+- Art. 390
+- Art. 391
+- Art. 392
+- Art. 393
+- Art. 394
+- Art. 395
+- Art. 396
+- Art. 397
+- Art. 397a263
+- Art. 398
+- Art. 399
+- Art. 400
+- Art. 401
+- Art. 402
+- Art. 403
+- Art. 404
+- Art. 405
+- Art. 406
+- Art. 406a
+- Art. 406b
+- Art. 406c
+- Art. 406d
+- Art. 406e269
+- Art. 406f270
+- Art. 406g
+- Art. 406h
+- Art. 407
+- Art. 408
+- Art. 409
+- Art. 410
+- Art. 411
+- Art. 412
+- Art. 413
+- Art. 414
+- Art. 415
+- Art. 416273
+- Art. 417274
+- Art. 418
+- Art. 418a
+- Art. 418b
+- Art. 418c
+- Art. 418d
+- Art. 418e
+- Art. 418f
+- Art. 418g
+- Art. 418h
+- Art. 418i
+- Art. 418k
+- Art. 418l
+- Art. 418m
+- Art. 418n
+- Art. 418o
+- Art. 418p
+- Art. 418q
+- Art. 418r
+- Art. 418s
+- Art. 418t
+- Art. 418u
+- Art. 418v
+- Art. 419
+- Art. 420
+- Art. 421
+- Art. 422
+- Art. 423
+- Art. 424
+- Art. 425
+- Art. 426
+- Art. 427
+- Art. 428
+- Art. 429
+- Art. 430
+- Art. 431
+- Art. 432
+- Art. 433
+- Art. 434
+- Art. 435
+- Art. 436
+- Art. 437
+- Art. 438
+- Art. 439
+- Art. 440
+- Art. 441
+- Art. 442
+- Art. 443
+- Art. 444
+- Art. 445
+- Art. 446
+- Art. 447
+- Art. 448
+- Art. 449
+- Art. 450
+- Art. 451
+- Art. 452
+- Art. 453
+- Art. 454
+- Art. 455
+- Art. 456
+- Art. 457
+- Art. 458
+- Art. 459
+- Art. 460
+- Art. 461
+- Art. 462
+- Art. 463280
+- Art. 464
+- Art. 465
+- Art. 466
+- Art. 467
+- Art. 468
+- Art. 469
+- Art. 470
+- Art. 471
+- Art. 472
+- Art. 473
+- Art. 474
+- Art. 475
+- Art. 476
+- Art. 477
+- Art. 478
+- Art. 479
+- Art. 480
+- Art. 481
+- Art. 482
+- Art. 483
+- Art. 484
+- Art. 485
+- Art. 486
+- Art. 487
+- Art. 488
+- Art. 489
+- Art. 490
+- Art. 491
+- Art. 492
+- Art. 493
+- Art. 494
+- Art. 495
+- Art. 496
+- Art. 497
+- Art. 498
+- Art. 499
+- Art. 500
+- Art. 501
+- Art. 502
+- Art. 503
+- Art. 504
+- Art. 505
+- Art. 506
+- Art. 507
+- Art. 508
+- Art. 509
+- Art. 510
+- Art. 511
+- Art. 512
+- Art. 513
+- Art. 514
+- Art. 515
+- Art. 515a288
+- Art. 516
+- Art. 517
+- Art. 518
+- Art. 519
+- Art. 520
+- Art. 521
+- Art. 522
+- Art. 523
+- Art. 524
+- Art. 525
+- Art. 526
+- Art. 527
+- Art. 528
+- Art. 529
+- Art. 530
+- Art. 531
+- Art. 532
+- Art. 533
+- Art. 534
+- Art. 535
+- Art. 536
+- Art. 537
+- Art. 538
+- Art. 539
+- Art. 540
+- Art. 541
+- Art. 542
+- Art. 543
+- Art. 544
+- Art. 545
+- Art. 546
+- Art. 547
+- Art. 548
+- Art. 549
+- Art. 550
+- Art. 551
+- Art. 552
+- Art. 553
+- Art. 554295
+- Art. 555
+- Art. 556
+- Art. 557
+- Art. 558
+- Art. 559
+- Art. 560
+- Art. 561
+- Art. 562
+- Art. 563
+- Art. 564
+- Art. 565
+- Art. 566
+- Art. 567
+- Art. 568
+- Art. 569
+- Art. 570
+- Art. 571
+- Art. 572
+- Art. 573
+- Art. 574
+- Art. 575
+- Art. 576
+- Art. 577
+- Art. 578
+- Art. 579
+- Art. 580
+- Art. 581
+- Art. 581a301
+- Art. 582
+- Art. 583
+- Art. 584
+- Art. 585
+- Art. 586
+- Art. 587
+- Art. 588
+- Art. 589
+- Art. 590
+- Art. 591
+- Art. 592
+- Art. 593
+- Art. 594
+- Art. 595
+- Art. 596
+- Art. 597
+- Art. 598
+- Art. 599
+- Art. 600
+- Art. 601
+- Art. 602
+- Art. 603
+- Art. 604
+- Art. 605
+- Art. 606
+- Art. 607308
+- Art. 608
+- Art. 609
+- Art. 610
+- Art. 611
+- Art. 612
+- Art. 613
+- Art. 614
+- Art. 615
+- Art. 616
+- Art. 617
+- Art. 618
+- Art. 619
+- Art. 620312
+- Art. 621313
+- Art. 622
+- Art. 623
+- Art. 624
+- Art. 625325
+- Art. 626327
+- Art. 627 und 628333
+- Art. 629335
+- Art. 630338
+- Art. 631339
+- Art. 632341
+- Art. 633343
+- Art. 634345
+- Art. 634a346
+- Art. 634b347
+- Art. 635348
+- Art. 635a350
+- Art. 636351
+- Art. 637–639352
+- Art. 640354
+- Art. 641355
+- Art. 642356
+- Art. 643
+- Art. 644
+- Art. 645
+- Art. 646361
+- Art. 647362
+- Art. 648 und 649363
+- Art. 650364
+- Art. 651365
+- Art. 651a366
+- Art. 652368
+- Art. 652a371
+- Art. 652b373
+- Art. 652c377
+- Art. 652d379
+- Art. 652e383
+- Art. 652f386
+- Art. 652g388
+- Art. 652h389
+- Art. 653390
+- Art. 653a392
+- Art. 653b394
+- Art. 653c399
+- Art. 653d400
+- Art. 653e402
+- Art. 653f406
+- Art. 653g407
+- Art. 653h408
+- Art. 653i409
+- Art. 653j410
+- Art. 653k411
+- Art. 653l412
+- Art. 653m413
+- Art. 653n414
+- Art. 653o415
+- Art. 653p416
+- Art. 653q417
+- Art. 653r418
+- Art. 653s419
+- Art. 653t420
+- Art. 653u421
+- Art. 653v422
+- Art. 654
+- Art. 655424
+- Art. 656
+- Art. 656a427
+- Art. 656b431
+- Art. 656c432
+- Art. 656d436
+- Art. 656e438
+- Art. 656f 439
+- Art. 656g440
+- Art. 657442
+- Art. 658443
+- Art. 659444
+- Art. 659a445
+- Art. 659b446
+- Art. 660447
+- Art. 661
+- Art. 662448
+- Art. 662a449
+- Art. 663450
+- Art. 663a und 663b 451
+- Art. 663bbis 452
+- Art. 663c453
+- Art. 663d–663h454
+- Art. 664 und 665455
+- Art. 665a456
+- Art. 666 und 667457
+- Art. 668458
+- Art. 669459
+- Art. 670460
+- Art. 671461
+- Art. 671a und 671b462
+- Art. 672463
+- Art. 673464
+- Art. 674465
+- Art. 675
+- Art. 675a468
+- Art. 676
+- Art. 677471
+- Art. 678472
+- Art. 678a473
+- Art. 679475
+- Art. 680
+- Art. 681
+- Art. 682
+- Art. 683
+- Art. 684479
+- Art. 684a480
+- Art. 685481
+- Art. 685a482
+- Art. 685b483
+- Art. 685c484
+- Art. 685d485
+- Art. 685e488
+- Art. 685f 489
+- Art. 685g490
+- Art. 686491
+- Art. 686a495
+- Art. 687
+- Art. 688
+- Art. 689497
+- Art. 689a499
+- Art. 689b503
+- Art. 689c504
+- Art. 689d505
+- Art. 689e506
+- Art. 689f509
+- Art. 690
+- Art. 691
+- Art. 692
+- Art. 693
+- Art. 694
+- Art. 695
+- Art. 696518
+- Art. 697519
+- Art. 697a520
+- Art. 697b521
+- Art. 697c522
+- Art. 697d523
+- Art. 697e524
+- Art. 697f 525
+- Art. 697g526
+- Art. 697h527
+- Art. 697hbis 528
+- Art. 697i529
+- Art. 697j530
+- Art. 697k531
+- Art. 697l532
+- Art. 697m534
+- Art. 697n535
+- Art. 698
+- Art. 699546
+- Art. 699a547
+- Art. 699b548
+- Art. 700549
+- Art. 701550
+- Art. 701a551
+- Art. 701b552
+- Art. 701c553
+- Art. 701e555
+- Art. 701f556
+- Art. 702557
+- Art. 702a562
+- Art. 703563
+- Art. 704564
+- Art. 704a568
+- Art. 704b569
+- Art. 705
+- Art. 706
+- Art. 706a575
+- Art. 706b578
+- Art. 707
+- Art. 708583
+- Art. 709585
+- Art. 710586
+- Art. 711587
+- Art. 712588
+- Art. 713589
+- Art. 714592
+- Art. 715593
+- Art. 715a594
+- Art. 716595
+- Art. 716a596
+- Art. 716b600
+- Art. 717602
+- Art. 717a603
+- Art. 718604
+- Art. 718a606
+- Art. 718b607
+- Art. 719
+- Art. 720609
+- Art. 721611
+- Art. 722613
+- Art. 723–724614
+- Art. 725615
+- Art. 725a616
+- Art. 725b617
+- Art. 725c619
+- Art. 726
+- Art. 727
+- Art. 727a
+- Art. 727b
+- Art. 727c
+- Art. 728
+- Art. 728a
+- Art. 728b
+- Art. 728c
+- Art. 729
+- Art. 729a
+- Art. 729b
+- Art. 729c
+- Art. 730
+- Art. 730a
+- Art. 730b
+- Art. 730c
+- Art. 731
+- Art. 731a
+- Art. 731b
+- Art. 732
+- Art. 732a
+- Art. 733
+- Art. 734
+- Art. 734a
+- Art. 734b
+- Art. 734c
+- Art. 734d
+- Art. 734e
+- Art. 734f637
+- Art. 735
+- Art. 735a
+- Art. 735b
+- Art. 735c
+- Art. 735d
+- Art. 736
+- Art. 737640
+- Art. 738641
+- Art. 739
+- Art. 740
+- Art. 741645
+- Art. 742
+- Art. 743
+- Art. 744
+- Art. 745
+- Art. 746
+- Art. 747649
+- Art. 748–750650
+- Art. 751
+- Art. 752651
+- Art. 753652
+- Art. 754654
+- Art. 755655
+- Art. 756657
+- Art. 757659
+- Art. 758662
+- Art. 759664
+- Art. 760665
+- Art. 761667
+- Art. 762
+- Art. 763
+- Art. 764
+- Art. 765
+- Art. 766
+- Art. 767
+- Art. 768
+- Art. 769
+- Art. 770
+- Art. 771
+- Art. 772
+- Art. 773675
+- Art. 774
+- Art. 774a
+- Art. 775677
+- Art. 776
+- Art. 776a679
+- Art. 777
+- Art. 777a
+- Art. 777b
+- Art. 777c
+- Art. 778
+- Art. 778a685
+- Art. 779
+- Art. 779a
+- Art. 780686
+- Art. 781
+- Art. 782
+- Art. 783
+- Art. 784
+- Art. 785
+- Art. 786
+- Art. 787
+- Art. 787a691
+- Art. 788
+- Art. 789
+- Art. 789a
+- Art. 789b
+- Art. 790
+- Art. 790a694
+- Art. 791695
+- Art. 792
+- Art. 793
+- Art. 794
+- Art. 795
+- Art. 795a
+- Art. 795b
+- Art. 795c
+- Art. 795d
+- Art. 796
+- Art. 797
+- Art. 797a696
+- Art. 798697
+- Art. 798a und 798b698
+- Art. 799
+- Art. 800
+- Art. 801699
+- Art. 801a
+- Art. 802
+- Art. 803
+- Art. 804
+- Art. 805
+- Art. 806
+- Art. 806a
+- Art. 806b
+- Art. 807
+- Art. 808
+- Art. 808a
+- Art. 808b
+- Art. 808c
+- Art. 809
+- Art. 810
+- Art. 811
+- Art. 812
+- Art. 813
+- Art. 814
+- Art. 815
+- Art. 816
+- Art. 817
+- Art. 818
+- Art. 819
+- Art. 820715
+- Art. 821
+- Art. 821a
+- Art. 822
+- Art. 822a
+- Art. 823
+- Art. 824
+- Art. 825
+- Art. 825a
+- Art. 826
+- Art. 827
+- Art. 828
+- Art. 829
+- Art. 830717
+- Art. 831
+- Art. 832
+- Art. 833
+- Art. 834
+- Art. 835726
+- Art. 836727
+- Art. 837728
+- Art. 838
+- Art. 838a729
+- Art. 839
+- Art. 840
+- Art. 841
+- Art. 842
+- Art. 843
+- Art. 844
+- Art. 845
+- Art. 846
+- Art. 847
+- Art. 848
+- Art. 849
+- Art. 850
+- Art. 851
+- Art. 852
+- Art. 853
+- Art. 854
+- Art. 855
+- Art. 856
+- Art. 857
+- Art. 858736
+- Art. 859
+- Art. 860
+- Art. 861
+- Art. 862
+- Art. 863
+- Art. 864
+- Art. 865
+- Art. 866
+- Art. 867
+- Art. 868
+- Art. 869
+- Art. 870
+- Art. 871
+- Art. 872
+- Art. 873
+- Art. 874
+- Art. 875
+- Art. 876
+- Art. 877
+- Art. 878
+- Art. 879
+- Art. 880
+- Art. 881
+- Art. 882
+- Art. 883
+- Art. 884
+- Art. 885
+- Art. 886
+- Art. 887
+- Art. 888
+- Art. 889
+- Art. 890
+- Art. 891
+- Art. 892
+- Art. 893
+- Art. 893a753
+- Art. 894
+- Art. 895754
+- Art. 896
+- Art. 897
+- Art. 898755
+- Art. 899
+- Art. 899a757
+- Art. 900
+- Art. 901759
+- Art. 902
+- Art. 902a761
+- Art. 903762
+- Art. 904
+- Art. 905
+- Art. 906763
+- Art. 907764
+- Art. 908767
+- Art. 909 und 910768
+- Art. 911
+- Art. 912769
+- Art. 913
+- Art. 914770
+- Art. 915
+- Art. 916771
+- Art. 917
+- Art. 918
+- Art. 919772
+- Art. 920
+- Art. 921
+- Art. 922
+- Art. 923
+- Art. 924
+- Art. 925
+- Art. 926
+- Art. 927
+- Art. 928
+- Art. 928a
+- Art. 928b
+- Art. 928c
+- Art. 929
+- Art. 930
+- Art. 931
+- Art. 932
+- Art. 933
+- Art. 934
+- Art. 934a
+- Art. 935
+- Art. 936
+- Art. 936a
+- Art. 936b
+- Art. 937
+- Art. 938
+- Art. 939
+- Art. 940
+- Art. 941
+- Art. 942
+- Art. 943
+- Art. 944
+- Art. 945
+- Art. 946
+- Art. 947 und 948798
+- Art. 949799
+- Art. 950800
+- Art. 951801
+- Art. 952
+- Art. 953802
+- Art. 954
+- Art. 954a803
+- Art. 955
+- Art. 955a805
+- Art. 956
+- Art. 957
+- Art. 957a
+- Art. 958
+- Art. 958a
+- Art. 958b
+- Art. 958c
+- Art. 958d
+- Art. 958e
+- Art. 958f
+- Art. 959
+- Art. 959a
+- Art. 959b
+- Art. 959c
+- Art. 960
+- Art. 960a
+- Art. 960b
+- Art. 960c
+- Art. 960d
+- Art. 960e
+- Art. 960f821
+- Art. 961
+- Art. 961a
+- Art. 961b
+- Art. 961c
+- Art. 961d
+- Art. 962
+- Art. 962a
+- Art. 963
+- Art. 963a
+- Art. 963b
+- Art. 964826
+- Art. 964a
+- Art. 964b
+- Art. 964c
+- Art. 964d
+- Art. 964e
+- Art. 964f
+- Art. 964g
+- Art. 964h
+- Art. 964i
+- Art. 964j
+- Art. 964k
+- Art. 964l
+- Art. 965
+- Art. 966
+- Art. 967
+- Art. 968
+- Art. 969
+- Art. 970
+- Art. 971
+- Art. 972
+- Art. 973
+- Art. 973a834
+- Art. 973b835
+- Art. 973c837
+- Art. 973d839
+- Art. 973e840
+- Art. 973f841
+- Art. 973g842
+- Art. 973h844
+- Art. 973i845
+- Art. 974
+- Art. 975
+- Art. 976
+- Art. 977
+- Art. 978
+- Art. 979
+- Art. 980
+- Art. 981
+- Art. 982
+- Art. 983
+- Art. 984
+- Art. 985
+- Art. 986
+- Art. 987
+- Art. 988
+- Art. 989849
+- Art. 990
+- Art. 991
+- Art. 992
+- Art. 993
+- Art. 994
+- Art. 995
+- Art. 996
+- Art. 997
+- Art. 998
+- Art. 999
+- Art. 1000
+- Art. 1001
+- Art. 1002
+- Art. 1003
+- Art. 1004
+- Art. 1005
+- Art. 1006
+- Art. 1007
+- Art. 1008
+- Art. 1009
+- Art. 1010
+- Art. 1011
+- Art. 1012
+- Art. 1013
+- Art. 1014
+- Art. 1015
+- Art. 1016
+- Art. 1017
+- Art. 1018
+- Art. 1019
+- Art. 1020
+- Art. 1021
+- Art. 1022
+- Art. 1023
+- Art. 1024
+- Art. 1025
+- Art. 1026
+- Art. 1027
+- Art. 1028
+- Art. 1029
+- Art. 1030
+- Art. 1031
+- Art. 1032
+- Art. 1033851
+- Art. 1034
+- Art. 1035
+- Art. 1036
+- Art. 1037
+- Art. 1038
+- Art. 1039
+- Art. 1040
+- Art. 1041
+- Art. 1042
+- Art. 1043
+- Art. 1044
+- Art. 1045
+- Art. 1046
+- Art. 1047
+- Art. 1048
+- Art. 1049
+- Art. 1050
+- Art. 1051
+- Art. 1052
+- Art. 1053
+- Art. 1054
+- Art. 1055
+- Art. 1056
+- Art. 1057
+- Art. 1058
+- Art. 1059
+- Art. 1060
+- Art. 1061
+- Art. 1062
+- Art. 1063
+- Art. 1064
+- Art. 1065
+- Art. 1066
+- Art. 1067
+- Art. 1068
+- Art. 1069
+- Art. 1070
+- Art. 1071
+- Art. 1072
+- Art. 1073
+- Art. 1074
+- Art. 1075
+- Art. 1076
+- Art. 1077
+- Art. 1078
+- Art. 1079
+- Art. 1080
+- Art. 1081
+- Art. 1082
+- Art. 1083
+- Art. 1084
+- Art. 1085
+- Art. 1086
+- Art. 1087
+- Art. 1088
+- Art. 1089
+- Art. 1090
+- Art. 1091
+- Art. 1092
+- Art. 1093
+- Art. 1094
+- Art. 1095
+- Art. 1096
+- Art. 1097
+- Art. 1098
+- Art. 1099
+- Art. 1100
+- Art. 1101
+- Art. 1102
+- Art. 1103
+- Art. 1104
+- Art. 1105
+- Art. 1106
+- Art. 1107
+- Art. 1108
+- Art. 1109
+- Art. 1110
+- Art. 1111
+- Art. 1112
+- Art. 1113
+- Art. 1114
+- Art. 1115
+- Art. 1116
+- Art. 1117
+- Art. 1118
+- Art. 1119
+- Art. 1120
+- Art. 1121
+- Art. 1122
+- Art. 1123
+- Art. 1124
+- Art. 1125
+- Art. 1126
+- Art. 1127
+- Art. 1128
+- Art. 1129
+- Art. 1130
+- Art. 1131
+- Art. 1132
+- Art. 1133
+- Art. 1134
+- Art. 1135
+- Art. 1136
+- Art. 1137
+- Art. 1138
+- Art. 1139
+- Art. 1140
+- Art. 1141
+- Art. 1142
+- Art. 1143
+- Art. 1144
+- Art. 1145
+- Art. 1146
+- Art. 1147
+- Art. 1148
+- Art. 1149
+- Art. 1150
+- Art. 1151
+- Art. 1152
+- Art. 1153
+- Art. 1153a862
+- Art. 1154
+- Art. 1155
+- Art. 1156863
+- Art. 1157
+- Art. 1158
+- Art. 1159
+- Art. 1160
+- Art. 1161
+- Art. 1162
+- Art. 1163
+- Art. 1164
+- Art. 1165
+- Art. 1166
+- Art. 1167
+- Art. 1168
+- Art. 1169
+- Art. 1170
+- Art. 1171
+- Art. 1172
+- Art. 1173
+- Art. 1174
+- Art. 1175868
+- Art. 1176
+- Art. 1177
+- Art. 1178
+- Art. 1179
+- Art. 1180
+- Art. 1181
+- Art. 1182
+- Art. 1183
+- Art. 1184
+- Art. 1185
+- Art. 1186870
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 4
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 4
+- Art. 5
+- Art. 6
+- Art. 7
+- Art. 8
+- Art. 9
+- Art. 10
+- Art. 11
+- Art. 1
+- Art. 2
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 1
+- Art. 2
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 4
+- Art. 5
+- Art. 6
+- Art. 7
+- Art. 8
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 4
+- Art. 5
+- Art. 6
+- Art. 7
+- Art. 1
+- Art. 2–4
+- Art. 5
+- Art. 6
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 4
+- Art. 5
+- Art. 6
+- Art. 7
+- Art. 8
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 4927
+- Art. 5
+- Art. 6928
+- Art. 7
+- Art. 8
+- Art. 9
+- Art. 10
+- Art. 11
+- Art. 12
+- Art. 13
+- Art. 14932
+- Art. 15
+- Art. 16
+- Art. 17
+- Art. 18
+- Art. 19
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 4
+- Art. 5
+- Art. 6
+- Art. 7
+- Art. 8
+- Art. 9
+
+### SR 221.112.944 – Bundesgesetz vom 18. Juni 1993 über die Produktehaftpflicht (Produktehaftpflichtgesetz, PrHG)
+
+ELI: `/eli/cc/1993/3122_3122_3122/de`
+
+- Art. 1 Grundsatz
+- Art. 2 Herstellerin
+- Art. 3 Produkt
+- Art. 4 Fehler
+- Art. 5 Ausnahmen von der Haftung
+- Art. 6 Selbstbehalt bei Sachschäden
+- Art. 7 Solidarhaftung
+- Art. 8 Wegbedingung der Haftung
+- Art. 9 Verjährung
+- Art. 10 Verwirkung
+- Art. 11 Verhältnis zu anderen Bestimmungen des eidgenössischen oder kantonalen Rechts
+- Art. 12 Änderung bisherigen Rechts
+- Art. 13 Übergangsbestimmung
+- Art. 14 Referendum und Inkrafttreten
+
+### SR 221.211.22 – Verordnung vom 14. November 1911 betreffend das Verfahren bei der Gewährleistung im Viehhandel
+
+ELI: `/eli/cc/27/877_903_899/de`
+
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 42
+- Art. 5
+- Art. 6
+- Art. 7
+- Art. 8
+- Art. 9
+- Art. 10
+- Art. 11
+- Art. 12
+- Art. 13
+- Art. 14
+- Art. 156
+- Art. 16
+- Art. 17
+- Art. 18
+
+### SR 221.213.11 – Verordnung vom 9. Mai 1990 über die Miete und Pacht von Wohn- und Geschäftsräumen (VMWG)
+
+ELI: `/eli/cc/1990/835_835_835/de`
+
+- Art. 1 Geltungsbereich
+- Art. 2 Ausnahmen
+- Art. 3 Koppelungsgeschäfte
+- Art. 4 Nebenkosten im Allgemeinen
+- Art. 5 Anrechenbare Heizungs- und Warmwasserkosten
+- Art. 6 Nicht anrechenbare Heizungs- und Warmwasserkosten
+- Art. 6a4 Energiebezug von einer ausgelagerten Zentrale
+- Art. 6b5 Bezug von Elektrizität im Rahmen eines Zusammenschlusses zum Eigenverbrauch
+- Art. 6c8 Energiespar-Contracting
+- Art. 7 Nicht vermietete Wohn- und Geschäftsräume
+- Art. 8 Abrechnung
+- Art. 9 Kündigungen
+- Art. 10 Offensichtlich übersetzter Kaufpreis
+- Art. 11 Orts- und quartierübliche Mietzinse
+- Art. 12 Kostensteigerungen
+- Art. 12a10 Referenzzinssatz für Hypotheken
+- Art. 13 Hypothekarzinse
+- Art. 1414 Mehrleistungen des Vermieters
+- Art. 15 Bruttorendite
+- Art. 16 Teuerungsausgleich
+- Art. 17 Indexierte Mietzinse16
+- Art. 18 Unvollständige Mietzinsanpassung
+- Art. 19 Formular zur Mitteilung von Mietzinserhöhungen
+und anderen einseitigen Vertragsänderungen
+- Art. 19a25 Mitteilung bei gestaffelten Mietzinsen
+- Art. 20 Begründungspflicht des Vermieters
+- Art. 21 Aufgaben der Schlichtungsbehörden
+- Art. 2229 Zusammensetzung der Schlichtungsbehörden
+- Art. 23 Berichterstattung über die Schlichtungsbehörden und Bekanntgabe
+richterlicher Urteile
+- Art. 24 Vollzug
+- Art. 25 Aufhebung bisherigen Rechts
+- Art. 26 Übergangsbestimmungen
+- Art. 27 Inkrafttreten
+
+### SR 221.213.111 – Verordnung des WBF vom 22. Januar 2008 über die Erhebung des für die Mietzinse massgebenden hypothekarischen Durchschnittszinssatzes (Zinssatzverordnung)
+
+ELI: `/eli/cc/2008/60/de`
+
+- Art. 1 Zweck
+- Art. 2 Durchschnittszinssatz
+- Art. 3 Datenerhebung und Meldepflicht
+- Art. 4 Bekanntgabe des Referenzzinssatzes
+- Art. 5 Vertraulichkeit der erhobenen Daten
+- Art. 6 Schlussbestimmungen
+
+### SR 221.213.15 – Bundesgesetz vom 23. Juni 1995 über Rahmenmietverträge und deren Allgemeinverbindlicherklärung
+
+ELI: `/eli/cc/1996/750_750_750/de`
+
+- Art. 1 Begriff
+- Art. 2 Form
+- Art. 3 Abweichung von zwingenden Vorschriften
+- Art. 4 Allgemeines
+- Art. 5 Wirkung
+- Art. 6 Voraussetzungen
+- Art. 7 Zuständigkeit
+- Art. 8 Antrag
+- Art. 9 Veröffentlichung des Antrages
+- Art. 10 Anhörung
+- Art. 11 Allgemeinverbindlicherklärung; Eröffnung und Veröffentlichung
+- Art. 12 Genehmigung der kantonalen Allgemeinverbindlicherklärung
+- Art. 13 Kosten
+- Art. 14 Ausserkraftsetzung und Dahinfallen
+- Art. 15 Änderungen
+- Art. 16 Vollzug
+- Art. 17 Änderung bisherigen Rechts
+- Art. 18 Referendum und Inkrafttreten
+
+### SR 221.213.151 – Verordnung vom 31. Januar 1996 über Rahmenmietverträge und deren Allgemeinverbindlicherklärung (VRA)
+
+ELI: `/eli/cc/1996/756_756_756/de`
+
+- Art. 1
+- Art. 2 Bewilligung
+- Art. 3 Anhörung der Kantone
+- Art. 4 Entscheid des Bundesrates
+- Art. 5 Überwachung
+- Art. 6 Einreichung des Antrages
+- Art. 7 Dauer der Wirkung einer Allgemeinverbindlicherklärung
+- Art. 8
+
+### SR 221.213.2 – Bundesgesetz vom 4. Oktober 1985 über die landwirtschaftliche Pacht (LPG)
+
+ELI: `/eli/cc/1986/926_926_926/de`
+
+- Art. 1
+- Art. 2 Kleine Grundstücke
+- Art. 2a7 Grundstücke in der Bauzone
+- Art. 3 Alpen und Weiden
+- Art. 4
+- Art. 5 Vorpachtrecht der Nachkommen des Verpächters
+- Art. 6 Vorpachtrecht an Alpweiden
+- Art. 7 Erstmalige Verpachtung
+- Art. 8 Fortsetzung der Pacht
+- Art. 9 Pachtdauer für Spezialkulturen
+- Art. 10 Pachtzinsanpassung im Allgemeinen
+- Art. 11 Pachtzinsanpassung bei Änderung des Ertragswerts
+- Art. 12 Anpassung anderer Vertragsbestimmungen
+- Art. 13 Pachtzinsnachlass
+- Art. 14 Kauf bricht Pacht nicht
+- Art. 15 Ausnahmen
+- Art. 16 Kündigung im Allgemeinen
+- Art. 17 Vorzeitige Kündigung
+- Art. 18 Tod des Pächters
+- Art. 19 Übernahme von Zupachten bei Betriebsübergabe
+- Art. 20 Güterzusammenlegung
+- Art. 21 Zahlungsrückstand des Pächters
+- Art. 21a18 Bewirtschaftungspflicht
+- Art. 22 Unterhaltspflicht, Reparaturen
+- Art. 22a19 Erneuerungen und Änderungen durch den Pächter
+- Art. 22b20 Pflichtverletzungen des Pächters
+- Art. 23 Rückgabe. Verbesserungen und Verschlechterungen
+- Art. 24 Früchte
+- Art. 25 Vorräte
+- Art. 25b
+- Art. 26 Klage
+- Art. 27 Urteil
+- Art. 28 Anpassung der Vertragsbestimmungen
+- Art. 29
+- Art. 30 Bewilligungspflicht
+- Art. 31 Bewilligungsgründe
+- Art. 32 Folgen der Bewilligungsverweigerung
+- Art. 33−3536
+- Art. 35a39 Vertragliche Regelungen
+- Art. 36 Öffentlich-rechtliche Beschränkungen40
+- Art. 37 Pachtzins für Gewerbe
+- Art. 38 Pachtzins für einzelne Grundstücke
+- Art. 39 Zinse für Miet- und nichtlandwirtschaftliche Pachtsachen
+- Art. 40 Zinssatz. Verpächterlasten
+- Art. 41 Zuschlag für längere Pachtdauer
+- Art. 42 Pachtzinsbewilligung für Gewerbe
+- Art. 43 Einsprache gegen den Pachtzins für Grundstücke
+- Art. 44 Entscheid der Bewilligungsbehörde
+- Art. 45 Zivilrechtliche Folgen
+- Art. 46 Nichtige Abreden
+- Art. 4747 Verfahren
+- Art. 4849
+- Art. 49 Feststellungsverfügung der Verwaltungsbehörde
+- Art. 50 Beschwerde an die kantonale Beschwerdeinstanz
+- Art. 5150
+- Art. 52 Auskunftspflicht
+- Art. 53
+- Art. 54−5751
+- Art. 58
+- Art. 59
+- Art. 60 Übergangsbestimmungen zum Inkrafttreten vom 20. Oktober 198655
+- Art. 60a56 Übergangsbestimmungen zur Änderung vom 20. Juni 2003
+- Art. 60b57 Übergangsbestimmung zur Änderung vom 5. Oktober 2007
+- Art. 61
+
+### SR 221.213.221 – Verordnung vom 11. Februar 1987 über die Bemessung des landwirtschaftlichen Pachtzinses (Pachtzinsverordnung, PZV)
+
+ELI: `/eli/cc/1987/406_406_406/de`
+
+- Art. 14
+- Art. 2 Elemente des Pachtzinses
+- Art. 37 Verzinsung
+- Art. 4 Abgeltung der Verpächterlasten
+- Art. 59 Zins für zusätzliche Wohnungen
+- Art. 6 Elemente des Pachtzinses
+- Art. 7 Pachtzins für Boden (ohne Rebboden und Sömmerungsweiden)
+- Art. 812 Pachtzins für Rebboden
+- Art. 913 Pachtzins für Dauerkulturen
+- Art. 1014 Pachtzins für Gebäude
+- Art. 1115 Pachtzins für Sömmerungsbetriebe
+- Art. 12 Pachtzinsreduktion bei Mehrleistung des Pächters
+- Art. 13 Zuschlag für längere Pachtdauer
+- Art. 14 Ausnahmeregelung bei ausserordentlichen Verhältnissen
+- Art. 14a17 Übergangsbestimmung zur Änderung vom 31. Januar 2018
+- Art. 15 Inkrafttreten18
+
+### SR 221.214.1 – Bundesgesetz vom 23. März 2001 über den Konsumkredit (KKG)
+
+ELI: `/eli/cc/2002/593/de`
+
+- Art. 1 Konsumkreditvertrag
+- Art. 25 Kreditgeberin
+- Art. 3 Konsumentin oder Konsument
+- Art. 4 Kreditvermittlerin
+- Art. 5 Gesamtkosten des Kredits für die Konsumentin
+oder den Konsumenten
+- Art. 6 Effektiver Jahreszins
+- Art. 7 Ausschluss
+- Art. 89 Einschränkung
+- Art. 9 Barkredite
+- Art. 10 Verträge zur Finanzierung des Erwerbs von Waren
+oder Dienstleistungen
+- Art. 11 Leasingverträge
+- Art. 12 Überziehungskredit auf laufendem Konto
+oder Kredit- und Kundenkartenkonto mit Kreditoption
+- Art. 13 Zustimmung des gesetzlichen Vertreters
+- Art. 14 Höchstzinssatz
+- Art. 15 Nichtigkeit
+- Art. 16 Widerrufsrecht
+- Art. 17 Vorzeitige Rückzahlung
+- Art. 18 Verzug
+- Art. 19 Einreden
+- Art. 20 Zahlung und Sicherheit in Form von Wechseln
+- Art. 21 Mangelhafte Erfüllung des Erwerbsvertrags
+- Art. 22 Grundsatz
+- Art. 23 Informationsstelle für Konsumkredit
+- Art. 24 Datenzugang
+- Art. 25 Meldepflicht
+- Art. 26 Meldepflicht bei Leasing
+- Art. 27 Meldepflicht bei Kredit- und Kundenkartenkonti
+- Art. 27a27 Pflicht zur Prüfung der Kreditfähigkeit
+- Art. 28 Prüfung der Kreditfähigkeit
+- Art. 29 Prüfung der Kreditfähigkeit des Leasingnehmers
+- Art. 30 Prüfung der Kreditfähigkeit bei Kredit- und Kundenkartenkonti
+- Art. 31 Bedeutung der Angaben der Konsumentin oder des Konsumenten
+- Art. 3236 Sanktionen gegen Kreditgeberinnen
+- Art. 32a37 Sanktionen gegen Schwarmkredit-Vermittlerinnen
+- Art. 33 Zeitpunkt und Berechnungsmethode
+- Art. 34 Massgebende Kosten
+- Art. 35
+- Art. 36 Grundsatz39
+- Art. 36a41 Aggressive Werbung
+- Art. 36b42 Strafbestimmung
+- Art. 37
+- Art. 38 Verhältnis zum kantonalen Recht
+- Art. 39 Bewilligungspflicht
+- Art. 40 Bewilligungsvoraussetzungen
+- Art. 41 Aufhebung und Änderung bisherigen Rechts
+- Art. 42 Referendum und Inkrafttreten
+
+### SR 221.214.11 – Verordnung vom 6. November 2002 zum Konsumkreditgesetz (VKKG)
+
+ELI: `/eli/cc/2002/594/de`
+
+- Art. 14
+- Art. 2 Organisation
+- Art. 36 Informationssystem über Konsumkredite
+- Art. 3a7 Aufsicht
+- Art. 4 Persönliche Voraussetzungen
+- Art. 5 Wirtschaftliche Voraussetzungen
+- Art. 68 Fachliche Voraussetzungen
+- Art. 710 Berufshaftpflichtversicherung und gleichgestellte Sicherheiten
+- Art. 7a11 Umfang der Sicherheit
+- Art. 7b12 Auflösung des Sperrkontos
+- Art. 8 Befristung und Entzug der Bewilligung
+- Art. 8a13 Gesuche juristischer Personen
+- Art. 9 Übergangsbestimmung
+- Art. 9a14 Übergangsbestimmung
+- Art. 9b15 Übergangsbestimmung zur Änderung vom 30. November 2018
+- Art. 10 Aufhebung bisherigen Rechts
+- Art. 11 Inkrafttreten
+
+### SR 221.214.111 – Verordnung des EJPD vom 22. November 2021 über den Höchstzinssatz für Konsumkredite
+
+ELI: `/eli/cc/2021/791/de`
+
+- Art. 12 Höchstzinssatz
+- Art. 2 Inkrafttreten
+
+### SR 221.215.311 – Bundesgesetz vom 28. September 1956 über die Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen
+
+ELI: `/eli/cc/1956/1543_1645_1658/de`
+
+- Art. 1
+- Art. 1a7
+- Art. 2
+- Art. 3
+- Art. 4
+- Art. 5
+- Art. 615
+- Art. 7
+- Art. 8
+- Art. 9
+- Art. 10
+- Art. 11
+- Art. 12
+- Art. 13
+- Art. 14
+- Art. 15
+- Art. 16
+- Art. 17
+- Art. 18
+- Art. 1921
+- Art. 20
+- Art. 21
+
+### SR 221.215.324.1 – Verordnung vom 16. Januar 1985 über den Normalarbeitsvertrag für die Erzieher in Heimen und Internaten
+
+ELI: `/eli/cc/1985/185_185_185/de`
+
+- Art. 1 Geltungsbereich
+- Art. 2 Wirkungen
+- Art. 3 Probezeit
+- Art. 4 Kündigung
+- Art. 5 Stellenbeschreibung
+- Art. 6 Weiterbildung
+- Art. 7 Verschwiegenheitspflicht, Verbot der Annahme von Geschenken
+- Art. 8 Arbeitszeit
+- Art. 9 Nachtarbeit
+- Art. 10 Bereitschaftsdienst
+- Art. 11 Ruhezeit
+- Art. 12 Freizeit
+- Art. 13 Urlaub
+- Art. 14 Urlaub bei Schwangerschaft und Niederkunft
+- Art. 15 Ferien
+- Art. 16 Lohn
+- Art. 17 Naturalleistungen
+- Art. 18 Kurzabsenzen
+- Art. 19 Lohn bei Arbeitsverhinderung
+- Art. 20 Lohn bei Militär- und Zivilschutzdienst
+- Art. 21 Ärztliche Untersuchung
+- Art. 22 Krankenversicherung
+- Art. 23 Berufshaftpflichtversicherung
+- Art. 24 Aufhebung bisherigen Rechts
+- Art. 25 Inkrafttreten
+
+### SR 221.215.328.1 – Bundesratsbeschluss vom 5. Mai 1971 über den Normalarbeitsvertrag für Assistenzärzte
+
+ELI: `/eli/cc/1971/697_696_696/de`
+
+- Art. 1 Örtlicher und persönlicher Geltungsbereich
+- Art. 2 Wirkungen
+- Art. 3 Verantwortung und Weiterbildung des Assistenten
+- Art. 4 Arbeits- und Ruhezeit
+- Art. 5 Ferien
+- Art. 6 Bruttolohn
+- Art. 7 Naturalleistungen
+- Art. 8 Haushalt- und Kinderzulagen
+- Art. 9 Lohn bei Arbeitsverhinderung
+- Art. 10 Unfallversicherungen
+- Art. 11 Alters-, Hinterlassenen- und Invalidenvorsorge
+- Art. 12 Vorbehalt anderer Vorschriften
+- Art. 13 Inkrafttreten
+
+### SR 221.215.328.4 – Bundesratsbeschluss vom 23. Dezember 1971 über den Normalarbeitsvertrag für das Pflegepersonal
+
+ELI: `/eli/cc/1971/1832_1837_1837/de`
+
+- Art. 1 Geltungsbereich
+- Art. 2 Ausnahmen bei kurzfristigen Arbeitsverhältnissen und
+bei Teilzeitarbeit
+- Art. 3 Vorbehalt günstigerer Abreden
+- Art. 4 Probezeit
+- Art. 5 Kündigung
+- Art. 6 Rechte des Arbeitnehmers
+- Art. 7 Geheimhaltungs- und Sorgfaltspflicht
+- Art. 8 Ärztliche Untersuchung
+- Art. 9 Arbeitszeit
+- Art. 10 Nacht- und Bereitschaftsdienst
+- Art. 11 Ferien
+- Art. 12 Urlaub
+- Art. 13 Bruttolohn
+- Art. 14 Naturalleistungen
+- Art. 15 Lohn bei Arbeitsverhinderung
+- Art. 16 Spitalbehandlung des Arbeitnehmers
+- Art. 17 Krankenversicherung
+- Art. 18 Unfallversicherung
+- Art. 19 Alters- und Invalidenversicherung
+- Art. 20 Geltung des Obligationenrechts, Vorbehalt des öffentlichen Rechts
+- Art. 21 Inkrafttreten
+
+### SR 221.215.328.6 – Bundesratsbeschluss vom 22. April 1966 betreffend den Normalarbeitsvertrag über Versicherungsleistungen für das beruflich strahlenexponierte Personal
+
+ELI: `/eli/cc/1966/648_672_668/de`
+
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 46
+
+### SR 221.215.329.2 – Verordnung vom 11. Januar 1984 über den Normalarbeitsvertrag für milchwirtschaftliche Arbeitnehmer
+
+ELI: `/eli/cc/1984/90_90_90/de`
+
+- Art. 1 Geltungsbereich
+- Art. 2 Wirkung
+- Art. 3 Verbandsfreiheit
+- Art. 4 Weiterbildung des Arbeitnehmers
+- Art. 5 Sorgfaltspflicht
+- Art. 6 Aushändigung des Normalarbeitsvertrages
+- Art. 7 Arbeitszeit
+- Art. 8 Überstunden
+- Art. 9 Tägliche Ruhezeit
+- Art. 10 Freizeit
+- Art. 11 Ferien
+- Art. 12 Lohn
+- Art. 13 Naturallohn
+- Art. 14 Lohn bei Kurzabsenzen
+- Art. 15 Lohn bei Arbeitsverhinderung
+- Art. 16 Lohn bei Militär- und Zivilschutzdienst
+- Art. 17 Ärztliche Untersuchung
+- Art. 18 Krankenversicherung
+- Art. 19 Berufliche Vorsorge
+- Art. 20
+- Art. 21 Aufhebung bisherigen Rechts
+- Art. 22 Inkrafttreten
+
+### SR 221.215.329.3 – Verordnung vom 3. Dezember 1979 über den Normalarbeitsvertrag für Privatgärtner
+
+ELI: `/eli/cc/1979/1869_1869_1869/de`
+
+- Art. 1 Geltungsbereich
+- Art. 2 Wirkungen
+- Art. 3 Dauer des Arbeitsverhältnisses
+- Art. 4 Kündigung
+- Art. 5 Kündigung zur Unzeit
+- Art. 6 Allgemeine Rechte und Pflichten
+- Art. 7 Arbeitszeit
+- Art. 8 Überstundenarbeit
+- Art. 9 Freizeit
+- Art. 10 Urlaub
+- Art. 11 Ferien
+- Art. 12 Lohn
+- Art. 13 Naturallohn
+- Art. 14 Lohn bei Arbeitsverhinderung
+- Art. 15 Militär- und Zivilschutzdienst
+- Art. 16 Krankenversicherung
+- Art. 17 Unfallversicherung
+- Art. 18 Vorbehalt anderer Vorschriften
+- Art. 19 Inkrafttreten
+
+### SR 221.215.329.4 – Verordnung vom 20. Oktober 2010 über den Normalarbeitsvertrag für Arbeitnehmerinnen und Arbeitnehmer in der Hauswirtschaft (NAV Hauswirtschaft)
+
+ELI: `/eli/cc/2010/724/de`
+
+- Art. 1 Räumlicher Geltungsbereich
+- Art. 2 Persönlicher Geltungsbereich
+- Art. 3 Hauswirtschaftliche Tätigkeiten
+- Art. 4 Lohnkategorien
+- Art. 5 Höhe des Mindestlohnes
+- Art. 6 Abweichung vom Mindestlohn bei beeinträchtigter
+Leistungsfähigkeit
+- Art. 7 Naturallohn
+- Art. 8 Anwendbarkeit auf bestehende Arbeitsverhältnisse
+- Art. 9 Inkrafttreten und Geltungsdauer
+
+### SR 221.218.2 – Verordnung vom 10. November 1999 über die berufsmässige Vermittlung von Personen aus dem Ausland oder ins Ausland zu Ehe oder fester Partnerschaft
+
+ELI: `/eli/cc/1999/493/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Bewilligungspflicht
+- Art. 3 Berufsmässigkeit
+- Art. 4 Unvereinbarkeit der Vermittlung mit anderen Tätigkeiten
+- Art. 5 Bewilligungsgesuch
+- Art. 6 Erteilung der Bewilligung
+- Art. 7 Dauer und Umfang der Bewilligung
+- Art. 8 Zweck und Höhe
+- Art. 9 Form
+- Art. 10 Freigabe und Herausgabe
+- Art. 11 Entzug
+- Art. 12 Aufhebung
+- Art. 13 Zuständige Behörden
+- Art. 14 Mitteilung der Verfügungen an Bundesbehörden, Verzeichnis der Vermittlungsstellen mit Bewilligung
+- Art. 15 Anzeigepflichten und Rechtshilfe
+- Art. 16 Mitteilungspflichten
+- Art. 174
+- Art. 18
+- Art. 19 Übergangsbestimmung
+- Art. 20 Inkrafttreten
+
+### SR 221.229.1 – Bundesgesetz vom 2. April 1908 über den Versicherungsvertrag (Versicherungsvertragsgesetz, VVG)
+
+ELI: `/eli/cc/24/719_735_717/de`
+
+- Art. 1
+- Art. 2
+- Art. 2a8
+- Art. 2b9
+- Art. 311
+- Art. 3a22
+- Art. 4
+- Art. 5
+- Art. 628
+- Art. 7
+- Art. 8
+- Art. 935
+- Art. 1036
+- Art. 1137
+- Art. 1238
+- Art. 13
+- Art. 14
+- Art. 15
+- Art. 1641
+- Art. 17 und 1842
+- Art. 19
+- Art. 20
+- Art. 2149
+- Art. 22 und 2350
+- Art. 2452
+- Art. 25–2754
+- Art. 28
+- Art. 28a57
+- Art. 29
+- Art. 30
+- Art. 31
+- Art. 32
+- Art. 33
+- Art. 3458
+- Art. 35
+- Art. 35a60
+- Art. 35b62
+- Art. 35c63
+- Art. 36
+- Art. 37
+- Art. 38
+- Art. 38a72
+- Art. 38b73
+- Art. 38c74
+- Art. 39
+- Art. 39a75
+- Art. 39b77
+- Art. 40
+- Art. 41
+- Art. 41a79
+- Art. 42
+- Art. 43
+- Art. 44
+- Art. 45
+- Art. 46
+- Art. 46a90
+- Art. 46b92
+- Art. 46c93
+- Art. 47
+- Art. 47a95
+- Art. 48 und 49102
+- Art. 50
+- Art. 51
+- Art. 51a104
+- Art. 52 und 53105
+- Art. 54106
+- Art. 55109
+- Art. 56
+- Art. 57
+- Art. 58110
+- Art. 59112
+- Art. 60
+- Art. 61–72115
+- Art. 73
+- Art. 74
+- Art. 75118
+- Art. 76
+- Art. 77
+- Art. 78
+- Art. 79
+- Art. 80121
+- Art. 81
+- Art. 82
+- Art. 83
+- Art. 84
+- Art. 85128
+- Art. 86129
+- Art. 87 und 88130
+- Art. 89131
+- Art. 89a132
+- Art. 90133
+- Art. 91
+- Art. 92
+- Art. 93
+- Art. 94
+- Art. 94a137
+- Art. 95138
+- Art. 95a
+- Art. 95b
+- Art. 95c141
+- Art. 96142
+- Art. 97144
+- Art. 98145
+- Art. 98a146
+- Art. 99
+- Art. 100
+- Art. 101154
+- Art. 101a–101c158
+- Art. 102159
+- Art. 103
+- Art. 103a161
+- Art. 104
+
+### SR 221.229.11 – Verordnung vom 1. März 1966 über die Aufhebung von Beschränkungen der Vertragsfreiheit in Versicherungsverträgen
+
+ELI: `/eli/cc/1966/476_495_495/de`
+
+- Art. 1
+- Art. 2
+- Art. 3
+
+### SR 221.301 – Bundesgesetz vom 3. Oktober 2003 über Fusion, Spaltung, Umwandlung und Vermögensübertragung (Fusionsgesetz, FusG)
+
+ELI: `/eli/cc/2004/320/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Begriffe
+- Art. 3 Grundsatz
+- Art. 4 Zulässige Fusionen
+- Art. 5 Fusion einer Gesellschaft in Liquidation
+- Art. 6 Fusion von Gesellschaften im Fall von Kapitalverlust
+oder Überschuldung
+- Art. 7 Wahrung der Anteils- und Mitgliedschaftsrechte
+- Art. 8 Abfindung
+- Art. 9 Kapitalerhöhung bei der Absorptionsfusion
+- Art. 10 Neugründung bei der Kombinationsfusion
+- Art. 11 Zwischenabschluss
+- Art. 12 Abschluss des Fusionsvertrags
+- Art. 13 Inhalt des Fusionsvertrags
+- Art. 14 Fusionsbericht
+- Art. 15 Prüfung des Fusionsvertrags und des Fusionsberichts
+- Art. 16 Einsichtsrecht
+- Art. 17 Veränderungen im Vermögen
+- Art. 18 Fusionsbeschluss
+- Art. 19 Austrittsrecht bei der Fusion von Vereinen
+- Art. 20 Öffentliche Beurkundung
+- Art. 21 Eintragung ins Handelsregister
+- Art. 22 Rechtswirksamkeit
+- Art. 23 Voraussetzungen
+- Art. 24 Erleichterungen
+- Art. 25 Sicherstellung der Forderungen
+- Art. 26 Persönliche Haftung der Gesellschafterinnen und Gesellschafter
+- Art. 27 Übergang der Arbeitsverhältnisse, Sicherstellung
+und persönliche Haftung
+- Art. 28 Konsultation der Arbeitnehmervertretung
+- Art. 29 Grundsatz
+- Art. 30 Zulässige Spaltungen
+- Art. 31
+- Art. 3227 Herabsetzung des Kapitals bei der Abspaltung
+- Art. 33 Kapitalerhöhung
+- Art. 34 Neugründung
+- Art. 35 Zwischenabschluss
+- Art. 36 Spaltungsvertrag und Spaltungsplan
+- Art. 37 Inhalt des Spaltungsvertrags oder des Spaltungsplans
+- Art. 38 Nicht zugeordnete Vermögenswerte
+- Art. 39 Spaltungsbericht
+- Art. 40 Prüfung des Spaltungsvertrags oder des Spaltungsplans
+und des Spaltungsberichts
+- Art. 41 Einsichtsrecht
+- Art. 42 Information über Veränderungen im Vermögen
+- Art. 43 Spaltungsbeschluss
+- Art. 44 Öffentliche Beurkundung
+- Art. 45 Aufforderung an die Gläubigerinnen und Gläubiger
+- Art. 46 Sicherstellung der Forderungen
+- Art. 47 Subsidiäre Haftung der an der Spaltung beteiligten Gesellschaften
+- Art. 48 Persönliche Haftung der Gesellschafterinnen und Gesellschafter
+- Art. 49 Übergang der Arbeitsverhältnisse, Sicherstellung
+und persönliche Haftung
+- Art. 50 Konsultation der Arbeitnehmervertretung
+- Art. 51 Eintragung ins Handelsregister
+- Art. 52 Rechtswirksamkeit
+- Art. 53 Grundsatz
+- Art. 54 Zulässige Umwandlungen
+- Art. 55 Sonderregelung für die Umwandlung
+von Kollektiv- und Kommanditgesellschaften
+- Art. 56 Wahrung der Anteils- und Mitgliedschaftsrechte
+- Art. 57 Gründungsvorschriften
+- Art. 58 Zwischenabschluss
+- Art. 59 Erstellung des Umwandlungsplans
+- Art. 60 Inhalt des Umwandlungsplans
+- Art. 61 Umwandlungsbericht
+- Art. 62 Prüfung des Umwandlungsplans und des Umwandlungsberichts
+- Art. 63 Einsichtsrecht
+- Art. 64 Umwandlungsbeschluss
+- Art. 65 Öffentliche Beurkundung
+- Art. 66 Eintragung ins Handelsregister
+- Art. 67 Rechtswirksamkeit
+- Art. 68
+- Art. 69
+- Art. 70 Abschluss des Übertragungsvertrags
+- Art. 71 Inhalt des Übertragungsvertrags
+- Art. 72 Nicht zugeordnete Gegenstände des Aktivvermögens
+- Art. 73
+- Art. 74
+- Art. 75 Solidarische Haftung
+- Art. 76 Übergang der Arbeitsverhältnisse und solidarische Haftung
+- Art. 77 Konsultation der Arbeitnehmervertretung
+- Art. 78 Grundsatz
+- Art. 79 Fusionsvertrag
+- Art. 80 Bilanz
+- Art. 81 Prüfung des Fusionsvertrags
+- Art. 82 Informationspflicht
+- Art. 83 Genehmigung und Vollzug der Fusion
+- Art. 8452 Anfechtung des Fusionsbeschlusses bei Familienstiftungen und kirchlichen Stiftungen
+- Art. 85 Gläubiger- und Arbeitnehmerschutz
+- Art. 86 Grundsatz
+- Art. 87 Genehmigung und Vollzug der Vermögensübertragung
+- Art. 88 Grundsatz
+- Art. 89 Bilanz
+- Art. 90 Fusionsvertrag
+- Art. 91 Fusionsbericht
+- Art. 92 Prüfung des Fusionsvertrags
+- Art. 93 Informationspflicht und Einsichtsrecht
+- Art. 94 Fusionsbeschluss
+- Art. 95 Genehmigung und Vollzug der Fusion
+- Art. 96 Gläubiger- und Arbeitnehmerschutz
+- Art. 97
+- Art. 98
+- Art. 99 Zulässige Fusionen, Umwandlungen und Vermögensübertragungen
+- Art. 100 Anwendbares Recht
+- Art. 101 Verantwortlichkeit von Bund, Kantonen und Gemeinden
+- Art. 102
+- Art. 103
+- Art. 104
+- Art. 105
+- Art. 106 Grundsatz
+- Art. 107 Folgen eines Mangels
+- Art. 108
+- Art. 109 Änderung bisherigen Rechts
+- Art. 110 Übergangsbestimmung
+- Art. 111 Referendum und Inkrafttreten
+
+### SR 221.302 – Bundesgesetz vom 16. Dezember 2005 über die Zulassung und Beaufsichtigung der Revisorinnen und Revisoren (Revisionsaufsichtsgesetz, RAG)
+
+ELI: `/eli/cc/2007/533/de`
+
+- Art. 1 Gegenstand und Zweck
+- Art. 2 Begriffe
+- Art. 3 Grundsatz
+- Art. 4 Voraussetzungen für Revisionsexpertinnen und Revisionsexperten
+- Art. 5 Voraussetzungen für Revisorinnen und Revisoren
+- Art. 6 Voraussetzungen für Revisionsunternehmen
+- Art. 7 Grundsatz
+- Art. 8 Sonderfälle im internationalen Verhältnis
+- Art. 9 Voraussetzungen
+- Art. 9a19 Voraussetzungen für die Zulassung zur Prüfung
+nach den Finanzmarktgesetzen
+- Art. 1025
+- Art. 11 Unabhängigkeit
+- Art. 12 Sicherung der Qualität
+- Art. 13 Zutrittsgewährung28
+- Art. 14 Meldungen an die Aufsichtsbehörde
+- Art. 15 Zulassung und Registrierung
+- Art. 15a34 Auskunfts- und Meldepflicht
+- Art. 15b35 Bearbeitung von Personendaten und von Daten juristischer Personen
+- Art. 16 Überprüfung staatlich beaufsichtigter Revisionsunternehmen
+- Art. 16a42 Standards zur Prüfung und Qualitätssicherung
+- Art. 17 Entzug der Zulassung
+- Art. 18 Massnahmen gegenüber natürlichen Personen,
+die für staatlich beaufsichtigte Revisionsunternehmen tätig sind
+- Art. 19 Information der Öffentlichkeit
+- Art. 20 Beizug von Drittpersonen
+- Art. 21 Finanzierung
+- Art. 22 Schweizerische Aufsichtsbehörden45
+- Art. 23 Börsen
+- Art. 24 Strafverfolgungsbehörden
+- Art. 25 Zivilgerichte
+- Art. 25a54 Selbstregulierungsorganisationen
+- Art. 26 Zusammenarbeit mit ausländischen Revisionsaufsichtsbehörden
+- Art. 27 Grenzüberschreitende Prüfungshandlungen
+- Art. 28 Aufsichtsbehörde
+- Art. 29 Organe
+- Art. 3063 Verwaltungsrat
+- Art. 30a65 Aufgaben des Verwaltungsrates
+- Art. 3166 Geschäftsleitung
+- Art. 3267 Revisionsstelle
+- Art. 33 Personal
+- Art. 33a71 Pensionskasse
+- Art. 3473 Amtsgeheimnis
+- Art. 34a74 Anzeigepflichten, Anzeigerechte und Schutz
+- Art. 34b76 Geschäftsbericht
+- Art. 35 Rechnungswesen
+- Art. 36 Tresorerie
+- Art. 36a79 Verantwortlichkeit
+- Art. 37 Steuerbefreiung
+- Art. 3885 Fachliche Unabhängigkeit und Aufsicht
+- Art. 39 Übertretungen
+- Art. 39a89 Widerhandlungen in Geschäftsbetrieben
+- Art. 40 Vergehen
+- Art. 41 Vollzug
+- Art. 42 Änderung bisherigen Rechts
+- Art. 43 Übergangsbestimmungen
+- Art. 43a96 Übergangsbestimmungen zur Änderung vom 20. Juni 2014
+- Art. 43b98 Übergangsbestimmungen zur Änderung vom 30. September 2016
+- Art. 44 Übergangsbestimmung zum Rechtsschutz
+- Art. 45 Referendum und Inkrafttreten
+
+### SR 221.302.3 – Verordnung vom 22. August 2007 über die Zulassung und Beaufsichtigung der Revisorinnen und Revisoren (Revisionsaufsichtsverordnung, RAV)
+
+ELI: `/eli/cc/2007/534/de`
+
+- Art. 1 Gesuch um Zulassung
+- Art. 213 Form des Gesuchs
+- Art. 3 Inhalt des Gesuchs und Unterlagen
+- Art. 4 Gewähr für eine einwandfreie Prüftätigkeit
+- Art. 516 Abschluss eines Universitäts- oder Fachhochschulstudiums
+- Art. 617 Nachweis der notwendigen Kenntnisse des schweizerischen Rechts
+- Art. 718 Fachpraxis
+- Art. 8 Eintragung ins Handelsregister
+- Art. 9 Führungsstruktur
+- Art. 9a21 Zulassung von Revisionsunternehmen mit Sitz im Ausland
+- Art. 1024 Anerkennung ausländischer Aufsichtsbehörden
+- Art. 10a25 Ausreichende Versicherung der Haftungsrisiken
+- Art. 10b26 Wirkung der Zulassungsverfügung
+- Art. 10c33 Mitwirkungspflicht
+- Art. 1134 Mitteilung des Entzugs der Zulassung
+- Art. 11a36 Zulassung37
+- Art. 11b49 Ausreichende Organisation
+- Art. 11c51 Unvereinbarkeit mit der Ausübung einer nach den
+Finanzmarktgesetzen bewilligungspflichtigen Tätigkeit
+- Art. 11d53 Fachwissen und Praxiserfahrung für die Prüfung von Banken, Finanzmarktinfrastrukturen, Finanzgruppen und öffentlichen Kaufangeboten, Wertpapierhäusern und Pfandbriefzentralen54
+- Art. 11dbis57 Fachwissen und Praxiserfahrung für die Prüfung von Personen nach Art. 1b BankG
+- Art. 11e62 Fachwissen und Praxiserfahrung für die Prüfung
+von Versicherungsunternehmen
+- Art. 11f64 Fachwissen und Praxiserfahrung für die Prüfung von Fondsleitungen, Anlagefonds, SICAV, Kommanditgesellschaften für kollektive Kapitalanlagen, SICAF, Depotbanken, Verwaltern von Kollektivvermögen sowie Vertreterinnen und Vertretern ausländischer kollektiver Kapitalanlagen65
+- Art. 11g68
+- Art. 11h69 Weiterbildung
+- Art. 11i–11k73
+- Art. 11l74 Unabhängigkeit bei der Prüfung nach den Finanzmarktgesetzen
+- Art. 11m Zulassung
+- Art. 11n Ausreichende Organisation
+- Art. 11o Fachwissen und Praxiserfahrung
+- Art. 11p Weiterbildung
+- Art. 11q Entzug der Zulassung
+- Art. 1280
+- Art. 13
+- Art. 14 und 1583
+- Art. 1685
+- Art. 17 Anforderungen an das Register
+- Art. 18 Öffentlichkeit
+- Art. 19 Natürliche Personen
+- Art. 20 Revisionsunternehmen
+- Art. 2196 Spezialgesetzliche Zulassungen
+- Art. 21a97 Übertragung der Zulassung
+- Art. 22 Löschung des Eintrags
+- Art. 22a99 Berichtigung des Registers
+- Art. 23100 Aufbewahrung und Archivierung von Akten
+- Art. 24 Elektronische Aufbewahrung
+- Art. 25 Anforderungen an die elektronische Aufbewahrung
+und die Datensicherheit
+- Art. 26 Herausgabe von Akten
+- Art. 27 Koordination mit den Handelsregisterbehörden
+- Art. 28102
+- Art. 29 Leitende Revisorinnen und Revisoren
+- Art. 30103 Berichterstattung
+- Art. 31 Aktualisierte Zulassungsunterlagen
+- Art. 32 Vorgehen bei der Überprüfung
+- Art. 33105 Überprüfung von freiwillig unterstellten Revisionsunternehmen
+- Art. 34106 Anerkennung von Prüfungsreglementen107
+- Art. 35 Vermeidung von Interessenkonflikten
+- Art. 36 Paritätisches Organ des Vorsorgewerkes
+- Art. 37 Grundsatz
+- Art. 38110 Zulassung
+- Art. 39 Überprüfung staatlich beaufsichtigter Revisionsunternehmen
+- Art. 40 Übrige Verfügungen und Dienstleistungen
+- Art. 41 Anpassung an die Teuerung
+- Art. 42 Aufsichtsabgabe
+- Art. 43 Dauer der Abgabepflicht
+- Art. 44 Zahlungsmodus
+- Art. 45
+- Art. 46 Aufhebung und Änderung bisherigen Rechts
+- Art. 47 Provisorische Zulassung
+- Art. 48 Nachweis der notwendigen Kenntnisse des schweizerischen Rechts
+- Art. 49125 Qualitätssicherungssystem
+- Art. 50 Zulassung von natürlichen Personen nach altem Recht
+- Art. 51 Rotationspflicht
+- Art. 51a129 Übergangsbestimmungen zur Änderung vom 5. November 2014
+- Art. 51b131 Übergangsbestimmung zur Änderung vom 1. Juli 2015
+- Art. 51c132 Übergangsbestimmung zur Änderung vom 30. November 2018
+- Art. 51d133 Übergangsbestimmungen zur Änderung vom 23. November 2022
+- Art. 51e134 Übergangsbestimmungen zur Änderung vom 22. November 2023
+- Art. 52 Inkrafttreten
+
+### SR 221.302.32 – Verordnung der Eidgenössischen Revisionsaufsichtsbehörde vom 14. November 2008 über den elektronischen Zugriff auf die nicht öffentlich zugänglichen Daten (Datenverordnung RAB, DV-RAB)
+
+ELI: `/eli/cc/2008/739/de`
+
+- Art. 12 Gegenstand
+- Art. 2 Nicht öffentlich zugängliche Daten
+- Art. 35 Anwendbares Recht
+- Art. 4 Gesuch um elektronischen Zugriff
+- Art. 5 Zugriffsberechtigte Personen
+- Art. 6 Aufhebung oder Unterbrechung des Zugriffs
+- Art. 7
+
+### SR 221.302.33 – Verordnung der Eidgenössischen Revisionsaufsichtsbehörde vom 17. März 2008 über die Beaufsichtigung von Revisionsunternehmen (Aufsichtsverordnung RAB, ASV-RAB)
+
+ELI: `/eli/cc/2008/188/de`
+
+- Art. 1
+- Art. 25 Schweizer Standards zur Abschlussprüfung
+- Art. 3 Ausländische Prüfungsstandards
+- Art. 4 Spezialprüfungen
+- Art. 511 Unternehmensbezogene Massnahmen zum Qualitätsmanagement
+- Art. 612 Veröffentlichung der anerkannten Standards zur Prüfung und zum Qualitätsmanagement
+- Art. 6a13 Prüfungsstandards für die Prüfung nach den Finanzmarktgesetzen
+- Art. 7 Gegenstand der Überprüfung
+- Art. 8 Umfang der Überprüfung
+- Art. 9 Ankündigung der Überprüfung
+- Art. 1015 Anforderungen an die Prüfungsdokumentation und die Dokumentation der Massnahmen zum Qualitätsmanagement16
+- Art. 1119 Überprüfung des Nachschau- und Verbesserungsprozesses
+- Art. 12 Überprüfung der Qualität der erbrachten Revisionsdienstleistungen
+- Art. 13 Überprüfungsbericht
+- Art. 14 Kenntnisnahme des Überprüfungsberichts
+- Art. 15 Eröffnung eines Verfahrens
+- Art. 16 Einhaltung von Massnahmen und Anweisungen zur
+Wiederherstellung des ordnungsgemässen Zustands
+- Art. 17
+
+### SR 221.302.34 – Verordnung vom 23. August 2017 der Eidgenössischen Revisionsaufsichtsbehörde über die Bekanntmachung der fehlenden staatlichen Beaufsichtigung von Revisionsunternehmen ausländischer Anleihensemittenten (Bekanntmachungsverordnung RAB, BekV-RAB)
+
+ELI: `/eli/cc/2017/529/de`
+
+- Art. 1 Grundsatz
+- Art. 2 Bekanntmachung der fehlenden staatlichen Beaufsichtigung vor der Kotierung der Anleihensobligation
+- Art. 3 Bekanntmachung der fehlenden staatlichen Beaufsichtigung während der Kotierung der Anleihensobligation
+- Art. 4 Änderung eines anderen Erlasses
+- Art. 5 Übergangsbestimmungen
+- Art. 6 Inkrafttreten
+
+### SR 221.411 – Handelsregisterverordnung vom 17. Oktober 2007 (HRegV)
+
+ELI: `/eli/cc/2007/686/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Begriffe
+- Art. 35 Handelsregisterämter
+- Art. 46
+- Art. 57 Oberaufsicht durch den Bund
+- Art. 5a8 Information und Berichterstattung
+- Art. 6 Aufbau des Handelsregisters
+- Art. 7 Inhalt des Handelsregisters
+- Art. 8 Tagesregister
+- Art. 9 Hauptregister
+- Art. 1011 Ausnahmen
+- Art. 11 Einsichtnahme und Auszüge
+- Art. 1216 Elektronisches Angebot
+- Art. 12a18
+- Art. 12b Zulässigkeit von elektronischen Eingaben und anwendbares Recht
+- Art. 12c Übermittlung
+- Art. 12d27
+- Art. 12e Elektronische Auszüge
+- Art. 13 Firmen- und Namenrecherchen
+- Art. 14 Zentraler Firmenindex (Zefix)
+- Art. 14a Zentrale Datenbank Personen
+- Art. 1531
+- Art. 16 Inhalt, Form und Sprache
+- Art. 1733 Anmeldende Personen
+- Art. 1834 Unterzeichnung
+- Art. 19 Eintragung aufgrund eines Urteils oder einer Verfügung
+- Art. 2040 Inhalt, Form und Sprache
+- Art. 21 Unterschriften
+- Art. 22 Statuten und Stiftungsurkunden
+- Art. 23 Protokolle über die Fassung von Beschlüssen
+- Art. 24 Bestehen von Rechtseinheiten
+- Art. 24a50 Identifikation von natürlichen Personen
+- Art. 24b51 Angaben zur Identifikation
+- Art. 25 Ausländische öffentliche Urkunden und Beglaubigungen
+- Art. 2653 Frist
+- Art. 2754 Berichtigung
+- Art. 2855 Nachtrag
+- Art. 29 Sprache
+- Art. 29a56 Zeichensatz
+- Art. 30 Antrag auf Eintragung zusätzlicher Tatsachen
+- Art. 31 Übermittlung ans EHRA
+- Art. 32 Prüfung und Genehmigung durch das EHRA
+- Art. 33 Verweigerung der Genehmigung
+- Art. 3458 Information über die Genehmigung
+- Art. 3559 Publikation
+- Art. 3660
+- Art. 37 Anmeldung und Belege
+- Art. 38 Inhalt des Eintrags
+- Art. 39 Löschung
+- Art. 40 Anmeldung und Belege
+- Art. 41 Inhalt des Eintrags
+- Art. 42 Auflösung und Löschung
+- Art. 43 Anmeldung und Belege
+- Art. 44 Errichtungsakt
+- Art. 45 Inhalt des Eintrags
+- Art. 45a Zulässige ausländische Währungen
+- Art. 45b Wechsel der Währung
+- Art. 4688 Anmeldung und Belege
+- Art. 4790
+- Art. 48 Inhalt des Eintrags
+- Art. 49 und 5094
+- Art. 51 Gewährungsbeschluss der Generalversammlung
+- Art. 52 Feststellungen und Statutenänderung durch den Verwaltungsrat
+- Art. 53106 Streichung der Statutenbestimmung über das bedingte Kapital
+- Art. 54107
+- Art. 55 Ordentliche Kapitalherabsetzung
+- Art. 56 Kapitalherabsetzung im Fall einer Unterbilanz
+- Art. 57 Gleichzeitige Herabsetzung und Erhöhung des Aktienkapitals112
+- Art. 58 Herabsetzung und gleichzeitige Wiedererhöhung des Kapitals
+auf einen tieferen als den bisherigen Betrag
+- Art. 59 Herabsetzung der Einlagen
+- Art. 59a Ermächtigung des Verwaltungsrates
+- Art. 59b Erhöhung des Aktienkapitals innerhalb des Kapitalbands
+- Art. 59c Herabsetzung des Aktienkapitals innerhalb des Kapitalbands
+- Art. 60
+- Art. 61 Eintragung der Revisionsstelle
+- Art. 62118 Verzicht auf eine eingeschränkte Revision
+- Art. 63 Auflösung
+- Art. 64 Widerruf der Auflösung
+- Art. 65 Löschung
+- Art. 65a
+- Art. 66 Anmeldung und Belege
+- Art. 67 Errichtungsakt
+- Art. 68 Inhalt des Eintrags
+- Art. 69 Änderungen in der Zusammensetzung der Verwaltung
+- Art. 70 Anwendung der Bestimmungen über die Aktiengesellschaft
+- Art. 71 Anmeldung und Belege
+- Art. 72 Errichtungsakt
+- Art. 73 Inhalt des Eintrags
+- Art. 74 Anmeldung und Belege
+- Art. 75161
+- Art. 76 Inhalt des Eintrags
+- Art. 77 Ordentliche Kapitalherabsetzung163
+- Art. 78164 Kapitalherabsetzung im Fall einer Unterbilanz
+- Art. 79165 Gleichzeitige Herabsetzung und Erhöhung des Stammkapitals
+- Art. 80 Herabsetzung und gleichzeitige Wiedererhöhung des Stammkapitals auf einen tieferen als den bisherigen Betrag
+- Art. 81 Herabsetzung oder Aufhebung der Nachschusspflicht
+- Art. 82
+- Art. 83
+- Art. 84 Anmeldung und Belege
+- Art. 85 Öffentliche Urkunde über die Errichtung174
+- Art. 86178
+- Art. 87 Inhalt des Eintrags
+- Art. 88 Verzeichnis der Genossenschafterinnen und Genossenschafter
+- Art. 89 Revision, Revisionsstelle, Auflösung und Löschung
+- Art. 90182 Pflicht zur Eintragung in das Handelsregister
+- Art. 90a185 Anmeldung und Belege
+- Art. 91 Besondere Voraussetzung der Eintragung
+- Art. 92 Inhalt des Eintrags
+- Art. 93 Auflösung und Löschung
+- Art. 94 Anmeldung und Belege
+- Art. 95 Inhalt des Eintrags
+- Art. 96 Informationsaustausch zwischen Handelsregisteramt
+und Stiftungsaufsichtsbehörde
+- Art. 97 Änderungen, Aufhebung und Löschung
+- Art. 98 Anmeldung und Belege
+- Art. 99 Inhalt des Eintrags
+- Art. 100 Auflösung und Löschung
+- Art. 101
+- Art. 102 Anmeldung und Belege
+- Art. 103 Errichtungsakt
+- Art. 104 Inhalt des Eintrags
+- Art. 105 Auflösung und Löschung
+- Art. 106 Anmeldung und Belege
+- Art. 107 Inhalt des Eintrags
+- Art. 108 Anwendbares Recht
+- Art. 109 Anmeldung und Belege
+- Art. 110 Inhalt des Eintrags
+- Art. 111 Koordination der Einträge von Haupt- und Zweigniederlassung
+- Art. 112 Fusion, Spaltung, Umwandlung und Vermögensübertragung
+- Art. 113 Anmeldung und Belege
+- Art. 114 Inhalt des Eintrags
+- Art. 115 Löschung
+- Art. 116 Unternehmens-Identifikationsnummer
+- Art. 116a225 Angabe der Rechtsform in der Firma
+- Art. 117227 Sitz, Rechtsdomizil sowie weitere Adressen
+- Art. 118 Zweckangaben
+- Art. 119229 Personenangaben
+- Art. 120 Leitungs- oder Verwaltungsorgane
+- Art. 121 Revisionsstelle
+- Art. 122231 Hinweis auf die vorangehende Eintragung
+- Art. 123 Eintragung am neuen Sitz
+- Art. 124 Eintragung am bisherigen Sitz
+- Art. 125 Übermittlung der Belege
+- Art. 126
+- Art. 127
+- Art. 128 Zeitpunkt der Anmeldung
+- Art. 129 Zeitpunkt der Eintragung
+- Art. 130 Anmeldung und zuständiges Handelsregisteramt
+- Art. 131 Belege
+- Art. 132 Inhalt des Eintrags
+- Art. 133 Anmeldung und zuständiges Handelsregisteramt
+- Art. 134 Belege
+- Art. 135 Inhalt des Eintrags
+- Art. 136 Anmeldung und Belege
+- Art. 137 Inhalt des Eintrags
+- Art. 138 Anmeldung und Belege
+- Art. 139 Inhalt des Eintrags
+- Art. 140 Fusion
+- Art. 141 Vermögensübertragung
+- Art. 142 Fusion
+- Art. 143 Umwandlung
+- Art. 144 Vermögensübertragung
+- Art. 145
+- Art. 146 Fusion
+- Art. 147 Spaltung und Vermögensübertragung
+- Art. 148
+- Art. 149 Nichtkaufmännische Prokura
+- Art. 150 Haupt der Gemeinderschaft
+- Art. 151 Beschlüsse der Gläubigerversammlung von Anleihensobligationen
+- Art. 152261 Inhalt der Aufforderungen des Handelsregisteramts
+- Art. 152a263 Zustellungen der Aufforderungen des Handelsregisteramts
+- Art. 153264 Verfügung
+- Art. 153a–153c265
+- Art. 154266 Mit einem Tätigkeitsverbot unvereinbare Funktionen
+- Art. 155 und 156267
+- Art. 157268 Ermittlung der Eintragungspflicht und von Änderungen
+eingetragener Tatsachen
+- Art. 158 Meldung und Eintragung des Konkurses
+- Art. 159272 Inhalt des Eintrags des Konkurses
+- Art. 159a274 Löschung von Amtes wegen bei Konkurs
+- Art. 160 Nachlassstundung
+- Art. 161 Nachlassvertrag mit Vermögensabtretung
+- Art. 162 und 163
+- Art. 164 Wiedereintragung
+- Art. 165
+- Art. 166 Aufbewahrung von Anmeldungen, Belegen und Korrespondenz
+- Art. 167 Herausgabe von Akten in Papierform
+- Art. 168 Herausgabe von Akten in elektronischer Form
+- Art. 169285 Datenqualität
+- Art. 170
+- Art. 171
+- Art. 172
+- Art. 173 Anwendbares Recht
+- Art. 174 Verzicht auf eine eingeschränkte Revision
+- Art. 175 Elektronische Anmeldungen und Belege
+- Art. 175a289
+- Art. 176 Firmenrecht
+- Art. 177 Geschäftsbezeichnungen und Enseignes
+- Art. 178 Altrechtliches Firmenverzeichnis
+- Art. 179 Unterlagen über die besondere Befähigung der Revisorinnen
+und Revisoren
+- Art. 180 Verfahren betreffend Eintragungen von Amtes wegen
+- Art. 181 Ausgestaltung der kantonalen Rechtsmittel
+- Art. 181a293 Übergangsbestimmungen zur Änderung vom 11. November 2015, zu Art. 52 Abs. 2 ZGB in der Fassung vom 12. Dezember 2014
+- Art. 181b296 Übergangsbestimmung zur Änderung vom 31. August 2022
+- Art. 182
+
+### SR 221.411.1 – Verordnung vom 6. März 2020 über die Gebühren für das Handelsregister (GebV-HReg)
+
+ELI: `/eli/cc/2020/180/de`
+
+- Art. 1 Gebührenpflicht
+- Art. 2 Verzicht auf Gebührenerhebung
+- Art. 3 Gebührenansätze
+- Art. 4 Auslagen
+- Art. 5 Vorschuss und Vorauszahlung
+- Art. 6 Rechnungsstellung und Fälligkeit
+- Art. 7 Verjährung
+- Art. 8 Verteilung der Gebühreneinnahmen zwischen Bund und Kantonen
+- Art. 9 Übergangsbestimmung
+- Art. 10 Aufhebung eines anderen Erlasses
+- Art. 11 Inkrafttreten
+
+### SR 221.415 – Verordnung vom 15. Februar 2006 über das Schweizerische Handelsamtsblatt (Verordnung SHAB, VSHAB)
+
+ELI: `/eli/cc/2006/78/de`
+
+- Art. 1
+- Art. 23 Gesetzlich vorgeschriebene Bekanntmachungen
+- Art. 34 Gesetzlich nicht vorgeschriebene Bekanntmachungen
+- Art. 45 Unternehmensanzeigen
+- Art. 5
+- Art. 6 Erscheinungsrhythmus
+- Art. 7 Sprache
+- Art. 89 Form der Veröffentlichung
+- Art. 911 Einsichtnahme
+- Art. 10
+- Art. 1115 Suchfunktion und Zugriffshilfen
+- Art. 12 Abonnements von SHAB-Daten in elektronischer Form
+- Art. 1317 Nutzung und Verwertung von Daten
+- Art. 1418 Gebührenpflicht
+- Art. 15 Gebühren für Veröffentlichungen
+- Art. 1621
+- Art. 17 Aufhebung des bisherigen Rechts
+- Art. 18 Inkrafttreten
+
+### SR 221.431 – Verordnung vom 24. April 2002 über die Führung und Aufbewahrung der Geschäftsbücher (Geschäftsbücherverordnung; GeBüV)
+
+ELI: `/eli/cc/2002/216/de`
+
+- Art. 1
+- Art. 2 Grundsätze ordnungsgemässer Führung und Aufbewahrung
+der Bücher
+- Art. 35 Integrität (Echtheit und Unverfälschbarkeit)
+- Art. 4 Dokumentation
+- Art. 57 Allgemeine Sorgfaltspflicht
+- Art. 6 Verfügbarkeit
+- Art. 7 Organisation
+- Art. 8 Archiv
+- Art. 9 Zulässige Informationsträger
+- Art. 10 Überprüfung und Datenmigration
+- Art. 11 Aufhebung bisherigen Rechts
+- Art. 12 Inkrafttreten
+
+### SR 221.432 – Verordnung vom 21. November 2012 über die anerkannten Standards zur Rechnungslegung (VASR)
+
+ELI: `/eli/cc/2012/812/de`
+
+- Art. 1 Anerkannte Standards zur Rechnungslegung
+- Art. 2 Rechnungslegungsvorschriften der FINMA
+- Art. 3 Änderung bisherigen Rechts
+- Art. 4 Inkrafttreten
+
+### SR 221.433 – Verordnung vom 3. Dezember 2021 über Sorgfaltspflichten und Transparenz bezüglich Mineralien und Metallen aus Konfliktgebieten und Kinderarbeit (VSoTr)
+
+ELI: `/eli/cc/2021/847/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Begriffe
+- Art. 3 Prüfung auf Mineralien und Metalle aus Konflikt- und Hochrisikogebieten
+- Art. 4 Ausnahmen für Einfuhr- und Bearbeitungsmengen
+- Art. 5 Prüfung auf Verdacht auf Kinderarbeit
+- Art. 6 Ausnahme für kleine und mittlere Unternehmen
+- Art. 7 Ausnahme für Unternehmen mit geringen Risiken
+- Art. 8 Offensichtlicher Einsatz von Kinderarbeit
+- Art. 9
+- Art. 10 Lieferkettenpolitik bezüglich Mineralien und Metallen
+- Art. 11 Lieferkettenpolitik bezüglich Kinderarbeit
+- Art. 12 System zur Rückverfolgbarkeit der Lieferkette bezüglich Mineralien und Metallen
+- Art. 13 System der Rückverfolgbarkeit der Lieferkette bezüglich Kinderarbeit
+- Art. 14 Meldeverfahren
+- Art. 15 Risikomanagement
+- Art. 16 Prüfung im Bereich Mineralien und Metalle
+- Art. 17
+- Art. 18
+
+### SR 221.434 – Verordnung vom 23. November 2022 über die Berichterstattung über Klimabelange
+
+ELI: `/eli/cc/2022/747/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Erfüllung der Pflicht zur Berichterstattung über Klimabelange
+- Art. 3 Berichterstattung über Klimabelange gestützt auf die Empfehlungen der «Task Force on Climate-related Financial Disclosures»
+- Art. 4 Veröffentlichung
+- Art. 5 Übergangsbestimmung
+- Art. 6 Inkrafttreten
+
+### SR 221.522.1 – Verordnung vom 9. Dezember 1949 über die Gläubigergemeinschaft bei Anleihensobligationen
+
+ELI: `/eli/cc/1949/1666_1770_1701/de`
+
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 4
+- Art. 5
+- Art. 6
+- Art. 7
+- Art. 8
+
+## 23 Geistiges Eigentum und Datenschutz
+
+### SR 231.1 – Bundesgesetz vom 9. Oktober 1992 über das Urheberrecht und verwandte Schutzrechte (Urheberrechtsgesetz, URG)
+
+ELI: `/eli/cc/1993/1798_1798_1798/de`
+
+- Art. 1
+- Art. 2 Werkbegriff
+- Art. 3 Werke zweiter Hand
+- Art. 4 Sammelwerke
+- Art. 5 Nicht geschützte Werke
+- Art. 6 Begriff
+- Art. 7 Miturheberschaft
+- Art. 8 Vermutung der Urheberschaft
+- Art. 9 Anerkennung der Urheberschaft
+- Art. 10 Verwendung des Werks
+- Art. 11 Werkintegrität
+- Art. 12 Erschöpfungsgrundsatz
+- Art. 13 Vermieten von Werkexemplaren
+- Art. 13a8 Zugänglichmachen von audiovisuellen Werken
+- Art. 14 Zutritts- und Ausstellungsrecht des Urhebers oder der Urheberin
+- Art. 15 Schutz vor Zerstörung
+- Art. 16 Rechtsübergang
+- Art. 17 Rechte an Programmen
+- Art. 18 Zwangsvollstreckung
+- Art. 19 Verwendung zum Eigengebrauch
+- Art. 20 Vergütung für den Eigengebrauch
+- Art. 21 Entschlüsselung von Computerprogrammen
+- Art. 22 Verbreitung gesendeter Werke
+- Art. 22a12 Nutzung von Archivwerken der Sendeunternehmen
+- Art. 22b14 Verwendung von verwaisten Werken
+- Art. 22c15 Zugänglichmachen gesendeter musikalischer Werke
+- Art. 23 Zwangslizenz zur Herstellung von Tonträgern
+- Art. 24 Archivierungs- und Sicherungsexemplare
+- Art. 24a17 Vorübergehende Vervielfältigungen
+- Art. 24b18 Vervielfältigungen zu Sendezwecken
+- Art. 24c20 Verwendung von Werken durch Menschen mit Behinderungen
+- Art. 24d21 Verwendung von Werken zum Zweck der wissenschaftlichen Forschung
+- Art. 24e22 Bestandesverzeichnisse
+- Art. 25 Zitate
+- Art. 26 Museums‑, Messe- und Auktionskataloge
+- Art. 27 Werke auf allgemein zugänglichem Grund
+- Art. 28 Berichterstattung über aktuelle Ereignisse
+- Art. 29 Im Allgemeinen
+- Art. 30 Miturheberschaft
+- Art. 31 Unbekannte Urheberschaft
+- Art. 32 Berechnung
+- Art. 33 Rechte der ausübenden Künstler und Künstlerinnen
+- Art. 33a36 Persönlichkeitsrechte der ausübenden Künstler und Künstlerinnen
+- Art. 3438 Mehrere ausübende Künstler und Künstlerinnen
+- Art. 35 Vergütungsanspruch für die Verwendung von Ton- und
+Tonbildträgern
+- Art. 35a39 Zugänglichmachen von Darbietungen in audiovisuellen Werken
+- Art. 3640 Rechte des Herstellers oder der Herstellerin von Ton- oder
+Tonbildträgern
+- Art. 37 Rechte der Sendeunternehmen
+- Art. 38 Rechtsübergang, Zwangsvollstreckung und Schranken des Schutzes
+- Art. 39 Schutzdauer
+- Art. 39a Schutz technischer Massnahmen
+- Art. 39b Beobachtungsstelle für technische Massnahmen
+- Art. 39c Schutz von Informationen für die Wahrnehmung von Rechten
+- Art. 39d
+- Art. 40
+- Art. 41 Grundsatz
+- Art. 42 Voraussetzungen
+- Art. 43 Dauer; Veröffentlichung
+- Art. 43a
+- Art. 44 Verwertungspflicht
+- Art. 45 Grundsätze der Geschäftsführung
+- Art. 46 Tarifpflicht
+- Art. 47 Gemeinsamer Tarif
+- Art. 48 Grundlagen der Verteilung
+- Art. 49 Verteilung des Verwertungserlöses
+- Art. 50 Auskunfts- und Rechenschaftspflicht
+- Art. 51
+- Art. 5254 Aufsichtsbehörde
+- Art. 53 Umfang der Aufsicht
+- Art. 54 Massnahmen bei Pflichtverletzungen
+- Art. 55 Eidgenössische Schiedskommission für die Verwertung
+von Urheberrechten und verwandten Schutzrechten
+- Art. 56 Zusammensetzung der Schiedskommission
+- Art. 57 Besetzung für den Entscheid
+- Art. 58 Administrative Aufsicht
+- Art. 59 Tarifgenehmigung
+- Art. 60 Grundsatz der Angemessenheit
+- Art. 61 Feststellungsklage
+- Art. 62 Leistungsklagen
+- Art. 63 Einziehung im Zivilverfahren
+- Art. 6462
+- Art. 6563 Vorsorgliche Massnahmen
+- Art. 66 Veröffentlichung des Urteils
+- Art. 66a64 Mitteilung von Urteilen
+- Art. 67 Urheberrechtsverletzung
+- Art. 68 Unterlassung der Quellenangabe
+- Art. 69 Verletzung von verwandten Schutzrechten
+- Art. 69a78 Verletzung des Schutzes von technischen Massnahmen und
+von Informationen für die Wahrnehmung von Rechten
+- Art. 7079 Unerlaubte Geltendmachung von Rechten
+- Art. 71 Widerhandlungen in Geschäftsbetrieben
+- Art. 7281 Einziehung im Strafverfahren
+- Art. 73 Strafverfolgung
+- Art. 74
+- Art. 7589 Anzeige verdächtiger Waren
+- Art. 7690 Antrag auf Hilfeleistung
+- Art. 7791 Zurückbehalten von Waren
+- Art. 77a92 Proben oder Muster
+- Art. 77b94 Wahrung von Fabrikations- und Geschäftsgeheimnissen
+- Art. 77c95 Mitteilung über den Antrag auf Vernichtung einer Ware96
+- Art. 77d99 Zustimmung
+- Art. 77e100 Beweismittel
+- Art. 77f101 Schadenersatz
+- Art. 77g102 Kosten
+- Art. 77h103 Haftungserklärung und Schadenersatz
+- Art. 77hbis 104 Vereinfachtes Verfahren zur Vernichtung von Kleinsendungen
+- Art. 77i
+- Art. 78 Ausführungsbestimmungen
+- Art. 79 Aufhebung von Bundesgesetzen
+- Art. 80 Bestehende Schutzobjekte
+- Art. 81 Bestehende Verträge
+- Art. 81a109 Klagebefugnis von Lizenznehmern
+- Art. 82 Bewilligungen für die Verwertung von Urheberrechten
+- Art. 83 Tarife
+- Art. 84
+
+### SR 231.11 – Verordnung vom 26. April 1993 über das Urheberrecht und verwandte Schutzrechte (Urheberrechtsverordnung, URV)
+
+ELI: `/eli/cc/1993/1821_1821_1821/de`
+
+- Art. 1 Wahl
+- Art. 25 Rechtsstellung
+- Art. 3 Administrative Leitung
+- Art. 4 Sekretariat
+- Art. 59 Information
+- Art. 6 Sitz
+- Art. 710 Rechnungsführung
+- Art. 811
+- Art. 9 Antragstellung
+- Art. 10 Einleitung des Verfahrens
+- Art. 1112 Zirkularbeschluss
+- Art. 12 Einberufung einer Sitzung
+- Art. 13 Anhörung
+- Art. 14 Beratung
+- Art. 15 Anpassung der Tarifvorlage
+- Art. 16 Eröffnung des Entscheids
+- Art. 16a Gebühren und Auslagen
+- Art. 16b Zahlungspflicht
+- Art. 16c Fälligkeit
+- Art. 16d Anwendbarkeit der Allgemeinen Gebührenverordnung
+- Art. 16e20 Organisation
+- Art. 16f Wahrnehmung der Aufgaben
+- Art. 16g Meldungen
+- Art. 17
+- Art. 17a22
+- Art. 18 Geltungsbereich
+- Art. 18a Kleinsendung
+- Art. 18b Antrag auf Hilfeleistung
+- Art. 19 Zurückbehalten von Waren
+- Art. 20 Übertragung der Zuständigkeit bei Kleinsendungen
+- Art. 20a Proben oder Muster
+- Art. 20b Wahrung von Fabrikations- und Geschäftsgeheimnissen
+- Art. 20c Aufbewahrung von Beweismitteln bei Vernichtung der Ware
+- Art. 20d Bearbeitung, Bekanntgabe und Aufbewahrung von Personendaten und Daten juristischer Personen
+- Art. 21 Gebühren
+- Art. 21a–21f26
+- Art. 22 Aufhebung bisherigen Rechts
+- Art. 23 Inkrafttreten
+
+### SR 231.2 – Bundesgesetz vom 9. Oktober 1992 über den Schutz von Topographien von Halbleitererzeugnissen (Topographiengesetz, ToG)
+
+ELI: `/eli/cc/1993/1828_1828_1828/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Geltungsbereich
+- Art. 3 Rechtsinhaber
+- Art. 4 Rechtsübergang
+- Art. 5 Nutzungsrechte
+- Art. 6 Erschöpfungsgrundsatz
+- Art. 7 Rechtsmässige Nachbildung und Weiterentwicklung
+- Art. 8 Gutgläubiger Erwerb
+- Art. 9
+- Art. 10 Zivilrechtlicher Schutz
+- Art. 11 Strafbestimmungen
+- Art. 1210 Hilfeleistung beim Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet
+- Art. 13 Zuständigkeit
+- Art. 14 Anmeldung
+- Art. 15 Eintragung und Löschung
+- Art. 16 Öffentlichkeit des Registers
+- Art. 16a14 Elektronischer Behördenverkehr
+- Art. 1715
+- Art. 18
+- Art. 19 Bestehende Topographien
+- Art. 20 Bestehende Verträge
+- Art. 21
+
+### SR 231.21 – Verordnung vom 26. April 1993 über den Schutz von Topographien von Halbleitererzeugnissen (Topographienverordnung, ToV)
+
+ELI: `/eli/cc/1993/1834_1834_1834/de`
+
+- Art. 1 Zuständigkeit
+- Art. 2 Sprache
+- Art. 2a7 Unterschrift
+- Art. 2b8 Elektronische Kommunikation
+- Art. 39 Gebühren
+- Art. 411 Mehrere Anmelder und Anmelderinnen
+- Art. 5 Unterlagen zur Identifizierung
+- Art. 6 Unvollständige Anmeldung
+- Art. 7 Registerinhalt
+- Art. 8 Aktenheft
+- Art. 9 Fabrikations- oder Geschäftsgeheimnis
+- Art. 1017 Bestätigung
+- Art. 1118 Veröffentlichung
+- Art. 1221 Änderung und Löschung von Einträgen
+- Art. 13 Berichtigung
+- Art. 1422 Registerauszüge
+- Art. 15 Aufbewahrung und Rückgabe
+- Art. 16 Geltungsbereich
+- Art. 16a Kleinsendung
+- Art. 16b Antrag auf Hilfeleistung
+- Art. 17 Zurückbehalten von Halbleitererzeugnissen
+- Art. 18 Übertragung der Zuständigkeit bei Kleinsendungen
+- Art. 18a Proben oder Muster
+- Art. 18b Wahrung von Fabrikations- und Geschäftsgeheimnissen
+- Art. 18c Aufbewahrung von Beweismitteln bei Vernichtung der Halbleitererzeugnisse
+- Art. 18d Bearbeitung, Bekanntgabe und Aufbewahrung von Personendaten und Daten juristischer Personen
+- Art. 19 Gebühren
+- Art. 20
+
+### SR 231.5 – Bundesratsbeschluss vom 26. September 1924 betreffend Gegenrecht zwischen der Schweiz und den Vereinigten Staaten von Amerika über das Urheberrecht an Werken der Literatur und Kunst
+
+ELI: `/eli/cc/40/500_492_506/de`
+
+_No articles listed._
+
+### SR 232.11 – Bundesgesetz vom 28. August 1992 über den Schutz von Marken und Herkunftsangaben (Markenschutzgesetz, MSchG)
+
+ELI: `/eli/cc/1993/274_274_274/de`
+
+- Art. 1 Begriff
+- Art. 2 Absolute Ausschlussgründe
+- Art. 3 Relative Ausschlussgründe
+- Art. 4 Eintragung zugunsten Nutzungsberechtigter
+- Art. 5 Entstehung des Markenrechts
+- Art. 6 Hinterlegungspriorität
+- Art. 7 Priorität nach der Pariser Verbandsübereinkunft
+- Art. 8 Ausstellungspriorität
+- Art. 9 Prioritätserklärung
+- Art. 10 Gültigkeitsdauer und Verlängerung der Eintragung
+- Art. 11 Gebrauch der Marke
+- Art. 12 Folgen des Nichtgebrauchs
+- Art. 13 Ausschliessliches Recht
+- Art. 14 Einschränkung zugunsten vorbenützter Zeichen
+- Art. 15 Berühmte Marke
+- Art. 16 Wiedergabe von Marken in Wörterbüchern
+und anderen Nachschlagewerken
+- Art. 17 Übertragung
+- Art. 17a16 Teilung des Eintragungsgesuchs oder der Eintragung
+- Art. 18 Lizenz
+- Art. 19 Nutzniessung und Pfandrecht; Zwangsvollstreckung
+- Art. 20
+- Art. 21 Garantiemarke
+- Art. 22 Kollektivmarke
+- Art. 23 Markenreglement
+- Art. 24 Genehmigung des Reglements
+- Art. 25 Rechtswidriges Reglement
+- Art. 26 Reglementswidriger Gebrauch
+- Art. 27 Übertragung und Lizenz
+- Art. 27a Gegenstand
+- Art. 27b Eintragungsberechtigte
+- Art. 27c Markenreglement
+- Art. 27d Rechte
+- Art. 27e Nicht anwendbare Bestimmungen
+- Art. 28 Hinterlegung
+- Art. 29 Hinterlegungsdatum
+- Art. 30 Entscheid und Eintragung
+- Art. 31 Widerspruch
+- Art. 32 Glaubhaftmachung des Gebrauchs
+- Art. 33 Entscheid über den Widerspruch
+- Art. 34 Parteientschädigung
+- Art. 35 Voraussetzung28
+- Art. 35a31 Antrag
+- Art. 35b32 Entscheid
+- Art. 35c33 Verfahren
+- Art. 3634
+- Art. 37 Führung des Registers
+- Art. 38 Veröffentlichungen
+- Art. 39 Öffentlichkeit des Registers; Akteneinsicht
+- Art. 4037 Elektronischer Behördenverkehr
+- Art. 41
+- Art. 4243
+- Art. 43
+- Art. 44 Anwendbares Recht
+- Art. 45 Gesuche um Registrierungen im internationalen Register
+- Art. 46 Wirkung der internationalen Registrierung in der Schweiz
+- Art. 46a Umwandlung einer internationalen Registrierung in ein nationales
+Eintragungsgesuch
+- Art. 47 Grundsatz
+- Art. 4855 Herkunftsangabe für Waren
+- Art. 48a56 Naturprodukte
+- Art. 48b57 Lebensmittel
+- Art. 48c59 Andere Produkte, insbesondere industrielle Produkte
+- Art. 48d60 Ausnahmen
+- Art. 4962 Herkunftsangabe für Dienstleistungen
+- Art. 49a63 Herkunftsangabe in der Werbung
+- Art. 5064 Besondere Bestimmungen
+- Art. 50a65 Produzentenkennzeichen
+- Art. 50b67 …
+- Art. 50c Internationales Register für Ursprungsbezeichnungen und geografische Angaben
+- Art. 50d Internationale Registrierung von Ursprungsbezeichnungen und geografischen Angaben, deren geografisches Ursprungsgebiet auf schweizerischem Staatsgebiet liegt
+- Art. 50e Wirksamkeit der internationalen Registrierung von Ursprungsbezeichnungen und geografischen Angaben, deren Schutz auf schweizerischem Staatsgebiet verlangt wurde
+- Art. 50f Gebühren
+- Art. 51
+- Art. 51a73 Beweislastumkehr
+- Art. 52 Feststellungsklage
+- Art. 53 Klage auf Übertragung der Marke
+- Art. 5476 Mitteilung von Entscheiden
+- Art. 55 Leistungsklage
+- Art. 5681 Klageberechtigung der Verbände, Konsumentenorganisationen und Behörden
+- Art. 57 Einziehung im Zivilverfahren
+- Art. 5883
+- Art. 5984 Vorsorgliche Massnahmen
+- Art. 60 Veröffentlichung des Urteils
+- Art. 6185 Markenrechtsverletzung
+- Art. 62 Betrügerischer Markengebrauch
+- Art. 63 Reglementswidriger Gebrauch einer Garantie-
+oder Kollektivmarke
+- Art. 6495 Gebrauch unzutreffender Herkunftsangaben
+- Art. 65 Widerhandlungen betreffend das Produzentenkennzeichen
+- Art. 65a97 Nicht strafbare Handlungen
+- Art. 66 Aussetzung des Verfahrens
+- Art. 67 Widerhandlungen in Geschäftsbetrieben
+- Art. 6899 Einziehung im Strafverfahren
+- Art. 69 Zuständigkeit der kantonalen Behörden
+- Art. 70102 Anzeige verdächtiger Sendungen
+- Art. 71103 Antrag auf Hilfeleistung
+- Art. 72104 Zurückbehalten von Waren
+- Art. 72a105 Proben oder Muster
+- Art. 72b107 Wahrung von Fabrikations- und Geschäftsgeheimnissen
+- Art. 72c108 Mitteilung über den Antrag auf Vernichtung einer Ware109
+- Art. 72d112 Zustimmung
+- Art. 72e113 Beweismittel
+- Art. 72f114 Schadenersatz
+- Art. 72g115 Kosten
+- Art. 72h116 Haftungserklärung und Schadenersatz
+- Art. 72i117 Vereinfachtes Verfahren zur Vernichtung von Kleinsendungen
+- Art. 73
+- Art. 74 Aufhebung bisherigen Rechts
+- Art. 75 Änderung bisherigen Rechts
+- Art. 76 Hinterlegte oder eingetragene Marken
+- Art. 77 Bisher nicht eintragbare Marken
+- Art. 78 Gebrauchspriorität
+- Art. 78a122 Klagebefugnis von Lizenznehmern
+- Art. 79
+
+### SR 232.111 – Verordnung vom 23. Dezember 1992 über den Schutz von Marken und Herkunftsangaben (MSchV)
+
+ELI: `/eli/cc/1993/296_296_296/de`
+
+- Art. 1 Zuständigkeit
+- Art. 28 Fristberechnung
+- Art. 3 Sprache
+- Art. 410 Mehrere Hinterleger oder Inhaber einer Marke
+- Art. 4a12 Parteiwechsel
+- Art. 514 Vertretungsvollmacht
+- Art. 615 Unterschrift
+- Art. 6a16 Nachweise
+- Art. 717 Gebühren
+- Art. 7a19 Elektronische Kommunikation
+- Art. 8 Hinterlegung
+- Art. 8a24 Umwandlung einer internationalen Registrierung
+in ein Eintragungsgesuch
+- Art. 9 Eintragungsgesuch
+- Art. 1032 Wiedergabe der Marke
+- Art. 1134 Waren- und Dienstleistungsverzeichnis
+- Art. 12 Priorität nach der Pariser Verbandsübereinkunft
+- Art. 13 Ausstellungspriorität
+- Art. 14 Gemeinsame Bestimmungen zu Prioritätserklärung und
+Prioritätsbeleg
+- Art. 14a39 Einreichungsdatum bei Postsendungen
+- Art. 15 Eingangsprüfung
+- Art. 16 Formalprüfung
+- Art. 1740 Materielle Prüfung
+- Art. 17a41 Weiterbehandlung bei Fristversäumnis
+- Art. 1842 Hinterlegungsgebühr und Klassenzuschlag
+- Art. 18a43 Beschleunigung der Prüfung
+- Art. 19 Eintragung und Veröffentlichung
+- Art. 20 Form und Inhalt des Widerspruchs
+- Art. 2147 Zustellungsdomizil in der Schweiz
+- Art. 22 Schriftenwechsel
+- Art. 23 Mehrere Widersprüche, Aussetzung des Verfahrens49
+- Art. 2453 Rückerstattung der Widerspruchsgebühr
+- Art. 24a Form und Inhalt des Antrags
+- Art. 24b Zustellungsdomizil in der Schweiz
+- Art. 24c Schriftenwechsel
+- Art. 24d Mehrere Anträge, Aussetzung des Verfahrens
+- Art. 24e Rückerstattung der Gebühr für die Löschung
+- Art. 2557 Mitteilung über den Ablauf der Gültigkeitsdauer
+- Art. 26 Verfahren58
+- Art. 2763 Rückerstattung der Verlängerungsgebühr
+- Art. 28 Übertragung
+- Art. 29 Lizenz
+- Art. 30 Sonstige Änderungen der Markeneintragung
+- Art. 31 Löschung von Rechten anderer
+- Art. 32 Berichtigungen
+- Art. 33 und 3467
+- Art. 3568
+- Art. 36 Inhalt
+- Art. 37 Akteneinsicht
+- Art. 38 Auskünfte über Eintragungsgesuche
+- Art. 39 Aktenaufbewahrung
+- Art. 40 Registerinhalt
+- Art. 40a87
+- Art. 4188 Einsichtnahme; Registerauszüge
+- Art. 41a90 Prioritätsbeleg für schweizerische Ersthinterlegungen
+- Art. 42 Gegenstand der Veröffentlichung
+- Art. 4392 Publikationsorgan
+- Art. 4493
+- Art. 45–4694
+- Art. 47 Einreichung des Gesuchs
+- Art. 48 Prüfung durch das IGE
+- Art. 49 Aktenheft
+- Art. 50 Widerspruchsverfahren
+- Art. 50a108 Verfahren zur Löschung einer internationalen Registrierung wegen Nichtgebrauchs
+- Art. 51 Aussetzung des Entscheides
+- Art. 52110 Schutzverweigerung und Ungültigerklärung
+- Art. 52a Gegenstand und Geltungsbereich
+- Art. 52b Begriffe
+- Art. 52c Verwendung von Hinweisen auf eine Region oder einen Ort
+- Art. 52d Missbrauchsverbot
+- Art. 52e Massgebliche Herstellungskosten
+- Art. 52f Forschungs- und Entwicklungskosten
+- Art. 52g Berücksichtigung der Forschungs- und Entwicklungskosten
+- Art. 52h Materialkosten
+- Art. 52i Berücksichtigung der Materialkosten
+- Art. 52j Berücksichtigung der Kosten für Hilfsstoffe
+- Art. 52k In der Schweiz ungenügend verfügbare Materialien
+- Art. 52l Fertigungskosten
+- Art. 52m Berücksichtigung der Fertigungskosten
+- Art. 52n Berechnung der im Ausland anfallenden Herstellungskosten
+- Art. 52o
+- Art. 52p Einreichung des Gesuchs
+- Art. 52q Prüfung des Gesuchs
+- Art. 52r
+- Art. 53
+- Art. 54 Geltungsbereich
+- Art. 54a Kleinsendung
+- Art. 54b Antrag auf Hilfeleistung
+- Art. 55 Zurückbehalten von Waren
+- Art. 56 Übertragung der Zuständigkeit bei Kleinsendungen
+- Art. 56a Proben oder Muster
+- Art. 56b Wahrung von Fabrikations- und Geschäftsgeheimnissen
+- Art. 56c Aufbewahrung von Beweismitteln bei Vernichtung der Ware
+- Art. 56d Bearbeitung, Bekanntgabe und Aufbewahrung von Personendaten und Daten juristischer Personen
+- Art. 57 Gebühren
+- Art. 58
+- Art. 59 Fristen
+- Art. 60 Gebrauchspriorität
+- Art. 60a121 Übergangsbestimmung zur Änderung vom 2. September 2015
+- Art. 60b122 Übergangsbestimmung zur Änderung vom 18. August 2021
+- Art. 61
+
+### SR 232.112.1 – Verordnung vom 2. September 2015 über die Verwendung von schweizerischen Herkunftsangaben für Lebensmittel (HasLV)
+
+ELI: `/eli/cc/2015/611/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Grenzgebiete
+- Art. 3 Berechnung des erforderlichen Mindestanteils
+- Art. 4 Erfüllung des erforderlichen Mindestanteils
+- Art. 5 Besondere Bestimmungen
+- Art. 6 Nicht verfügbare Naturprodukte
+- Art. 7 Festlegung des Selbstversorgungsgrades von Naturprodukten
+- Art. 7a9 Selbstversorgungsgrad von Rohstoffen, die in der Schweiz gemäss öffentlich zugänglichen Angaben der Organisationen der Land- und Ernährungswirtschaft in ungenügender Menge verfügbar sind
+- Art. 8 Temporär nicht verfügbare Naturprodukte
+- Art. 911
+- Art. 10 Verwendung von schweizerischen Herkunftsangaben nach einer Änderung der Anhänge
+- Art. 10a12 Verwendung von schweizerischen Herkunftsangaben nach einer Änderung in der Liste des Selbstversorgungsgrades von Rohstoffen
+- Art. 11 Übergangsbestimmung
+- Art. 11a13 Übergangsbestimmung zur Änderung vom 18. Mai 2022
+- Art. 11b14 Übergangsbestimmung zur Änderung vom 29. Oktober 2025
+- Art. 12 Inkrafttreten
+
+### SR 232.112.11 – Verordnung des WBF vom 15. November 2016 über die Verwendung von schweizerischen Herkunftsangaben für Lebensmittel (HasLV-WBF)
+
+ELI: `/eli/cc/2016/709/de`
+
+- Art. 1 Temporär nicht verfügbare Naturprodukte
+- Art. 22
+- Art. 2a3 Übergangsbestimmung zur Änderung vom 18. Mai 2022.
+- Art. 3 Inkrafttreten
+
+### SR 232.112.2 – Verordnung vom 2. September 2015 über das Register für Ursprungsbezeichnungen und geografische Angaben nicht landwirtschaftlicher Erzeugnisse (GUB/GGA-Verordnung für nicht landwirtschaftliche Erzeugnisse)
+
+ELI: `/eli/cc/2015/612/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Begriffsbestimmungen
+- Art. 3 Gleichlautende Bezeichnungen
+- Art. 4 Berechtigung zur Einreichung eines Eintragungsgesuchs
+- Art. 5 Inhalt des Eintragungsgesuchs
+- Art. 6 Pflichtenheft
+- Art. 7 Stellungnahmen
+- Art. 8 Prüfung, Entscheid und Veröffentlichung
+- Art. 9 Einsprache gegen die Eintragung
+- Art. 10 Änderung des Pflichtenhefts
+- Art. 11 Eintragung in das Register
+- Art. 12 Dauer des Eintrags
+- Art. 13
+- Art. 14
+- Art. 15 Bezeichnung und Tätigkeit der Zertifizierungsstelle
+- Art. 16 Kontrollmodalitäten
+- Art. 17 Rückverfolgbarkeitszeichen
+- Art. 18 Kontrolle ausländischer Bezeichnungen
+- Art. 19 Schutzumfang
+- Art. 20 Gebrauch der Vermerke GUB und GGA oder ähnlicher Vermerke
+- Art. 21 Übergangsfristen für die Verwendung geschützter Bezeichnungen
+- Art. 22
+
+### SR 232.112.3 – Verordnung vom 23. November 2016 über die Verwendung von schweizerischen Herkunftsangaben für kosmetische Mittel
+
+ELI: `/eli/cc/2016/737/de`
+
+- Art. 1 Gegenstand und Geltungsbereich
+- Art. 2 Begriffe
+- Art. 3 Grundsatz
+- Art. 4 Massgebliche Herstellungskosten
+- Art. 5 Angaben zu spezifischen Tätigkeiten
+- Art. 6 Herkunftsangaben für einzelne Materialien
+- Art. 7 Zwingende Angabe des Warenursprungs
+- Art. 8 Angaben zur Verfügbarkeit von Materialien in der Schweiz
+- Art. 9 Inkrafttreten
+
+### SR 232.119 – Verordnung vom 23. Dezember 1971 über die Benützung des Schweizer Namens für Uhren
+
+ELI: `/eli/cc/1971/1908_1915_1915/de`
+
+- Art. 13 Uhrenbegriff
+- Art. 1a4 Definition der Schweizer Uhr
+- Art. 2 Definition des schweizerischen Uhrwerks5
+- Art. 2a17 Definition des schweizerischen Bestandteils
+- Art. 2b18 Definition des Zusammensetzens in der Schweiz
+- Art. 2c19 Massgebliche Herstellungskosten
+- Art. 2d20 In der Schweiz ungenügend verfügbare Materialien
+- Art. 322 Voraussetzungen für die Benützung des Schweizer Namens und des Schweizerkreuzes23
+- Art. 427 Anbringen der Herkunftsbezeichnung
+a. auf Uhrengehäusen
+- Art. 532 b. auf Zifferblättern
+- Art. 634 c. auf anderen Uhrenbestandteilen
+- Art. 735 Muster und Musterkollektionen
+- Art. 837 Strafbestimmungen
+- Art. 938 Inkrafttreten
+
+### SR 232.12 – Bundesgesetz vom 5. Oktober 2001 über den Schutz von Design (Designgesetz, DesG)
+
+ELI: `/eli/cc/2002/226/de`
+
+- Art. 1 Schutzgegenstand
+- Art. 2 Schutzvoraussetzungen
+- Art. 3 Unschädliche Offenbarungen
+- Art. 4 Ausschlussgründe
+- Art. 5 Entstehung des Designrechts und Dauer des Schutzes
+- Art. 6 Hinterlegungspriorität
+- Art. 7 Berechtigung zur Hinterlegung
+- Art. 8 Schutzbereich
+- Art. 9 Wirkungen des Designrechts
+- Art. 10 Auskunftspflicht der Rechtsinhaberin
+- Art. 11 Mehrere Rechtsinhaberinnen
+- Art. 12 Weiterbenützungsrecht
+- Art. 13 Mitbenützungsrecht
+- Art. 14 Übertragung
+- Art. 15 Lizenz
+- Art. 16 Nutzniessung und Pfandrecht
+- Art. 17 Zwangsvollstreckung
+- Art. 185
+- Art. 19 Allgemeine Voraussetzungen
+- Art. 20 Sammelhinterlegung
+- Art. 21 Wirkung der Hinterlegung
+- Art. 22 Voraussetzungen und Wirkungen der Priorität
+- Art. 23 Formvorschriften
+- Art. 24 Eintragung
+- Art. 25 Veröffentlichung
+- Art. 26 Aufschub der Veröffentlichung
+- Art. 26a11 Elektronischer Behördenverkehr
+- Art. 27 Öffentlichkeit des Registers und Akteneinsicht
+- Art. 28 Löschung der Eintragung
+- Art. 29 Internationale Hinterlegung
+- Art. 30
+- Art. 31
+- Art. 3215
+- Art. 33 Feststellungsklage
+- Art. 34 Abtretungsklage
+- Art. 35 Leistungsklage
+- Art. 36 Einziehung im Zivilverfahren
+- Art. 3718
+- Art. 3819 Vorsorgliche Massnahmen
+- Art. 39 Veröffentlichung des Urteils
+- Art. 4020 Mitteilung von Urteilen
+- Art. 41 Designrechtsverletzung
+- Art. 41a24 Nicht strafbare Handlungen
+- Art. 42 Widerhandlung in Geschäftsbetrieben
+- Art. 43 Aussetzung des Verfahrens
+- Art. 44 Einziehung im Strafverfahren
+- Art. 45 Strafverfolgung
+- Art. 4627 Anzeige verdächtiger Gegenstände
+- Art. 4728 Antrag auf Hilfeleistung
+- Art. 4829 Zurückbehaltung der Gegenstände
+- Art. 48a30 Proben oder Muster
+- Art. 48b32 Wahrung von Fabrikations- und Geschäftsgeheimnissen
+- Art. 48c33 Mitteilung über den Antrag auf Vernichtung der Gegenstände34
+- Art. 48d37 Zustimmung
+- Art. 48e38 Beweismittel
+- Art. 48f39 Schadenersatz
+- Art. 48g40 Kosten
+- Art. 4941 Haftungserklärung und Schadenersatz
+- Art. 49a42 Vereinfachtes Verfahren zur Vernichtung von Kleinsendungen
+- Art. 50 Vollzug
+- Art. 51 Aufhebung und Änderung bisherigen Rechts
+- Art. 52 Übergangsbestimmungen
+- Art. 53 Referendum und Inkrafttreten
+
+### SR 232.121 – Verordnung vom 8. März 2002 über den Schutz von Design (Designverordnung, DesV)
+
+ELI: `/eli/cc/2002/183/de`
+
+- Art. 1 Zuständigkeit
+- Art. 2 Fristen
+- Art. 3 Sprache
+- Art. 48 Mehrere Hinterlegerinnen oder Inhaberinnen eines Designs
+- Art. 59 Vertretungsvollmacht
+- Art. 6 Unterschrift
+- Art. 6a10 Nachweise
+- Art. 711 Elektronische Kommunikation
+- Art. 812 Hinterlegung
+- Art. 9 Eintragungsgesuch
+- Art. 10 Anforderungen an Abbildungen des Designs und Grösse
+einer Sammelhinterlegung
+- Art. 11 Prioritätserklärung und Prioritätsbeleg
+- Art. 12 Erlöschen des Prioritätsanspruchs
+- Art. 1318 Prioritätsbeleg für schweizerische Ersthinterlegungen
+- Art. 1419 Einreichungsdatum bei Postsendungen
+- Art. 15 Formalprüfung
+- Art. 16 Materielle Prüfung
+- Art. 17 Eintragungsgebühr
+- Art. 1824 Eintragung und Veröffentlichung
+- Art. 19 Veröffentlichung nach deren Aufschub
+- Art. 2027 Mitteilung über den Ablauf der Schutzperiode
+- Art. 21 Verfahren
+- Art. 21a30 Rückerstattung der Verlängerungsgebühr
+- Art. 22 Inhalt
+- Art. 23 Akteneinsicht
+- Art. 24 Aktenaufbewahrung
+- Art. 25 Registerinhalt
+- Art. 26 Einsichtnahme und Registerauszüge
+- Art. 27 Übertragung
+- Art. 28 Lizenz
+- Art. 29 Sonstige Änderungen im Register
+- Art. 30 Löschung von Rechten Dritter
+- Art. 31 Berichtigungen
+- Art. 32
+- Art. 3347
+- Art. 3448
+- Art. 35 Gegenstand der Veröffentlichungen
+- Art. 3649 Publikationsorgan
+- Art. 37 Geltungsbereich
+- Art. 37a Kleinsendung
+- Art. 37b Antrag auf Hilfeleistung
+- Art. 38 Zurückbehalten der Gegenstände
+- Art. 39 Übertragung der Zuständigkeit bei Kleinsendungen
+- Art. 39a Proben oder Muster
+- Art. 39b Wahrung von Fabrikations- und Geschäftsgeheimnissen
+- Art. 39c Aufbewahrung von Beweismitteln bei Vernichtung der Gegenstände
+- Art. 39d Bearbeitung, Bekanntgabe und Aufbewahrung von Personendaten und Daten juristischer Personen
+- Art. 40 Gebühren
+- Art. 41 Aufhebung bisherigen Rechts
+- Art. 42 Änderung bisherigen Rechts
+- Art. 43 Übergangsbestimmung zu laufenden Fristen
+- Art. 43a54
+- Art. 44 Inkrafttreten
+
+### SR 232.14 – Bundesgesetz vom 25. Juni 1954 über die Erfindungspatente (Patentgesetz, PatG)
+
+ELI: `/eli/cc/1955/871_893_899/de`
+
+- Art. 1
+- Art. 1a9
+- Art. 1b10
+- Art. 211
+- Art. 3
+- Art. 4
+- Art. 5
+- Art. 6
+- Art. 716
+- Art. 7a19
+- Art. 7b20
+- Art. 7c23
+- Art. 7d25
+- Art. 827
+- Art. 8a28
+- Art. 8b30
+- Art. 8c32
+- Art. 933
+- Art. 9a36
+- Art. 1037
+- Art. 11
+- Art. 12
+- Art. 1339
+- Art. 14
+- Art. 15
+- Art. 1648
+- Art. 17
+- Art. 18
+- Art. 1962
+- Art. 20
+- Art. 20a64
+- Art. 21–2365
+- Art. 2466
+- Art. 2568
+- Art. 26
+- Art. 27
+- Art. 2871
+- Art. 28a72
+- Art. 29
+- Art. 30
+- Art. 31
+- Art. 32
+- Art. 33
+- Art. 34
+- Art. 35
+- Art. 35a80
+- Art. 35b81
+- Art. 3683
+- Art. 36a84
+- Art. 37
+- Art. 38
+- Art. 39
+- Art. 40
+- Art. 40a92
+- Art. 40b93
+- Art. 40c94
+- Art. 40d95
+- Art. 40e96
+- Art. 4199
+- Art. 42–44100
+- Art. 45 und 46101
+- Art. 46a103
+- Art. 47
+- Art. 48
+- Art. 48a
+- Art. 48b
+- Art. 49
+- Art. 49a119
+- Art. 50
+- Art. 50a123
+- Art. 51124
+- Art. 52125
+- Art. 53 und 54126
+- Art. 55127
+- Art. 55a128
+- Art. 55b129
+- Art. 56
+- Art. 57134
+- Art. 58136
+- Art. 58a137
+- Art. 59
+- Art. 59a145
+- Art. 59b147
+- Art. 59c148
+- Art. 59d149
+- Art. 60
+- Art. 61
+- Art. 62157
+- Art. 63159
+- Art. 63a161
+- Art. 64
+- Art. 65162
+- Art. 65a163
+- Art. 66
+- Art. 67
+- Art. 68
+- Art. 69
+- Art. 70
+- Art. 70a169
+- Art. 71
+- Art. 72
+- Art. 73
+- Art. 74
+- Art. 75178
+- Art. 76179
+- Art. 77180
+- Art. 78181
+- Art. 79 und 80182
+- Art. 81
+- Art. 81a186
+- Art. 82
+- Art. 83
+- Art. 83a190
+- Art. 84
+- Art. 85
+- Art. 86
+- Art. 86a196
+- Art. 86b197
+- Art. 86c198
+- Art. 86d
+- Art. 86e
+- Art. 86f
+- Art. 86g
+- Art. 86h
+- Art. 86i
+- Art. 86j
+- Art. 86k
+- Art. 86l203
+- Art. 87−90204
+- Art. 91–94205
+- Art. 95206
+- Art. 96−101207
+- Art. 102 und 103208
+- Art. 104−106209
+- Art. 106a210
+- Art. 107 und 108211
+- Art. 109214
+- Art. 110218
+- Art. 110a219
+- Art. 111220
+- Art. 112–116221
+- Art. 117223
+- Art. 118224
+- Art. 119225
+- Art. 120226
+- Art. 121228
+- Art. 122232
+- Art. 123233
+- Art. 124234
+- Art. 125236
+- Art. 126237
+- Art. 127238
+- Art. 128239
+- Art. 129240
+- Art. 130242
+- Art. 131245
+- Art. 132249
+- Art. 133250
+- Art. 134252
+- Art. 135253
+- Art. 136254
+- Art. 137255
+- Art. 138256
+- Art. 139257
+- Art. 140258
+- Art. 140a262
+- Art. 140b
+- Art. 140c
+- Art. 140d
+- Art. 140e
+- Art. 140f
+- Art. 140g
+- Art. 140h
+- Art. 140i
+- Art. 140k
+- Art. 140l
+- Art. 140m
+- Art. 140n
+- Art. 140o
+- Art. 140p
+- Art. 140q
+- Art. 140r
+- Art. 140s
+- Art. 140t
+- Art. 140u
+- Art. 140v
+- Art. 140w
+- Art. 140x
+- Art. 140y
+- Art. 140z
+- Art. 141287
+- Art. 142289
+- Art. 143291
+- Art. 144292
+- Art. 145293
+- Art. 146295
+- Art. 147297
+- Art. 148299
+- Art. 149305
+
+### SR 232.141 – Verordnung vom 19. Oktober 1977 über die Erfindungspatente (Patentverordnung, PatV)
+
+ELI: `/eli/cc/1977/2027_2027_2027/de`
+
+- Art. 16 Zuständigkeit
+- Art. 211 Einreichungsdatum bei Postsendungen
+- Art. 312 Unterschrift
+- Art. 4 Sprache
+- Art. 4a20 Elektronische Kommunikation
+- Art. 4b21 Nachweise
+- Art. 5 Mehrere Anmelder
+- Art. 6 und 723
+- Art. 824
+- Art. 8a25
+- Art. 926
+- Art. 1027 Berechnung
+- Art. 11–1330
+- Art. 1431 Weiterbehandlung
+- Art. 15 Wiedereinsetzung in den früheren Stand
+a. Form und Inhalt des Gesuchs
+- Art. 16 b. Prüfung des Gesuchs
+- Art. 1739 Gebührenverordnung
+- Art. 17a41 Gebührenarten
+- Art. 1844 Jahresgebühren
+a. Fälligkeit im Allgemeinen
+- Art. 18a48 b. Fälligkeit bei Anmeldungen und bei Errichtung neuer Patente
+- Art. 18b49 c. Nicht rechtzeitige Zahlung
+- Art. 18c51 d. Vorauszahlung
+- Art. 18d52 e. Zahlungserinnerung
+- Art. 1953 Löschung des Patents
+- Art. 19a54
+- Art. 20 Rückerstattung
+- Art. 2161 Einzureichende Unterlagen
+- Art. 22 Berichtigung von Fehlern
+- Art. 2363 Form
+- Art. 24 Inhalt
+- Art. 25 Allgemeines
+- Art. 26 Beschreibung
+- Art. 2780 Sequenzprotokoll
+- Art. 28 Zeichnungen
+- Art. 29 Patentansprüche
+- Art. 3087 Unabhängige Patentansprüche
+- Art. 3191 Abhängige Patentansprüche
+- Art. 31a92 Anspruchsgebühr
+- Art. 32 Form und Inhalt der Zusammenfassung
+- Art. 33 Bereinigte Zusammenfassung
+- Art. 3499 Form
+- Art. 35 Frist
+- Art. 36102
+- Art. 37 Berichtigung
+- Art. 38 Verzicht auf Nennung
+- Art. 39109 Prioritätserklärung
+- Art. 39a110 Prioritätserklärung bei der inneren Priorität
+- Art. 40 Prioritätsbeleg
+- Art. 41 Ergänzende Prioritätsunterlagen
+- Art. 42 Mehrfache Priorität
+- Art. 43 Priorität bei Teilanmeldungen
+- Art. 43a119 Prioritätsbeleg für schweizerische Erstanmeldungen
+- Art. 44 Erklärung über die Ausstellungsimmunität
+- Art. 45 Ausweis
+- Art. 45a
+- Art. 45b Hinterlegungspflicht
+- Art. 45c Anerkannte Hinterlegungsstellen
+- Art. 45d Nachreichung des Aktenzeichens der Hinterlegung
+- Art. 45e Freigabe des hinterlegten biologischen Materials
+- Art. 45f Zugang zu biologischem Material
+- Art. 45g Verpflichtungserklärung
+- Art. 45h Aufbewahrungsdauer
+- Art. 45i Erneute Hinterlegung
+- Art. 45j Hinterlegung nach dem Budapester Vertrag
+- Art. 46 Anmeldedatum
+- Art. 46a Eingangsprüfung
+- Art. 46b Hinterlegungsbescheinigung
+- Art. 46c Fehlende Teile der Beschreibung oder fehlende Zeichnungen
+- Art. 46d Ursprünglich eingereichte technische Unterlagen
+- Art. 46e Teilanmeldung
+- Art. 47 Formalprüfung
+- Art. 48133 Zustellungsdomizil in der Schweiz
+- Art. 48a Antrag auf Erteilung eines Patents
+- Art. 48b Patentansprüche
+- Art. 48c Zusammenfassung
+- Art. 48d Erfindernennung
+- Art. 49 Anmeldegebühr
+- Art. 50 Formmängel der technischen Unterlagen
+- Art. 51 Änderungen der technischen Unterlagen
+- Art. 52 Prüfung anderer Unterlagen
+- Art. 53 Antrag und Zahlung der Recherchengebühr
+- Art. 53a Zahlung der Anspruchsgebühren
+- Art. 54 Grundlage des Berichts über den Stand der Technik
+- Art. 54a Sequenzprotokoll
+- Art. 55 Inhalt des Berichts über den Stand der Technik
+- Art. 56 Unvollständige Ermittlungen über den Stand der Technik
+- Art. 57 Mangelnde Einheitlichkeit
+- Art. 58 Übermittlung des Berichts über den Stand der Technik
+- Art. 59 Antrag und Zahlung der Recherchengebühr
+- Art. 59a Grundlage des Berichts über den Stand der Technik
+- Art. 59b Inhalt des Berichts über den Stand der Technik
+- Art. 59c Übermittlung des Berichts über den Stand der Technik
+- Art. 60 Gegenstand und Form
+- Art. 60a Sprache
+- Art. 60b Vorzeitige Veröffentlichung
+- Art. 60c Keine Veröffentlichung
+- Art. 61151
+- Art. 61a154 Prüfungsgebühr und Anspruchsgebühren
+- Art. 62155 Aussetzung der Sachprüfung
+- Art. 62a157 Aussetzung der Sachprüfung im Fall der Beanspruchung
+der inneren Priorität
+- Art. 63159 Beschleunigung der Prüfung
+- Art. 64163 Änderung der technischen Unterlagen
+- Art. 65166 Anmeldedatum der Teilanmeldung
+- Art. 66 Klassierung
+- Art. 67169 Verfahren
+- Art. 68171
+- Art. 69172 Prüfungsabschluss
+- Art. 70174
+- Art. 71175
+- Art. 72176 Sperrfrist
+- Art. 73 Form und Inhalt
+- Art. 74 Prüfung des Einspruchs
+- Art. 75 Sprache
+- Art. 76 Parteien
+- Art. 77 Zustellungsdomizil der Parteien181
+- Art. 78 Mehrere Einsprüche
+- Art. 79185
+- Art. 80 Beantwortung des Einspruchs
+- Art. 81 Änderung des Patents
+- Art. 82 Weiterer Schriftenwechsel
+- Art. 83 Stellungnahme der Ethikkommission
+- Art. 84 Mündliche Verhandlung
+- Art. 85 Endverfügung
+- Art. 86186 Rückerstattung der Einspruchsgebühr
+- Art. 87 Eintragung und Veröffentlichung
+- Art. 88 Anwendbares Recht
+- Art. 89 Inhalt
+- Art. 90 Akteneinsicht
+- Art. 91200
+- Art. 92201 Aktenaufbewahrung
+- Art. 93 Registerführung
+- Art. 94 Registerinhalt
+- Art. 95212 Einsichtnahme und Registerauszüge
+- Art. 96 Teilverzicht
+a. Form
+- Art. 97 b. Inhalt
+- Art. 98 c. Eintragung und Veröffentlichung
+- Art. 98a218 d. Beschränkung des Teilverzichts
+- Art. 99 Beschränkung durch den Richter
+- Art. 100 Errichtung neuer Patente
+a. Antrag
+- Art. 101 b. Patentansprüche
+- Art. 102 c. Beschreibung
+- Art. 103 Teilweise Gutheissung einer Abtretungsklage
+- Art. 104 Vermerk im Aktenheft
+- Art. 105 Vormerkung und Eintragung im Patentregister
+- Art. 106231 Löschung von Drittrechten
+- Art. 107 Vertreteränderungen
+- Art. 107a233 Berichtigungen
+- Art. 108235 Publikationsorgan
+- Art. 109236 Patentschriften
+- Art. 110239
+- Art. 111 Inhalt der Klage
+- Art. 111a Massnahmen zur Unterscheidung der Produkte
+- Art. 111b Publikationspflicht des Lizenzinhabers
+- Art. 111c Informations- und Notifikationspflicht des IGE
+- Art. 112243 Geltungsbereich
+- Art. 112a244 Kleinsendung
+- Art. 112b245 Antrag auf Hilfeleistung
+- Art. 112c246 Zurückbehalten von Waren
+- Art. 112d247 Übertragung der Zuständigkeit bei Kleinsendungen
+- Art. 112e248 Proben oder Muster
+- Art. 112f249 Wahrung von Fabrikations- und Geschäftsgeheimnissen
+- Art. 112g250 Aufbewahrung von Beweismitteln bei Vernichtung der Ware
+- Art. 112h251 Bearbeitung, Bekanntgabe und Aufbewahrung von Personendaten und Daten juristischer Personen
+- Art. 112i252 Gebühren
+- Art. 113255
+- Art. 114 Geltungsbereich der Verordnung
+- Art. 115 Einreichung beim IGE
+- Art. 116257
+- Art. 117 Register und Aktenheft
+- Art. 117a260 Patentzeichen
+- Art. 118261 Umwandlung
+- Art. 118a264 Jahresgebühren
+- Art. 119
+- Art. 120266 Einreichung der internationalen Anmeldung
+- Art. 121 Übermittlungs- und Recherchengebühr
+- Art. 122269 Weitere Gebühren
+- Art. 122a271
+- Art. 122b272 Wiederherstellung des Prioritätsrechts
+- Art. 123274 Vorläufiger Schutz
+- Art. 124275 Voraussetzungen für den Eintritt in die nationale Phase
+- Art. 125277 Wiederherstellung des Prioritätsrechts
+- Art. 125a Übersetzung der Anlagen zum internationalen vorläufigen
+Prüfungsbericht
+- Art. 125b Inhalt des Aktenhefts und Akteneinsicht
+- Art. 125c283 Wiederherstellung des Prioritätsrechts
+- Art. 126 Voraussetzungen
+- Art. 127290 Verfahren
+- Art. 127a
+- Art. 127b295 Inhalt des Gesuchs und Gebühr
+- Art. 127c Inhalt des Antrags
+- Art. 127d304 Veröffentlichung von Angaben über Gesuche
+- Art. 127e Prüfung anlässlich der Einreichung des Gesuchs
+- Art. 127f309 Prüfung der Voraussetzungen für die Erteilung des Zertifikats oder die Verlängerung der Schutzdauer
+- Art. 127g
+- Art. 127h
+- Art. 127i Aktenheft
+- Art. 127k Register
+- Art. 127l323 Jahresgebühren
+- Art. 127m327 Rückerstattung der Jahresgebühren
+- Art. 127n Form und Inhalt des Antrags
+- Art. 127o Prüfung des Antrags
+- Art. 127p Sprache
+- Art. 127q Aufforderung zur Stellungnahme und weiterer Schriftenwechsel
+- Art. 127r Endverfügung
+- Art. 127s Eintragung und Veröffentlichung
+- Art. 127t Rückerstattung der Widerrufsgebühr
+- Art. 127u
+- Art. 127v Inhalt des Gesuchs und Gebühr
+- Art. 127w Inhalt des Antrags
+- Art. 127x Veröffentlichung von Angaben über Gesuche
+- Art. 127y Prüfung anlässlich der Einreichung des Gesuchs
+- Art. 127z Prüfung der Voraussetzungen für die Erteilung des pädiatrischen Zertifikats
+- Art. 127zbis
+- Art. 127zter
+- Art. 127zquater Aktenheft
+- Art. 127zquinquies Register
+- Art. 127zsexies Geltungsbereich
+- Art. 127zsepties Inhalt des Gesuchs und Gebühr
+- Art. 127zocties Übrige anwendbare Bestimmungen
+- Art. 128
+- Art. 129 Fristen
+- Art. 130 Gebühren
+- Art. 131 Zusatzanmeldungen
+- Art. 132 Erfindernennung
+- Art. 133 Priorität
+- Art. 134 Akteneinsicht
+- Art. 135
+
+### SR 232.148 – Verordnung des IGE vom 14. Juni 2016 über Gebühren (GebV-IGE)
+
+ELI: `/eli/cc/2016/777/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Anwendbarkeit der Allgemeinen Gebührenverordnung
+- Art. 3 Gebührenansätze
+- Art. 4 Zahlung
+- Art. 5 Zahlungsarten
+- Art. 6 Angaben über die Zahlung
+- Art. 7 Eingang und Gültigkeit der Zahlung
+- Art. 8 Zahlung mittels Belastungsermächtigung
+- Art. 9 Rechtzeitige Zahlung
+- Art. 10 Gebührenreduktion bei elektronischer Kommunikation
+- Art. 11 Übergangsbestimmungen
+- Art. 11a9 Übergangsbestimmung zur Änderung vom 23. Juni 2022
+- Art. 12 Aufhebung eines anderen Erlasses
+- Art. 13 Inkrafttreten
+
+### SR 232.149.336 – Bundesratsbeschluss vom 28. Januar 1908 über die Anwendung von Artikel 18 des Bundesgesetzes über Erfindungspatente (Gegenrecht mit den Vereinigten Staaten von Amerika betreffend Löschung von Patenten)
+
+ELI: `/eli/cc/24/35_33_33/de`
+
+_No articles listed._
+
+### SR 232.16 – Bundesgesetz vom 20. März 1975 über den Schutz von Pflanzenzüchtungen (Sortenschutzgesetz)
+
+ELI: `/eli/cc/1977/862_862_862/de`
+
+- Art. 15 Gegenstand
+- Art. 27 Begriffe
+- Art. 38 Auslandswohnsitz
+- Art. 4 Vorbehalt von Staatsverträgen
+- Art. 5 Grundsatz
+- Art. 6 Ausnahmen
+- Art. 7 Landwirteprivileg
+- Art. 8 Nichtigkeit von Abreden
+- Art. 8a Erschöpfung des Sortenschutzes
+- Art. 8b
+- Art. 9 Grundsatz
+- Art. 10 Stellung des Sortenschutzbewerbers
+- Art. 1114 Priorität
+- Art. 12 Sortenbezeichnung
+- Art. 13 Benützung der Sortenbezeichnung
+- Art. 13a Änderung der Sortenbezeichnung
+- Art. 13b Marke
+- Art. 1416 Ablauf der Schutzdauer
+- Art. 15 Vorzeitiges Erlöschen
+- Art. 16 Nichtigerklärung
+- Art. 17 Aufhebung
+- Art. 18 Übergang
+- Art. 19 Abtretung
+- Art. 20 Enteignung
+- Art. 21 Vertragliche Lizenzerteilung22
+- Art. 2223 Lizenz im öffentlichen Interesse
+- Art. 22a24 Lizenz für abhängiges Patent
+- Art. 22b25 Richterliche Durchsetzung
+- Art. 2326 Büro für Sortenschutz
+- Art. 2427 Prüfungsstelle
+- Art. 2528
+- Art. 26 Form und Zeitpunkt der Anmeldung
+- Art. 27 Beanstandungsverfahren
+- Art. 28 Bekanntmachung der Anmeldung
+- Art. 29 Einwendungen
+- Art. 3031 Sortenprüfung
+- Art. 31 Erteilung des Sortenschutzes
+- Art. 31a32 Ausländische Sortenschutztitel
+- Art. 32 Inhalt des Sortenschutzregisters
+- Art. 33 Veröffentlichung
+- Art. 34 Öffentlichkeit des Registers
+- Art. 35 Aktenaufbewahrung
+- Art. 36 Gebühren
+- Art. 37 Unterlassungs- und Beseitigungsklage34
+- Art. 38 Klagerecht vor Erteilung des Sortenschutzes
+- Art. 39 und 4036
+- Art. 4137
+- Art. 4238
+- Art. 4340 Vorsorgliche Massnahmen
+- Art. 44−4641
+- Art. 4742
+- Art. 48 Sortenschutzverletzungen
+- Art. 49 Sortenschutzberühmung und andere Übertretungen
+- Art. 50 Einziehung von Gegenständen
+- Art. 51 Strafverfolgung
+- Art. 52 Änderung bisherigen Rechts
+- Art. 5345 Übergangsbestimmungen zur Änderung vom 5. Oktober 2007
+- Art. 54 Vollzug
+- Art. 5546
+- Art. 56 Referendum und Inkrafttreten
+
+### SR 232.161 – Verordnung vom 25. Juni 2008 über den Schutz von Pflanzenzüchtungen (Sortenschutzverordnung)
+
+ELI: `/eli/cc/2008/466/de`
+
+- Art. 1
+- Art. 2 Einreichungsdatum bei Postsendungen
+- Art. 3 Sprache
+- Art. 4 Elektronische Kommunikation
+- Art. 5 Gemeinsame Anmeldung mehrerer Personen
+- Art. 6 Verkehr mit der bestellten Vertretung
+- Art. 7 Anmeldung
+- Art. 8 Unterlagen zur Anmeldung
+- Art. 9 Sortenbeschreibung
+- Art. 10
+- Art. 11 Anwendbarkeit der Allgemeinen Gebührenverordnung
+- Art. 12 Einzahlungsdatum
+- Art. 13 Anmeldegebühr
+- Art. 14 Gebühr für die Sortenprüfung
+- Art. 15 Jahresgebühr
+- Art. 16 Weitere Gebühren
+- Art. 17 Gebührenbemessung
+- Art. 18 Aufhebung bisherigen Rechts
+- Art. 19 Änderung bisherigen Rechts
+- Art. 20 Inkrafttreten
+
+### SR 232.21 – Bundesgesetz vom 21. Juni 2013 über den Schutz des Schweizerwappens und anderer öffentlicher Zeichen (Wappenschutzgesetz, WSchG)
+
+ELI: `/eli/cc/2015/613/de`
+
+- Art. 1 Schweizerkreuz
+- Art. 2 Schweizerwappen
+- Art. 3 Schweizerfahne
+- Art. 4 Andere Hoheitszeichen der Eidgenossenschaft
+- Art. 5 Wappen, Fahnen und andere Hoheitszeichen der Kantone, Bezirke, Kreise und Gemeinden
+- Art. 6 Amtliche Bezeichnungen
+- Art. 7 Nationale Bild- oder Wortzeichen
+- Art. 8 Wappen
+- Art. 9 Amtliche Bezeichnungen
+- Art. 10 Fahnen und andere Hoheitszeichen
+- Art. 11 Nationale Bild- und Wortzeichen
+- Art. 12 Öffentliche Zeichen der Schweiz und öffentliche Zeichen des Auslandes
+- Art. 13 Gebrauch von Zeichen als Herkunftsangaben
+- Art. 14
+- Art. 15 Gebrauch
+- Art. 16 Ermächtigung
+- Art. 17
+- Art. 18
+- Art. 19 Beweislastumkehr
+- Art. 20 Klage und Klageberechtigung
+- Art. 21 Klageberechtigung der Verbände und Konsumentenorganisationen
+- Art. 22 Klageberechtigung des berechtigten Gemeinwesens und des IGE
+- Art. 23 Einziehung
+- Art. 24 Einzige kantonale Instanz
+- Art. 25 Vorsorgliche Massnahmen
+- Art. 26 Veröffentlichung des Urteils
+- Art. 27 Mitteilung von Entscheiden
+- Art. 28 Unzulässiger Gebrauch öffentlicher Zeichen
+- Art. 29 Widerhandlungen in Geschäftsbetrieben
+- Art. 30 Einziehung
+- Art. 31 Strafverfolgung
+- Art. 32
+- Art. 33 Vollzug
+- Art. 34 Aufhebung und Änderung bisherigen Rechts
+- Art. 35 Weiterbenützungsrecht
+- Art. 36 Bisher nicht eingetragene Kennzeichen
+- Art. 37 Referendum und Inkrafttreten
+
+### SR 232.211 – Verordnung vom 2. September 2015 über den Schutz des Schweizerwappens und anderer öffentlicher Zeichen (Wappenschutzverordnung, WSchV)
+
+ELI: `/eli/cc/2015/614/de`
+
+- Art. 1 Zuständigkeit
+- Art. 2 Sprache der Eingaben an das IGE
+- Art. 3 Gebrauch des Schweizerwappens
+- Art. 4 Andere Hoheitszeichen der Eidgenossenschaft
+- Art. 5 Inhalt des Verzeichnisses der geschützten öffentlichen Zeichen
+- Art. 6 Auskünfte über den Inhalt des Verzeichnisses
+- Art. 75 Hilfeleistung beim Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet
+- Art. 8 Antrag auf Hilfeleistung6
+- Art. 910 Übrige auf die Hilfeleistung anwendbare Bestimmungen
+- Art. 10 Übergangsbestimmung
+- Art. 11 Inkrafttreten
+
+### SR 232.22 – Bundesgesetz vom 25. März 1954 betreffend den Schutz des Zeichens und des Namens des Roten Kreuzes
+
+ELI: `/eli/cc/1954/1297_1327_1355/de`
+
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 4
+- Art. 515
+- Art. 6
+- Art. 716
+- Art. 8
+- Art. 9
+- Art. 10
+- Art. 11
+- Art. 1223
+- Art. 13
+
+### SR 232.221 – Reglement vom 18. November 2015 betreffend die Verwendung und den Schutz des Zeichens und des Namens des Roten Kreuzes (Rotkreuzreglement)
+
+ELI: `/eli/cc/2015/799/de`
+
+- Art. 1 Zeichen und Namen des Roten Kreuzes
+- Art. 2 Gegenstand
+- Art. 3 Allgemeine Bestimmungen
+- Art. 4 Auslandeinsätze, Hilfsgütersendungen
+- Art. 5 Rettungsdienste
+- Art. 6 Verbreitung, Mittelbeschaffung, Beziehungspflege
+- Art. 7 Verhinderung von Missbräuchen
+- Art. 8 Einheitliches Erscheinungsbild
+- Art. 9 Grafische Gestaltung
+- Art. 10 Aufhebung eines anderen Erlasses
+- Art. 11 Inkrafttreten
+
+### SR 232.23 – Bundesgesetz vom 15. Dezember 1961 zum Schutz von Namen und Zeichen der Organisation der Vereinten Nationen und anderer zwischenstaatlicher Organisationen
+
+ELI: `/eli/cc/1962/455_461_475/de`
+
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 4
+- Art. 5
+- Art. 69
+- Art. 7
+- Art. 8
+- Art. 9
+- Art. 10
+- Art. 11
+- Art. 12
+
+### SR 235.1 – Bundesgesetz vom 25. September 2020 über den Datenschutz (Datenschutzgesetz, DSG)
+
+ELI: `/eli/cc/2022/491/de`
+
+- Art. 1 Zweck
+- Art. 2 Persönlicher und sachlicher Geltungsbereich
+- Art. 3 Räumlicher Geltungsbereich
+- Art. 4 Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter
+- Art. 5 Begriffe
+- Art. 6 Grundsätze
+- Art. 7 Datenschutz durch Technik und datenschutzfreundliche Voreinstellungen
+- Art. 8 Datensicherheit
+- Art. 9 Bearbeitung durch Auftragsbearbeiter
+- Art. 10 Datenschutzberaterin oder -berater
+- Art. 11 Verhaltenskodizes
+- Art. 12 Verzeichnis der Bearbeitungstätigkeiten
+- Art. 13 Zertifizierung
+- Art. 14 Vertretung
+- Art. 15 Pflichten der Vertretung
+- Art. 16 Grundsätze
+- Art. 17 Ausnahmen
+- Art. 18 Veröffentlichung von Personendaten in elektronischer Form
+- Art. 19 Informationspflicht bei der Beschaffung von Personendaten
+- Art. 20 Ausnahmen von der Informationspflicht und Einschränkungen
+- Art. 21 Informationspflicht bei einer automatisierten Einzelentscheidung
+- Art. 22 Datenschutz-Folgenabschätzung
+- Art. 23 Konsultation des EDÖB
+- Art. 24 Meldung von Verletzungen der Datensicherheit
+- Art. 25 Auskunftsrecht
+- Art. 26 Einschränkungen des Auskunftsrechts
+- Art. 27 Einschränkungen des Auskunftsrechts für Medien
+- Art. 28 Recht auf Datenherausgabe oder -übertragung
+- Art. 29 Einschränkungen des Rechts auf Datenherausgabe oder -übertragung
+- Art. 30 Persönlichkeitsverletzungen
+- Art. 31 Rechtfertigungsgründe
+- Art. 32 Rechtsansprüche
+- Art. 33 Kontrolle und Verantwortung bei gemeinsamer Bearbeitung von Personendaten
+- Art. 34 Rechtsgrundlagen
+- Art. 35 Automatisierte Datenbearbeitung im Rahmen von Pilotversuchen
+- Art. 36 Bekanntgabe von Personendaten
+- Art. 37 Widerspruch gegen die Bekanntgabe von Personendaten
+- Art. 38 Angebot von Unterlagen an das Bundesarchiv
+- Art. 39 Datenbearbeitung für nicht personenbezogene Zwecke
+- Art. 40 Privatrechtliche Tätigkeit von Bundesorganen
+- Art. 41 Ansprüche und Verfahren
+- Art. 42 Verfahren im Falle der Bekanntgabe von amtlichen Dokumenten, die Personendaten enthalten
+- Art. 43 Wahl und Stellung
+- Art. 44 Amtsdauer, Wiederwahl und Beendigung der Amtsdauer
+- Art. 44a17 Verwarnung
+- Art. 45 Budget
+- Art. 46 Unvereinbarkeit
+- Art. 47 Nebenbeschäftigung
+- Art. 47a19 Ausstand
+- Art. 48 Selbstkontrolle des EDÖB
+- Art. 49 Untersuchung
+- Art. 50 Befugnisse
+- Art. 51 Verwaltungsmassnahmen
+- Art. 52 Verfahren
+- Art. 53 Koordination
+- Art. 54 Amtshilfe zwischen schweizerischen Behörden
+- Art. 55 Amtshilfe gegenüber ausländischen Behörden
+- Art. 56 Register
+- Art. 57 Information
+- Art. 58 Weitere Aufgaben
+- Art. 59
+- Art. 60 Verletzung von Informations-, Auskunfts- und Mitwirkungspflichten
+- Art. 61 Verletzung von Sorgfaltspflichten
+- Art. 62 Verletzung der beruflichen Schweigepflicht
+- Art. 63 Missachten von Verfügungen
+- Art. 64 Widerhandlungen in Geschäftsbetrieben
+- Art. 65 Zuständigkeit
+- Art. 66 Verfolgungsverjährung
+- Art. 67
+- Art. 68 Aufhebung und Änderung anderer Erlasse
+- Art. 69 Übergangsbestimmungen betreffend laufende Bearbeitungen
+- Art. 70 Übergangsbestimmung betreffend laufende Verfahren
+- Art. 71 Übergangsbestimmung betreffend Daten juristischer Personen
+- Art. 72 Übergangsbestimmung betreffend die Wahl und die Beendigung der Amtsdauer der oder des Beauftragten
+- Art. 72a27 Übergangsbestimmung betreffend das Arbeitsverhältnis
+der oder des Beauftragten
+- Art. 73 Koordination
+- Art. 74 Referendum und Inkrafttreten
+
+### SR 235.11 – Verordnung vom 31. August 2022 über den Datenschutz (Datenschutzverordnung, DSV)
+
+ELI: `/eli/cc/2022/568/de`
+
+- Art. 1 Grundsätze
+- Art. 2 Ziele
+- Art. 3 Technische und organisatorische Massnahmen
+- Art. 4 Protokollierung
+- Art. 5 Bearbeitungsreglement von privaten Personen
+- Art. 6 Bearbeitungsreglement von Bundesorganen
+- Art. 7
+- Art. 8 Beurteilung der Angemessenheit des Datenschutzes eines Staates, eines Gebiets, eines spezifischen Sektors in einem Staat oder eines internationalen Organs
+- Art. 9 Datenschutzklauseln und spezifische Garantien
+- Art. 10 Standarddatenschutzklauseln
+- Art. 11 Verbindliche unternehmensinterne Datenschutzvorschriften
+- Art. 12 Verhaltenskodizes und Zertifizierungen
+- Art. 13 Modalitäten der Informationspflicht
+- Art. 14 Aufbewahrung der Datenschutz-Folgenabschätzung
+- Art. 15 Meldung von Verletzungen der Datensicherheit
+- Art. 16 Modalitäten
+- Art. 17 Zuständigkeit
+- Art. 18 Frist
+- Art. 19 Ausnahme von der Kostenlosigkeit
+- Art. 20 Umfang des Anspruchs
+- Art. 21 Technische Anforderungen an die Umsetzung
+- Art. 22 Frist, Modalitäten und Zuständigkeit
+- Art. 23 Datenschutzberaterin oder Datenschutzberater
+- Art. 24 Ausnahme von der Pflicht zur Führung eines Verzeichnisses der Bearbeitungstätigkeiten
+- Art. 25 Ernennung
+- Art. 26 Anforderungen und Aufgaben
+- Art. 27 Pflichten des Bundesorgans
+- Art. 28 Anlaufstelle des EDÖB
+- Art. 29 Informationspflicht bei der Bekanntgabe von Personendaten
+- Art. 30 Informationspflicht bei der systematischen Beschaffung von Personendaten
+- Art. 31
+- Art. 32 Unentbehrlichkeit des Pilotversuchs
+- Art. 33 Verfahren bei der Bewilligung des Pilotversuchs
+- Art. 34 Evaluationsbericht
+- Art. 35
+- Art. 36 Sitz und ständiges Sekretariat
+- Art. 37 Kommunikationsweg
+- Art. 37a8 Abschluss und Änderung von Absichtserklärungen
+- Art. 38 Mitteilung von Entscheiden, Richtlinien und Projekten
+- Art. 39 Bearbeitung von Personendaten
+- Art. 40 Selbstkontrolle
+- Art. 4110 Zusammenarbeit mit dem Bundesamt für Cybersicherheit
+- Art. 42 Register der Bearbeitungstätigkeiten der Bundesorgane
+- Art. 43 Verhaltenskodizes
+- Art. 44 Gebühren
+- Art. 45 Aufhebung und Änderung anderer Erlasse
+- Art. 46 Übergangsbestimmungen
+- Art. 47 Inkrafttreten
+
+### SR 235.13 – Verordnung vom 31. August 2022 über Datenschutzzertifizierungen (VDSZ)
+
+ELI: `/eli/cc/2022/569/de`
+
+- Art. 1 Anforderungen
+- Art. 2 Akkreditierungsverfahren
+- Art. 3 Ausländische Zertifizierungsstellen
+- Art. 4 Gegenstand der Zertifizierung
+- Art. 5 Anforderungen an das Zertifizierungsprogramm
+- Art. 6 Anforderungen an die Zertifizierung von Managementsystemen
+- Art. 7 Anforderungen an die Zertifizierung von Produkten, Dienstleistungen und Prozessen
+- Art. 8 Erteilung und Gültigkeit der Datenschutzzertifizierung
+- Art. 9 Anerkennung ausländischer Datenschutzzertifizierungen
+- Art. 10 Ausnahme von der Pflicht zur Erstellung einer Datenschutz-Folgenabschätzung
+- Art. 11 Sistierung und Entzug der Zertifizierung
+- Art. 12 Verfahren bei Aufsichtsmassnahmen des EDÖB
+- Art. 13 Aufhebung eines anderen Erlasses
+- Art. 14 Inkrafttreten
+
+### SR 235.171.1 – Verordnung der Bundesversammlung vom 17. Juni 2022 über das Arbeitsverhältnis der Leiterin oder des Leiters des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten
+
+ELI: `/eli/cc/2023/232/de`
+
+- Art. 1 Gegenstand und Geltungsbereich
+- Art. 2 Zuständige Stelle
+- Art. 3 Begründung des Arbeitsverhältnisses
+- Art. 4 Amtsdauer
+- Art. 5 Lohn
+- Art. 6 Zulagen zum Lohn
+- Art. 7
+- Art. 8 Beschäftigungsgrad
+- Art. 9 Wohnsitz
+- Art. 10 Amtsgeheimnis
+- Art. 11
+- Art. 12
+- Art. 13
+- Art. 14
+
+### SR 235.2 – Bundesgesetz vom 18. Dezember 2020 über die Bearbeitung von Personendaten durch das Eidgenössische Departement für auswärtige Angelegenheiten
+
+ELI: `/eli/cc/2021/650/de`
+
+- Art. 1
+- Art. 2 Zweck und Personen
+- Art. 3 Daten
+- Art. 4 Bekanntgabe von Daten
+- Art. 5 Zweck und Personen
+- Art. 6 Daten
+- Art. 7 Bekanntgabe von Daten
+- Art. 8 Zweck und Personen
+- Art. 9 Daten
+- Art. 10 Bekanntgabe von Daten
+- Art. 11 Zweck und Personen
+- Art. 12 Daten
+- Art. 13 Bearbeitung von Daten
+- Art. 14 Bekanntgabe von Daten
+- Art. 15 Zweck und Personen
+- Art. 16 Daten
+- Art. 17 Bearbeitung von Daten
+- Art. 18 Zweck und Personen
+- Art. 19 Daten
+- Art. 20 Bekanntgabe von Daten
+- Art. 21 Zweck und Personen
+- Art. 22 Daten
+- Art. 23 Bekanntgabe von Daten
+- Art. 24 Zweck und Personen
+- Art. 25 Daten
+- Art. 26 Bearbeitungsrechte
+- Art. 27 Zweck und Personen
+- Art. 28 Daten
+- Art. 29 Ausführungsbestimmungen
+- Art. 30 Aufhebung und Änderung anderer Erlasse
+- Art. 31 Referendum und Inkrafttreten
+
+### SR 235.21 – Verordnung vom 22. März 2019 über das Informationssystem Ordipro (Ordipro-Verordnung)
+
+ELI: `/eli/cc/2019/209/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Zweck
+- Art. 3 Verantwortlichkeiten
+- Art. 4 Bearbeitete Daten
+- Art. 5 Erfassung der Daten
+- Art. 6 Zugriff auf andere Informationssysteme
+- Art. 7 Bearbeitungsrechte
+- Art. 8 Bekanntgabe von Daten
+- Art. 9 Dokumente
+- Art. 10 Vernichtung von Datensätzen
+- Art. 11 Technischer Betrieb und Systemverwaltung
+- Art. 12 Erteilung der Zugriffsberechtigung
+- Art. 13 Sorgfaltspflichten
+- Art. 14 Bearbeitungsreglement
+- Art. 15 Protokollierung
+- Art. 16 Aufhebung eines anderen Erlasses
+- Art. 17 Änderung anderer Erlasse
+- Art. 18 Inkrafttreten
+
+### SR 235.22 – Verordnung vom 17. August 2016 über das Informationssystem E-VERA (Verordnung E-VERA, VEVERA)
+
+ELI: `/eli/cc/2016/487/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Zweck des Informationssystems
+- Art. 3 Verantwortung
+- Art. 4 Struktur
+- Art. 5 Im E-VERA erfasste Personen
+- Art. 6 Erfassung und Überprüfung der Daten
+- Art. 7 Bearbeitungsrechte
+- Art. 8 Bekanntgabe von Daten
+- Art. 8a18 Bearbeitung von Dokumenten
+- Art. 9 Vernichtung von Daten19
+- Art. 10 Erteilung der Zugriffsberechtigung
+- Art. 11 Technischer Betrieb und Systemverwaltung
+- Art. 1221 Schnittstellen
+- Art. 13 Sorgfaltspflichten
+- Art. 14 Datensicherheit
+- Art. 15 Protokollierung
+- Art. 16 Aufhebung eines anderen Erlasses
+- Art. 17 Änderung anderer Erlasse
+- Art. 18 Inkrafttreten
+
+### SR 235.23 – Verordnung vom 23. August 2023 über die Personalinformationssysteme des EDA
+
+ELI: `/eli/cc/2023/485/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Verantwortung
+- Art. 3 Zweck
+- Art. 4 Bearbeitete Daten
+- Art. 5 Herkunft der Daten
+- Art. 6 Bearbeitungsrechte
+- Art. 7 Bekanntgabe von Daten
+- Art. 8 Vernichtung von Datensätzen
+- Art. 9 Zweck
+- Art. 10 Bearbeitete Daten
+- Art. 11 Herkunft der Daten
+- Art. 12 Bearbeitungsrechte
+- Art. 13 Vernichtung von Datensätzen
+- Art. 14 Zweck
+- Art. 15 Bearbeitete Daten
+- Art. 16 Herkunft der Daten
+- Art. 17 Bearbeitungsrechte
+- Art. 18 Vernichtung von Datensätzen
+- Art. 19 Technischer Betrieb und Systemverwaltung
+- Art. 20 Erteilung der Zugriffsberechtigungen
+- Art. 21 Sorgfaltspflichten
+- Art. 22 Bearbeitungsreglement
+- Art. 23 Protokollierung
+- Art. 24 Aufhebung und Änderung anderer Erlasse
+- Art. 25 Inkrafttreten
+
+### SR 235.25 – Verordnung vom 17. Oktober 2018 über das Datenbearbeitungssystem «e-vent» des Konferenzdienstes EDA (Verordnung «e-vent»)
+
+ELI: `/eli/cc/2018/650/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Zweck
+- Art. 3 Verantwortliche Behörde
+- Art. 4 Struktur
+- Art. 5 Personen und bearbeitete Daten
+- Art. 6 Herkunft der Daten und Bearbeitungsrechte
+- Art. 7 Dokumente
+- Art. 8 Aufbewahrung, Archivierung und Vernichtung von Daten
+- Art. 9 Technischer Betrieb und Systemverwaltung
+- Art. 10 Erteilung der Zugriffsberechtigung
+- Art. 11 Sorgfaltspflichten
+- Art. 12 Bearbeitungsreglement
+- Art. 13 Protokollierung
+- Art. 14
+
+### SR 235.26 – Verordnung vom 25. September 2020 über das Informationssystem Plato (Plato-Verordnung)
+
+ELI: `/eli/cc/2020/747/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Zweck des Informationssystems
+- Art. 3 Verantwortlichkeiten
+- Art. 4 Struktur
+- Art. 5 Bearbeitete Daten
+- Art. 6 Herkunft der Daten und Bearbeitungsrechte
+- Art. 7 Bekanntgabe von Daten
+- Art. 8 Vernichtung von Datensätzen
+- Art. 9 Ablage von Dokumenten
+- Art. 10 Technischer Betrieb und Systemverwaltung
+- Art. 11 Erteilung der Zugriffsberechtigung
+- Art. 12 Sorgfaltspflichten
+- Art. 13 Bearbeitungsreglement
+- Art. 14 Protokollierung
+- Art. 15
+
+## 24 Unlauterer Wettbewerb
+
+### SR 241 – Bundesgesetz vom 19. Dezember 1986 gegen den unlauteren Wettbewerb (UWG)
+
+ELI: `/eli/cc/1988/223_223_223/de`
+
+- Art. 1
+- Art. 2 Grundsatz
+- Art. 3 Unlautere Werbe- und Verkaufsmethoden und anderes
+widerrechtliches Verhalten
+- Art. 3a20 Diskriminierung im Fernhandel
+- Art. 4 Verleitung zu Vertragsverletzung oder -auflösung
+- Art. 4a23 Bestechen und sich bestechen lassen
+- Art. 5 Verwertung fremder Leistung
+- Art. 6 Verletzung von Fabrikations- und Geschäftsgeheimnissen
+- Art. 7 Nichteinhaltung von Arbeitsbedingungen
+- Art. 825 Verwendung missbräuchlicher Geschäftsbedingungen
+- Art. 8a26 Verwendung von Paritätsklauseln gegenüber Beherbergungsbetrieben
+- Art. 9 Klageberechtigung28
+- Art. 10 Klageberechtigung von Kunden und Organisationen sowie
+des Bundes30
+- Art. 11 Klagen gegen den Geschäftsherrn
+- Art. 12 und 1336
+- Art. 13a37 Beweislastumkehr
+- Art. 14 und 1539
+- Art. 16 Pflicht zur Preisbekanntgabe
+- Art. 16a42 Grundpreisbekanntgabe für messbare Waren und Dienstleistungen
+- Art. 17 Preisbekanntgabe in der Werbung
+- Art. 18 Irreführende Preisbekanntgabe
+- Art. 19 Auskunftspflicht
+- Art. 20 Vollzug
+- Art. 21 Zusammenarbeit
+- Art. 22 Datenbekanntgabe
+- Art. 2349 Unlauterer Wettbewerb
+- Art. 24 Verletzung der Pflicht zur Preisbekanntgabe an Konsumenten
+- Art. 2555
+- Art. 26 Widerhandlungen in Geschäftsbetrieben
+- Art. 26a57 Widerruf und Sperrung von Domain-Namen und Telefonnummern
+- Art. 27 Strafverfolgung
+- Art. 28 Aufhebung bisherigen Rechts
+- Art. 29 Referendum und Inkrafttreten
+
+### SR 241.3 – Verordnung vom 12. Oktober 2011 über das Klagerecht des Bundes im Rahmen des Bundesgesetzes gegen den unlauteren Wettbewerb
+
+ELI: `/eli/cc/2011/704/de`
+
+- Art. 1 Klagerecht des Bundes
+- Art. 2 Information der Öffentlichkeit
+- Art. 3 Aufhebung bisherigen Rechts
+- Art. 4 Änderung bisherigen Rechts
+- Art. 5 Inkrafttreten
+
+## 25 Kartelle
+
+### SR 251 – Bundesgesetz vom 6. Oktober 1995 über Kartelle und andere Wettbewerbsbeschränkungen (Kartellgesetz, KG)
+
+ELI: `/eli/cc/1996/546_546_546/de`
+
+- Art. 1 Zweck
+- Art. 2 Geltungsbereich
+- Art. 3 Verhältnis zu anderen Rechtsvorschriften
+- Art. 4 Begriffe
+- Art. 5 Unzulässige Wettbewerbsabreden
+- Art. 6 Gerechtfertigte Arten von Wettbewerbsabreden
+- Art. 7 Unzulässige Verhaltensweisen marktbeherrschender
+und relativ marktmächtiger Unternehmen13
+- Art. 8 Ausnahmsweise Zulassung aus überwiegenden öffentlichen
+Interessen
+- Art. 9 Meldung von Zusammenschlussvorhaben
+- Art. 10 Beurteilung von Zusammenschlüssen
+- Art. 11 Ausnahmsweise Zulassung aus überwiegenden öffentlichen
+Interessen
+- Art. 12 Ansprüche aus Wettbewerbsbehinderung
+- Art. 13 Durchsetzung des Beseitigungs- und Unterlassungsanspruchs
+- Art. 1422
+- Art. 15 Beurteilung der Zulässigkeit einer Wettbewerbsbeschränkung
+- Art. 16 und 1723
+- Art. 18 Wettbewerbskommission
+- Art. 19 Organisation
+- Art. 20 Geschäftsreglement
+- Art. 21 Beschlussfassung
+- Art. 22 Ausstand von Kommissionsmitgliedern
+- Art. 23 Aufgaben des Sekretariats
+- Art. 24 Personal des Sekretariats
+- Art. 25 Amts- und Geschäftsgeheimnis
+- Art. 26 Vorabklärung
+- Art. 27 Eröffnung einer Untersuchung
+- Art. 28 Bekanntgabe
+- Art. 29 Einvernehmliche Regelung
+- Art. 30 Entscheid
+- Art. 31 Ausnahmsweise Zulassung
+- Art. 32 Einleitung des Prüfungsverfahrens
+- Art. 33 Prüfungsverfahren
+- Art. 34 Rechtsfolgen
+- Art. 35 Verletzung der Meldepflicht
+- Art. 36 Verfahren der Ausnahmegenehmigung
+- Art. 37 Wiederherstellung wirksamen Wettbewerbs
+- Art. 38 Widerruf und Revision
+- Art. 39 Grundsatz
+- Art. 40 Auskunftspflicht
+- Art. 41 Amtshilfe
+- Art. 4236 Untersuchungsmassnahmen
+- Art. 42a39 Untersuchungen in Verfahren nach dem Luftverkehrsabkommen Schweiz–EG
+- Art. 42b41 Bekanntgabe von Daten an eine ausländische Wettbewerbsbehörde
+- Art. 43 Beteiligung Dritter an der Untersuchung
+- Art. 4443
+- Art. 45 Empfehlungen an Behörden
+- Art. 46 Stellungnahmen
+- Art. 47 Gutachten
+- Art. 48 Veröffentlichung von Entscheiden und Urteilen
+- Art. 49 Informationspflichten
+- Art. 49a46 Sanktion bei unzulässigen Wettbewerbsbeschränkungen
+- Art. 5048 Verstösse gegen einvernehmliche Regelungen und
+behördliche Anordnungen
+- Art. 51 Verstösse im Zusammenhang mit Unternehmenszusammenschlüssen
+- Art. 52 Andere Verstösse
+- Art. 53 Verfahren49
+- Art. 53a
+- Art. 54 Widerhandlungen gegen einvernehmliche Regelungen und
+behördliche Anordnungen
+- Art. 55 Andere Widerhandlungen
+- Art. 5652 Verjährung
+- Art. 57 Verfahren und Rechtsmittel
+- Art. 58 Feststellung des Sachverhalts
+- Art. 59 Beseitigung von Unvereinbarkeiten
+- Art. 59a
+- Art. 60 Ausführungsbestimmungen
+- Art. 61 Aufhebung bisherigen Rechts
+- Art. 62 Übergangsbestimmungen
+- Art. 63 Referendum und Inkrafttreten
+
+### SR 251.1 – Geschäftsreglement der Wettbewerbskommission vom 25. September 2015 (Geschäftsreglement WEKO, GR-WEKO)
+
+ELI: `/eli/cc/2015/655/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Geltungsbereich
+- Art. 3 Sitz
+- Art. 4 Einberufung und Leitung der Sitzungen
+- Art. 5 Sitzungsteilnehmende
+- Art. 6 Beschlussfassung
+- Art. 7 Protokoll
+- Art. 8 Zirkulationsbeschlüsse
+- Art. 9 Unterschriften
+- Art. 10
+- Art. 11 Zusammensetzung
+- Art. 12 Vorsitz
+- Art. 13 Einberufung und Leitung der Sitzungen
+- Art. 14 Sitzungsteilnehmende
+- Art. 15 Beschlussfassung
+- Art. 16 Protokoll
+- Art. 17 Zirkulationsbeschlüsse
+- Art. 18 Unterschriften
+- Art. 19 Kammer für Teilverfügungen
+- Art. 20 Kammer für Unternehmenszusammenschlüsse
+- Art. 21 Beizug von Experten und Expertinnen
+- Art. 22 Zusammensetzung
+- Art. 23 Einberufung und Leitung der Sitzungen
+- Art. 24 Sitzungsteilnehmende
+- Art. 25 Protokoll
+- Art. 26 Unterschriften
+- Art. 27 Präsidium
+- Art. 28 Präsident oder Präsidentin
+- Art. 29 Anordnungen bei besonderer Dringlichkeit
+- Art. 30
+- Art. 31 Sekretariat
+- Art. 32 Direktor oder Direktorin
+- Art. 33 Informationskonzept
+- Art. 34 Amtliche Publikation
+- Art. 35 Veröffentlichung von Entscheiden und Stellungnahmen
+- Art. 36 Jahresbericht
+- Art. 37 Medienarbeit
+- Art. 38 Aufhebung eines anderen Erlasses
+- Art. 39 Inkrafttreten
+
+### SR 251.2 – Verordnung vom 25. Februar 1998 über die Gebühren zum Kartellgesetz (Gebührenverordnung KG, GebV-KG)
+
+ELI: `/eli/cc/1998/919_919_919/de`
+
+- Art. 1 Geltungsbereich
+- Art. 1a7 Anwendbarkeit der Allgemeinen Gebührenverordnung
+- Art. 2 Gebührenpflicht
+- Art. 3 Gebührenfreiheit
+- Art. 4 Gebührenbemessung
+- Art. 515 Auslagen
+- Art. 6 und 717
+- Art. 8 Aufhebung bisherigen Rechts
+- Art. 919
+- Art. 10 Inkrafttreten
+
+### SR 251.4 – Verordnung vom 17. Juni 1996 über die Kontrolle von Unternehmenszusammenschlüssen
+
+ELI: `/eli/cc/1996/1658_1658_1658/de`
+
+- Art. 1 Erlangung der Kontrolle
+- Art. 2 Gemeinschaftsunternehmen
+- Art. 3 Beteiligte Unternehmen
+- Art. 4 Berechnung des Umsatzes
+- Art. 5 Umsatz eines beteiligten Unternehmens
+- Art. 6 Berechnung der Bruttoprämieneinnahmen bei
+Versicherungsgesellschaften
+- Art. 72
+- Art. 83 Ermittlung der Grenzwerte bei Beteiligung von Banken und übrigen Finanzintermediären
+- Art. 9 Meldung eines Zusammenschlussvorhabens
+- Art. 10 Benachrichtigung der Eidgenössischen Finanzmarktaufsicht5
+- Art. 11 Inhalt der Meldung
+- Art. 12 Erleichterte Meldung
+- Art. 13 Meldeformulare und Erläuterungen
+- Art. 14 Bestätigung der Vollständigkeit der Meldung
+- Art. 15 Zusätzliche Angaben und Unterlagen
+- Art. 16 Bewilligung des Vollzugs
+- Art. 17 Bewilligung des Vollzugs bei Banken
+- Art. 18 Veröffentlichung der Einleitung eines Prüfungsverfahrens
+- Art. 19 Stellungnahme Dritter
+- Art. 20 Fristen
+- Art. 21 Wesentliche Änderungen der Verhältnisse
+- Art. 22 Berichterstattung über unbedenkliche Zusammenschlüsse
+- Art. 23 Veröffentlichung des Entscheides nach Abschluss der Prüfung
+- Art. 24 Übergangsbestimmung
+- Art. 25 Inkrafttreten
+
+### SR 251.5 – Verordnung vom 12. März 2004 über die Sanktionen bei unzulässigen Wettbewerbsbeschränkungen (KG-Sanktionsverordnung, SVKG)
+
+ELI: `/eli/cc/2004/175/de`
+
+- Art. 1
+- Art. 2 Grundsätze
+- Art. 3 Basisbetrag
+- Art. 4 Dauer
+- Art. 5 Erschwerende Umstände
+- Art. 6 Mildernde Umstände
+- Art. 7 Maximale Sanktion
+- Art. 8 Voraussetzungen
+- Art. 9 Form und Inhalt der Selbstanzeige
+- Art. 10 Verfahren bei mehreren Selbstanzeigen
+- Art. 11 Entscheid über den vollständigen Erlass der Sanktion
+- Art. 12 Voraussetzungen
+- Art. 13 Form und Inhalt der Kooperation
+- Art. 14 Entscheid über die Reduktion
+- Art. 15 Meldung einer möglicherweise unzulässigen
+Wettbewerbsbeschränkung
+- Art. 16 Meldeformulare und Erläuterungen
+- Art. 17 Erleichterte Meldung
+- Art. 18 Bestätigung des Eingangs der Meldung
+- Art. 19 Widerspruchsverfahren
+- Art. 20
+
+### SR 251.6 – Verordnung vom 29. November 2023 über die wettbewerbsrechtliche Behandlung von vertikalen Abreden im Kraftfahrzeugsektor (KFZ-Verordnung, KFZV)
+
+ELI: `/eli/cc/2023/772/de`
+
+- Art. 1
+- Art. 2
+- Art. 3 Grundsatz
+- Art. 4 Beschränkungen betreffend den Bestimmungsort des Kraftfahrzeugs und die Garantie
+- Art. 5 Beschränkungen betreffend den Vertrieb von Ersatzteilen, Instandsetzungs- und Wartungsdienstleistungen
+- Art. 6 Beschränkungen betreffend den Zugang zu technischen Informationen, Werkzeugen und fachliche Unterweisungen
+- Art. 7 Beschränkungen betreffend den Mehrmarkenvertrieb
+- Art. 8 Beschränkungen betreffend die Vertragsauflösung
+- Art. 9
+
+## 27 Zivilrechtspflege
+
+### SR 272 – Schweizerische Zivilprozessordnung vom 19. Dezember 2008 (Zivilprozessordnung, ZPO)
+
+ELI: `/eli/cc/2010/262/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Internationale Verhältnisse
+- Art. 3 Organisation der Gerichte und der Schlichtungsbehörden
+- Art. 4 Grundsätze
+- Art. 5 Einzige kantonale Instanz
+- Art. 6 Handelsgericht
+- Art. 7 Gericht bei Streitigkeiten aus Zusatzversicherungen zur sozialen Krankenversicherung
+- Art. 8 Direkte Klage beim oberen Gericht
+- Art. 9 Zwingende Zuständigkeit
+- Art. 10 Wohnsitz und Sitz
+- Art. 11 Aufenthaltsort
+- Art. 12 Niederlassung
+- Art. 13 Vorsorgliche Massnahmen
+- Art. 14 Widerklage
+- Art. 15 Streitgenossenschaft und Klagenhäufung
+- Art. 16 Streitverkündungsklage
+- Art. 17 Gerichtsstandsvereinbarung
+- Art. 18 Einlassung
+- Art. 19 Freiwillige Gerichtsbarkeit
+- Art. 20 Persönlichkeits- und Datenschutz
+- Art. 21 Todes- und Verschollenerklärung
+- Art. 22 Bereinigung des Zivilstandsregisters
+- Art. 23 Eherechtliche Gesuche und Klagen
+- Art. 24 Gesuche und Klagen bei eingetragener Partnerschaft
+- Art. 25 Feststellung und Anfechtung des Kindesverhältnisses
+- Art. 26 Unterhalts- und Unterstützungsklagen
+- Art. 27 Ansprüche der unverheirateten Mutter
+- Art. 28
+- Art. 29 Grundstücke
+- Art. 30 Bewegliche Sachen
+- Art. 31 Grundsatz
+- Art. 32 Konsumentenvertrag
+- Art. 33 Miete und Pacht unbeweglicher Sachen
+- Art. 34 Arbeitsrecht
+- Art. 35 Verzicht auf die gesetzlichen Gerichtsstände
+- Art. 36 Grundsatz
+- Art. 37 Schadenersatz bei ungerechtfertigten vorsorglichen Massnahmen
+- Art. 38 Motorfahrzeug- und Fahrradunfälle
+- Art. 38a35 Nuklearschäden
+- Art. 39 Adhäsionsklage
+- Art. 40 Gesellschaftsrecht und Handelsregister36
+- Art. 4138
+- Art. 42 Fusionen, Spaltungen, Umwandlungen und Vermögensübertragungen
+- Art. 43 Kraftloserklärung von Wertpapieren und Versicherungspolicen; Zahlungsverbot
+- Art. 44 Anleihensobligationen
+- Art. 45 Kollektivanlagen
+- Art. 46
+- Art. 47 Ausstandsgründe
+- Art. 48 Mitteilungspflicht
+- Art. 49 Ausstandsgesuch
+- Art. 50 Entscheid
+- Art. 51 Folgen der Verletzung der Ausstandsvorschriften
+- Art. 52 Handeln nach Treu und Glauben
+- Art. 53 Rechtliches Gehör
+- Art. 54 Öffentlichkeit des Verfahrens
+- Art. 55 Verhandlungs- und Untersuchungsgrundsatz
+- Art. 56 Gerichtliche Fragepflicht
+- Art. 57 Rechtsanwendung von Amtes wegen
+- Art. 58 Dispositions- und Offizialgrundsatz
+- Art. 59 Grundsatz
+- Art. 60 Prüfung der Prozessvoraussetzungen
+- Art. 61 Schiedsvereinbarung
+- Art. 62 Beginn der Rechtshängigkeit
+- Art. 63 Rechtshängigkeit bei fehlender Zuständigkeit und falscher Verfahrensart
+- Art. 64 Wirkungen der Rechtshängigkeit
+- Art. 65 Folgen des Klagerückzugs
+- Art. 66 Parteifähigkeit
+- Art. 67 Prozessfähigkeit
+- Art. 68 Vertragliche Vertretung
+- Art. 69 Unvermögen der Partei
+- Art. 70 Notwendige Streitgenossenschaft
+- Art. 7151 Einfache Streitgenossenschaft
+- Art. 72 Gemeinsame Vertretung
+- Art. 73
+- Art. 74 Grundsatz
+- Art. 75 Gesuch
+- Art. 76 Rechte der intervenierenden Person
+- Art. 77 Wirkungen der Intervention
+- Art. 78 Grundsätze
+- Art. 79 Stellung der streitberufenen Person
+- Art. 80 Wirkungen der Streitverkündung
+- Art. 81 Grundsätze
+- Art. 82 Verfahren
+- Art. 83
+- Art. 84 Leistungsklage
+- Art. 85 Unbezifferte Forderungsklage
+- Art. 86 Teilklage
+- Art. 87 Gestaltungsklage
+- Art. 88 Feststellungsklage
+- Art. 89 Verbandsklage
+- Art. 90 Klagenhäufung
+- Art. 91 Grundsatz
+- Art. 92 Wiederkehrende Nutzungen und Leistungen
+- Art. 93 Streitgenossenschaft und Klagenhäufung
+- Art. 94 Widerklage
+- Art. 94a58 Verbandsklage
+- Art. 95 Begriffe
+- Art. 9659 Tarife und Anspruch der Vertretung auf Parteientschädigung
+- Art. 97 Aufklärung über die Prozesskosten
+- Art. 9861 Kostenvorschuss
+- Art. 99 Sicherheit für die Parteientschädigung
+- Art. 100 Art und Höhe der Sicherheit
+- Art. 101 Leistung des Vorschusses und der Sicherheit
+- Art. 102 Vorschuss für Beweiserhebungen
+- Art. 103 Rechtsmittel
+- Art. 104 Entscheid über die Prozesskosten
+- Art. 105 Festsetzung und Verteilung der Prozesskosten
+- Art. 106 Verteilungsgrundsätze
+- Art. 107 Verteilung nach Ermessen
+- Art. 108 Unnötige Prozesskosten
+- Art. 109 Verteilung bei Vergleich
+- Art. 110 Rechtsmittel
+- Art. 111 Liquidation der Prozesskosten
+- Art. 112 Stundung, Erlass, Verjährung und Verzinsung der Gerichtskosten
+- Art. 113 Schlichtungsverfahren
+- Art. 114 Entscheidverfahren
+- Art. 115 Kostentragungspflicht
+- Art. 116 Kostenbefreiung nach kantonalem Recht
+- Art. 117 Anspruch
+- Art. 118 Umfang
+- Art. 119 Gesuch und Verfahren
+- Art. 120 Entzug der unentgeltlichen Rechtspflege
+- Art. 121 Rechtsmittel
+- Art. 122 Liquidation der Prozesskosten
+- Art. 123 Nachzahlung
+- Art. 124 Grundsätze
+- Art. 125 Vereinfachung des Prozesses
+- Art. 126 Sistierung des Verfahrens
+- Art. 127 Überweisung bei zusammenhängenden Verfahren
+- Art. 128 Verfahrensdisziplin und mutwillige Prozessführung
+- Art. 129
+- Art. 13088 Form
+- Art. 131 Anzahl
+- Art. 132 Mangelhafte, querulatorische und rechtsmissbräuchliche Eingaben
+- Art. 133 Inhalt
+- Art. 134 Zeitpunkt
+- Art. 135 Verschiebung des Erscheinungstermins
+- Art. 136 Zuzustellende Urkunden
+- Art. 137 Bei Vertretung
+- Art. 138 Form
+- Art. 13991 Elektronische Zustellung
+- Art. 140 Zustellungsdomizil
+- Art. 141 Öffentliche Bekanntmachung
+- Art. 141a Grundsätze
+- Art. 141b Voraussetzungen
+- Art. 142 Beginn und Berechnung
+- Art. 143 Einhaltung
+- Art. 144 Erstreckung
+- Art. 145 Stillstand der Fristen
+- Art. 146 Wirkungen des Stillstandes
+- Art. 147 Säumnis und Säumnisfolgen
+- Art. 148 Wiederherstellung
+- Art. 14999 Verfahren der Wiederherstellung
+- Art. 150 Beweisgegenstand
+- Art. 151 Bekannte Tatsachen
+- Art. 152 Recht auf Beweis
+- Art. 153 Beweiserhebung von Amtes wegen
+- Art. 154 Beweisverfügung
+- Art. 155 Beweisabnahme
+- Art. 156 Wahrung schutzwürdiger Interessen
+- Art. 157 Freie Beweiswürdigung
+- Art. 158 Vorsorgliche Beweisführung
+- Art. 159 Organe einer juristischen Person
+- Art. 160 Mitwirkungspflicht
+- Art. 161 Aufklärung
+- Art. 162 Berechtigte Verweigerung der Mitwirkung
+- Art. 163 Verweigerungsrecht
+- Art. 164 Unberechtigte Verweigerung
+- Art. 165 Umfassendes Verweigerungsrecht
+- Art. 166 Beschränktes Verweigerungsrecht
+- Art. 167 Unberechtigte Verweigerung
+- Art. 167a
+- Art. 168
+- Art. 169 Gegenstand
+- Art. 170 Vorladung
+- Art. 170a110 Einvernahme mittels Videokonferenz
+- Art. 171 Form der Einvernahme
+- Art. 172 Inhalt der Einvernahme
+- Art. 173 Ergänzungsfragen
+- Art. 174 Konfrontation
+- Art. 175 Zeugnis einer sachverständigen Person
+- Art. 176 Protokoll
+- Art. 176a114 Protokollierung bei Aufzeichnung
+- Art. 177115 Begriff
+- Art. 178 Echtheit
+- Art. 179 Beweiskraft öffentlicher Register und Urkunden
+- Art. 180 Einreichung
+- Art. 181 Durchführung
+- Art. 182 Protokoll
+- Art. 183 Grundsätze
+- Art. 184 Rechte und Pflichten der sachverständigen Person
+- Art. 185 Auftrag
+- Art. 186 Abklärungen der sachverständigen Person
+- Art. 187 Erstattung des Gutachtens
+- Art. 188 Säumnis und Mängel
+- Art. 189 Schiedsgutachten
+- Art. 190
+- Art. 191 Parteibefragung
+- Art. 192 Beweisaussage
+- Art. 193120 Protokoll und Durchführung mittels Videokonferenz
+- Art. 194 Grundsatz
+- Art. 195 Direkte Prozesshandlungen in einem andern Kanton
+- Art. 196 Rechtshilfe
+- Art. 197 Grundsatz
+- Art. 198 Ausnahmen
+- Art. 199 Verzicht auf das Schlichtungsverfahren
+- Art. 200 Paritätische Schlichtungsbehörden
+- Art. 201 Aufgaben der Schlichtungsbehörde
+- Art. 202 Einleitung
+- Art. 203 Verhandlung
+- Art. 204 Persönliches Erscheinen
+- Art. 205 Vertraulichkeit des Verfahrens
+- Art. 206 Säumnis
+- Art. 207 Kosten des Schlichtungsverfahrens
+- Art. 208 Einigung der Parteien
+- Art. 209 Klagebewilligung
+- Art. 210 Entscheidvorschlag
+- Art. 211 Wirkungen
+- Art. 212 Entscheid
+- Art. 213 Mediation statt Schlichtungsverfahren
+- Art. 214 Mediation im Entscheidverfahren
+- Art. 215 Organisation und Durchführung der Mediation
+- Art. 216 Verhältnis zum gerichtlichen Verfahren
+- Art. 217 Genehmigung einer Vereinbarung
+- Art. 218 Kosten der Mediation
+- Art. 219
+- Art. 220 Einleitung
+- Art. 221 Klage
+- Art. 222 Klageantwort
+- Art. 223 Versäumte Klageantwort
+- Art. 224 Widerklage
+- Art. 225 Zweiter Schriftenwechsel
+- Art. 226 Instruktionsverhandlung
+- Art. 227 Klageänderung
+- Art. 228 Erste Parteivorträge
+- Art. 229 Neue Tatsachen und Beweismittel
+- Art. 230 Klageänderung
+- Art. 231 Beweisabnahme
+- Art. 232 Schlussvorträge
+- Art. 233 Verzicht auf die Hauptverhandlung
+- Art. 234 Säumnis an der Hauptverhandlung
+- Art. 235
+- Art. 236 Endentscheid
+- Art. 237 Zwischenentscheid
+- Art. 238 Inhalt
+- Art. 239 Eröffnung und Begründung
+- Art. 240 Mitteilung und Veröffentlichung des Entscheides
+- Art. 241 Vergleich, Klageanerkennung, Klagerückzug
+- Art. 242155 Gegenstandslosigkeit aus anderen Gründen
+- Art. 243 Geltungsbereich
+- Art. 244 Vereinfachte Klage
+- Art. 245 Vorladung zur Verhandlung und Stellungnahme
+- Art. 246 Prozessleitende Verfügungen
+- Art. 247 Feststellung des Sachverhaltes
+- Art. 248 Grundsatz
+- Art. 249 Zivilgesetzbuch
+- Art. 250 Obligationenrecht
+- Art. 251 Bundesgesetz vom 11. April 1889 über Schuldbetreibung und Konkurs
+- Art. 251a189 Bundesgesetz vom 18. Dezember 1987 über das Internationale Privatrecht
+- Art. 252 Gesuch
+- Art. 253 Stellungnahme
+- Art. 254 Beweismittel
+- Art. 255 Untersuchungsgrundsatz
+- Art. 256 Entscheid
+- Art. 257
+- Art. 258 Grundsatz
+- Art. 259 Bekanntmachung
+- Art. 260 Einsprache
+- Art. 261 Grundsatz
+- Art. 262 Inhalt
+- Art. 263 Massnahmen vor Rechtshängigkeit
+- Art. 264 Sicherheitsleistung und Schadenersatz
+- Art. 265 Superprovisorische Massnahmen
+- Art. 266 Massnahmen gegen Medien
+- Art. 267 Vollstreckung
+- Art. 268 Änderung und Aufhebung
+- Art. 269 Vorbehalt
+- Art. 270
+- Art. 271 Geltungsbereich
+- Art. 272 Untersuchungsgrundsatz
+- Art. 273 Verfahren
+- Art. 274 Einleitung
+- Art. 275 Aufhebung des gemeinsamen Haushalts
+- Art. 276 Vorsorgliche Massnahmen
+- Art. 277 Feststellung des Sachverhalts
+- Art. 278 Persönliches Erscheinen
+- Art. 279 Genehmigung der Vereinbarung
+- Art. 280 Vereinbarung über die berufliche Vorsorge
+- Art. 281 Fehlende Einigung über den Vorsorgeausgleich204
+- Art. 282 Unterhaltsbeiträge
+- Art. 283 Einheit des Entscheids
+- Art. 284 Änderung rechtskräftig entschiedener Scheidungsfolgen
+- Art. 285 Eingabe bei umfassender Einigung
+- Art. 286 Eingabe bei Teileinigung
+- Art. 287214 Anhörung der Parteien
+- Art. 288 Fortsetzung des Verfahrens und Entscheid
+- Art. 289 Rechtsmittel
+- Art. 290 Einreichung der Klage
+- Art. 291 Einigungsverhandlung
+- Art. 292 Wechsel zur Scheidung auf gemeinsames Begehren
+- Art. 293 Klageänderung
+- Art. 294
+- Art. 295222 Grundsatz
+- Art. 296 Untersuchungs- und Offizialgrundsatz
+- Art. 297 Anhörung der Eltern und Mediation
+- Art. 298 Anhörung des Kindes
+- Art. 299 Anordnung einer Vertretung des Kindes
+- Art. 300228 Kompetenzen der Vertretung
+- Art. 301 Eröffnung des Entscheides
+- Art. 301a230 Unterhaltsbeiträge
+- Art. 302 …232
+- Art. 303 Vorsorgliche Massnahmen
+- Art. 304 Zuständigkeit
+- Art. 305 Geltungsbereich
+- Art. 306 Verfahren
+- Art. 307
+- Art. 307a
+- Art. 308 Anfechtbare Entscheide
+- Art. 309 Ausnahmen
+- Art. 310 Berufungsgründe
+- Art. 311 Einreichen der Berufung
+- Art. 312 Berufungsantwort
+- Art. 313 Anschlussberufung
+- Art. 314 Summarisches Verfahren
+- Art. 315 Aufschiebende Wirkung
+- Art. 316 Verfahren vor der Rechtsmittelinstanz
+- Art. 317 Neue Tatsachen, neue Beweismittel und Klageänderung
+- Art. 318 Entscheid
+- Art. 319 Anfechtungsobjekt
+- Art. 320 Beschwerdegründe
+- Art. 321 Einreichen der Beschwerde
+- Art. 322 Beschwerdeantwort
+- Art. 323 Anschlussbeschwerde
+- Art. 324 Stellungnahme der Vorinstanz
+- Art. 325 Aufschiebende Wirkung
+- Art. 326 Neue Anträge, neue Tatsachen und neue Beweismittel
+- Art. 327 Verfahren und Entscheid
+- Art. 327a258 Vollstreckbarerklärung nach Lugano-Übereinkommen
+- Art. 328 Revisionsgründe
+- Art. 329 Revisionsgesuch und Revisionsfristen
+- Art. 330 Stellungnahme der Gegenpartei
+- Art. 331 Aufschiebende Wirkung
+- Art. 332 Entscheid über das Revisionsgesuch
+- Art. 333 Neuer Entscheid in der Sache
+- Art. 334
+- Art. 335 Geltungsbereich
+- Art. 336 Vollstreckbarkeit
+- Art. 337 Direkte Vollstreckung
+- Art. 338 Vollstreckungsgesuch
+- Art. 339 Zuständigkeit und Verfahren
+- Art. 340271 Sichernde Massnahmen
+- Art. 341 Prüfung der Vollstreckbarkeit und Stellungnahme der unterlegenen Partei
+- Art. 342 Vollstreckung einer bedingten oder von einer Gegenleistung abhängigen Leistung
+- Art. 343 Verpflichtung zu einem Tun, Unterlassen oder Dulden
+- Art. 344 Abgabe einer Willenserklärung
+- Art. 345 Schadenersatz und Umwandlung in Geld
+- Art. 346 Rechtsmittel Dritter
+- Art. 347 Vollstreckbarkeit
+- Art. 348 Ausnahmen
+- Art. 349 Urkunde über eine Geldleistung
+- Art. 350 Urkunde über eine andere Leistung
+- Art. 351 Verfahren vor dem Vollstreckungsgericht
+- Art. 352 Gerichtliche Beurteilung
+- Art. 353 Geltungsbereich
+- Art. 354 Schiedsfähigkeit
+- Art. 355 Sitz des Schiedsgerichtes
+- Art. 356 Zuständige staatliche Gerichte
+- Art. 357 Schiedsvereinbarung
+- Art. 358 Form
+- Art. 359 Bestreitung der Zuständigkeit des Schiedsgerichts
+- Art. 360 Anzahl der Mitglieder
+- Art. 361 Ernennung durch die Parteien
+- Art. 362 Ernennung durch das staatliche Gericht
+- Art. 363 Offenlegungspflicht
+- Art. 364 Annahme des Amtes
+- Art. 365 Sekretariat
+- Art. 366 Amtsdauer
+- Art. 367 Ablehnung eines Mitgliedes
+- Art. 368 Ablehnung des Schiedsgerichts
+- Art. 369 Ablehnungsverfahren
+- Art. 370 Abberufung
+- Art. 371 Ersetzung eines Mitglieds des Schiedsgerichts
+- Art. 372 Rechtshängigkeit
+- Art. 373 Allgemeine Verfahrensregeln
+- Art. 374 Vorsorgliche Massnahmen, Sicherheit und Schadenersatz
+- Art. 375 Beweisabnahme und Mitwirkung des staatlichen Gerichts
+- Art. 376 Streitgenossenschaft, Klagenhäufung und Beteiligung Dritter
+- Art. 377 Verrechnung und Widerklage
+- Art. 378 Kostenvorschuss
+- Art. 379 Sicherstellung der Parteientschädigung
+- Art. 380 Unentgeltliche Rechtspflege
+- Art. 381 Anwendbares Recht
+- Art. 382 Beratung und Abstimmung
+- Art. 383 Zwischen- und Teilschiedssprüche
+- Art. 384 Inhalt des Schiedsspruches
+- Art. 385 Einigung der Parteien
+- Art. 386 Zustellung und Hinterlegung
+- Art. 387 Wirkungen des Schiedsspruches
+- Art. 388 Berichtigung, Erläuterung und Ergänzung des Schiedsspruchs
+- Art. 389 Beschwerde an das Bundesgericht
+- Art. 390 Beschwerde an das kantonale Gericht
+- Art. 391 Subsidiarität
+- Art. 392 Anfechtbare Schiedssprüche
+- Art. 393 Beschwerdegründe
+- Art. 394 Rückweisung zur Berichtigung oder Ergänzung
+- Art. 395 Entscheid
+- Art. 396 Revisionsgründe
+- Art. 397 Fristen
+- Art. 398 Verfahren
+- Art. 399 Rückweisung an das Schiedsgericht
+- Art. 400 Grundsätze
+- Art. 401 Pilotprojekte
+- Art. 401a302 Statistik und Geschäftszahlen
+- Art. 402 Aufhebung und Änderung bisherigen Rechts
+- Art. 403 Koordinationsbestimmungen
+- Art. 404 Weitergelten des bisherigen Rechts
+- Art. 405 Rechtsmittel
+- Art. 406 Gerichtsstandsvereinbarung
+- Art. 407 Schiedsgerichtsbarkeit
+- Art. 407a
+- Art. 407b
+- Art. 407c
+- Art. 407d
+- Art. 407e
+- Art. 407f
+- Art. 408
+
+### SR 272.1 – Verordnung vom 18. Juni 2010 über die elektronische Übermittlung im Rahmen von Zivil- und Strafprozessen sowie von Schuldbetreibungs- und Konkursverfahren (VeÜ-ZSSV)
+
+ELI: `/eli/cc/2010/413/de`
+
+- Art. 1 Gegenstand und Geltungsbereich
+- Art. 2 Anerkannte Plattform für die sichere Zustellung
+- Art. 3 Anerkennungsverfahren
+- Art. 4 Eingaben
+- Art. 5 Verzeichnis
+- Art. 6 Format
+- Art. 713
+- Art. 8 Zertifikat
+- Art. 8a14 Nachreichung auf Papier
+- Art. 8b15 Wahrung einer Frist
+- Art. 9 Voraussetzungen
+- Art. 10 Modalitäten
+- Art. 11 Zeitpunkt der Zustellung
+- Art. 12 Zusätzliche elektronische Zustellung von Verfügungen
+und Entscheiden
+- Art. 13 Papierausdruck einer elektronischen Eingabe
+- Art. 13a
+- Art. 14
+- Art. 1524 Übergangsbestimmung
+- Art. 15a26 Übergangsbestimmung zur Änderung vom 23. November 2016
+- Art. 16 Inkrafttreten
+
+### SR 272.11 – Verordnung des EJPD vom 16. September 2014 über die Anerkennung von Plattformen für die sichere Zustellung im Rahmen von rechtlichen Verfahren (Anerkennungsverordnung Zustellplattformen)
+
+ELI: `/eli/cc/2014/523/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Voraussetzungen für die Anerkennung
+- Art. 3 Gesuch und einzureichende Unterlagen
+- Art. 4 Bericht- und Meldepflichten
+- Art. 5 Liste der anerkannten Zustellplattformen
+- Art. 6 Inkrafttreten
+
+### SR 272.2 – Verordnung vom 16. Oktober 2024 über den Einsatz elektronischer Mittel zur Ton- und Bildübertragung in Zivilverfahren (VEMZ)
+
+ELI: `/eli/cc/2024/577/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Infrastruktur
+- Art. 3 Ton- und Bildübertragungssysteme
+- Art. 4 Anmeldung und Teilnahme
+- Art. 5 Durchführung der Prozesshandlung
+- Art. 6 Verhaltensregeln
+- Art. 7 Informationen zuhanden der teilnehmenden Personen
+- Art. 8 Anmeldung zu einer öffentlich zugänglichen Prozesshandlung
+- Art. 9 Durchführung einer öffentlich zugänglichen Prozesshandlung
+- Art. 10 Aufzeichnung
+- Art. 11 Übergangsbestimmung
+- Art. 12 Inkrafttreten
+
+### SR 273 – Bundesgesetz vom 4. Dezember 1947 über den Bundeszivilprozess
+
+ELI: `/eli/cc/1948/485_473_421/de`
+
+- Art. 14
+- Art. 2
+- Art. 3
+- Art. 4
+- Art. 5
+- Art. 6
+- Art. 7
+- Art. 8
+- Art. 9
+- Art. 10
+- Art. 11
+- Art. 12
+- Art. 13
+- Art. 14
+- Art. 15
+- Art. 16
+- Art. 17
+- Art. 18
+- Art. 19
+- Art. 2014
+- Art. 21
+- Art. 22
+- Art. 23
+- Art. 24
+- Art. 25
+- Art. 26
+- Art. 27
+- Art. 28
+- Art. 29
+- Art. 30
+- Art. 31
+- Art. 32
+- Art. 33
+- Art. 34
+- Art. 35
+- Art. 36
+- Art. 37
+- Art. 38
+- Art. 39
+- Art. 40
+- Art. 41
+- Art. 42
+- Art. 43
+- Art. 44
+- Art. 45
+- Art. 46
+- Art. 47
+- Art. 48
+- Art. 49
+- Art. 50
+- Art. 51
+- Art. 51a24
+- Art. 52
+- Art. 53
+- Art. 54
+- Art. 55
+- Art. 56
+- Art. 57
+- Art. 58
+- Art. 59
+- Art. 60
+- Art. 61
+- Art. 62
+- Art. 63
+- Art. 64
+- Art. 65
+- Art. 66
+- Art. 67
+- Art. 68
+- Art. 69
+- Art. 70
+- Art. 71
+- Art. 72
+- Art. 73
+- Art. 74
+- Art. 75
+- Art. 76
+- Art. 77
+- Art. 78
+- Art. 79
+- Art. 80
+- Art. 81
+- Art. 82
+- Art. 83
+- Art. 84
+- Art. 85
+- Art. 86
+- Art. 87
+
+## 28 Schuldbetreibung und Konkurs
+
+### SR 281.1 – Bundesgesetz vom 11. April 1889 über Schuldbetreibung und Konkurs (SchKG)
+
+ELI: `/eli/cc/11/529_488_529/de`
+
+- Art. 1
+- Art. 25
+- Art. 36
+- Art. 47
+- Art. 4a8
+- Art. 59
+- Art. 610
+- Art. 711
+- Art. 812
+- Art. 8a13
+- Art. 9
+- Art. 1016
+- Art. 1120
+- Art. 12
+- Art. 13
+- Art. 14
+- Art. 1525
+- Art. 16
+- Art. 17
+- Art. 1830
+- Art. 1931
+- Art. 20
+- Art. 20a34
+- Art. 21
+- Art. 2239
+- Art. 2340
+- Art. 24
+- Art. 2541
+- Art. 2642
+- Art. 2744
+- Art. 2845
+- Art. 2946
+- Art. 3047
+- Art. 30a48
+- Art. 3150
+- Art. 3252
+- Art. 33
+- Art. 33a59
+- Art. 3461
+- Art. 35
+- Art. 36
+- Art. 3765
+- Art. 38
+- Art. 39
+- Art. 40
+- Art. 4176
+- Art. 4277
+- Art. 4378
+- Art. 4483
+- Art. 4585
+- Art. 46
+- Art. 4789
+- Art. 48
+- Art. 4990
+- Art. 50
+- Art. 51
+- Art. 52
+- Art. 53
+- Art. 54
+- Art. 55
+- Art. 5696
+- Art. 57100
+- Art. 57a104
+- Art. 57b109
+- Art. 57c112
+- Art. 57d114
+- Art. 57e118
+- Art. 58119
+- Art. 59
+- Art. 60
+- Art. 61
+- Art. 62123
+- Art. 63124
+- Art. 64
+- Art. 65
+- Art. 66
+- Art. 67
+- Art. 68
+- Art. 68a133
+- Art. 68b135
+- Art. 68c138
+- Art. 68d140
+- Art. 68e
+- Art. 69
+- Art. 70
+- Art. 71
+- Art. 72
+- Art. 73145
+- Art. 74
+- Art. 75148
+- Art. 76
+- Art. 77
+- Art. 78
+- Art. 79153
+- Art. 80154
+- Art. 81164
+- Art. 82
+- Art. 83
+- Art. 84170
+- Art. 85171
+- Art. 85a173
+- Art. 86
+- Art. 87
+- Art. 88180
+- Art. 89183
+- Art. 90
+- Art. 91184
+- Art. 92
+- Art. 93210
+- Art. 94
+- Art. 95
+- Art. 95a217
+- Art. 96
+- Art. 97
+- Art. 98
+- Art. 99
+- Art. 100
+- Art. 101223
+- Art. 102224
+- Art. 103
+- Art. 104
+- Art. 105227
+- Art. 106228
+- Art. 107230
+- Art. 108231
+- Art. 109232
+- Art. 110234
+- Art. 111235
+- Art. 112
+- Art. 113243
+- Art. 114244
+- Art. 115
+- Art. 116246
+- Art. 117
+- Art. 118
+- Art. 119247
+- Art. 120
+- Art. 121
+- Art. 122
+- Art. 123249
+- Art. 124
+- Art. 125
+- Art. 126257
+- Art. 127258
+- Art. 128259
+- Art. 129
+- Art. 130
+- Art. 131
+- Art. 132269
+- Art. 132a271
+- Art. 133272
+- Art. 134
+- Art. 135
+- Art. 136275
+- Art. 137277
+- Art. 138
+- Art. 139280
+- Art. 140281
+- Art. 141282
+- Art. 142283
+- Art. 142a284
+- Art. 143
+- Art. 143a286
+- Art. 143b287
+- Art. 144
+- Art. 145290
+- Art. 146291
+- Art. 147292
+- Art. 148
+- Art. 149
+- Art. 149a299
+- Art. 150
+- Art. 151302
+- Art. 152
+- Art. 153
+- Art. 153a316
+- Art. 154
+- Art. 155
+- Art. 156320
+- Art. 157
+- Art. 158
+- Art. 159327
+- Art. 160
+- Art. 161
+- Art. 162
+- Art. 163
+- Art. 164333
+- Art. 165
+- Art. 166
+- Art. 167
+- Art. 168
+- Art. 169
+- Art. 170
+- Art. 171338
+- Art. 172
+- Art. 173
+- Art. 173a342
+- Art. 173b346
+- Art. 174349
+- Art. 175
+- Art. 176351
+- Art. 177
+- Art. 178
+- Art. 179356
+- Art. 180
+- Art. 181357
+- Art. 182
+- Art. 183
+- Art. 184
+- Art. 185362
+- Art. 186
+- Art. 187
+- Art. 188
+- Art. 189364
+- Art. 190
+- Art. 191366
+- Art. 192367
+- Art. 193368
+- Art. 194370
+- Art. 195
+- Art. 196372
+- Art. 197
+- Art. 198
+- Art. 199
+- Art. 200
+- Art. 201
+- Art. 202
+- Art. 203
+- Art. 204
+- Art. 205
+- Art. 206376
+- Art. 207377
+- Art. 208
+- Art. 209379
+- Art. 210380
+- Art. 211
+- Art. 211a387
+- Art. 212
+- Art. 213
+- Art. 214
+- Art. 215
+- Art. 216
+- Art. 217
+- Art. 218
+- Art. 219
+- Art. 220
+- Art. 221
+- Art. 222417
+- Art. 222a419
+- Art. 223
+- Art. 224
+- Art. 225
+- Art. 226420
+- Art. 227
+- Art. 228
+- Art. 229
+- Art. 230
+- Art. 230a428
+- Art. 231429
+- Art. 232
+- Art. 233438
+- Art. 234439
+- Art. 235
+- Art. 236441
+- Art. 237
+- Art. 238
+- Art. 239
+- Art. 240
+- Art. 241445
+- Art. 242446
+- Art. 242a447
+- Art. 242b448
+- Art. 243
+- Art. 244
+- Art. 245
+- Art. 246450
+- Art. 247451
+- Art. 248
+- Art. 249
+- Art. 250453
+- Art. 251
+- Art. 252
+- Art. 253
+- Art. 254457
+- Art. 255458
+- Art. 255a459
+- Art. 256
+- Art. 257
+- Art. 258462
+- Art. 259464
+- Art. 260
+- Art. 261
+- Art. 262466
+- Art. 263
+- Art. 264
+- Art. 265
+- Art. 265a469
+- Art. 265b472
+- Art. 266
+- Art. 267
+- Art. 268
+- Art. 269
+- Art. 270
+- Art. 271
+- Art. 272482
+- Art. 273484
+- Art. 274
+- Art. 275486
+- Art. 276
+- Art. 277
+- Art. 278489
+- Art. 279491
+- Art. 280497
+- Art. 281
+- Art. 282498
+- Art. 283
+- Art. 284
+- Art. 284a
+- Art. 284b
+- Art. 285
+- Art. 286
+- Art. 287
+- Art. 288519
+- Art. 288a521
+- Art. 289522
+- Art. 290523
+- Art. 291
+- Art. 292524
+- Art. 293527
+- Art. 293a528
+- Art. 293b530
+- Art. 293c531
+- Art. 293d532
+- Art. 294533
+- Art. 295534
+- Art. 295a536
+- Art. 295b537
+- Art. 295c538
+- Art. 296540
+- Art. 296a541
+- Art. 296b543
+- Art. 297544
+- Art. 297a545
+- Art. 298546
+- Art. 299
+- Art. 300
+- Art. 301
+- Art. 301a–301d
+- Art. 302
+- Art. 303
+- Art. 304
+- Art. 305
+- Art. 306558
+- Art. 306a
+- Art. 307559
+- Art. 308561
+- Art. 309562
+- Art. 310563
+- Art. 311
+- Art. 312
+- Art. 313
+- Art. 314
+- Art. 315
+- Art. 316
+- Art. 317
+- Art. 318
+- Art. 319
+- Art. 320
+- Art. 321
+- Art. 322
+- Art. 323
+- Art. 324
+- Art. 325
+- Art. 326
+- Art. 327
+- Art. 328
+- Art. 329
+- Art. 330
+- Art. 331
+- Art. 332
+- Art. 333
+- Art. 334
+- Art. 335
+- Art. 336
+- Art. 337
+- Art. 338
+- Art. 339
+- Art. 340
+- Art. 341
+- Art. 342
+- Art. 343
+- Art. 344
+- Art. 345
+- Art. 346
+- Art. 347
+- Art. 348
+- Art. 349
+- Art. 350581
+- Art. 351
+- Art. 352
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 4
+
+### SR 281.11 – Verordnung vom 22. November 2006 betreffend die Oberaufsicht über Schuldbetreibung und Konkurs (OAV-SchKG)
+
+ELI: `/eli/cc/2006/804/de`
+
+- Art. 1 Zuständige Behörde
+- Art. 2 Berichterstattung
+- Art. 3 Eidgenössische Kommission für Schuldbetreibung und Konkurs
+- Art. 4 Anwendung bisherigen Rechts
+- Art. 5 Inkrafttreten
+
+### SR 281.112.1 – Verordnung des EJPD vom 9. Februar 2011 über die elektronische Übermittlung im Betreibungswesen
+
+ELI: `/eli/cc/2011/101/de`
+
+- Art. 13 Gegenstand
+- Art. 2 Verbundteilnehmerinnen und -teilnehmer und deren Verzeichnis
+- Art. 3 Zustellplattform
+- Art. 4 Elektronische Signatur
+- Art. 5 eSchKG-Standard
+- Art. 5a12 Eingaben von ausserhalb des eSchKG-Verbundes
+- Art. 6 Allgemeine statistische Daten
+- Art. 6a Gebührenerhebung
+- Art. 7 Beitritt
+- Art. 817 Ausschluss
+- Art. 918 Übergangsbestimmungen zur Änderung vom 27. August 2020
+- Art. 9a21
+- Art. 9b22
+- Art. 9c23 Übergangsbestimmungen zur Änderung vom 15. August 2022
+- Art. 10 Inkrafttreten
+
+### SR 281.31 – Verordnung vom 5. Juni 1996 über die im Betreibungs- und Konkursverfahren zu verwendenden Formulare und Register sowie die Rechnungsführung (VFRR)
+
+ELI: `/eli/cc/1996/2877_2877_2877/de`
+
+- Art. 13
+- Art. 24
+- Art. 35
+- Art. 4
+- Art. 5
+- Art. 6
+- Art. 7
+- Art. 8
+- Art. 9
+- Art. 10
+- Art. 11
+- Art. 12
+- Art. 13
+- Art. 14
+- Art. 15
+- Art. 16
+- Art. 17
+- Art. 18
+- Art. 19
+
+### SR 281.311 – Verordnung des EJPD vom 24. November 2015 über die vom Gläubiger zu stellenden Begehren im Schuldbetreibungs- und Konkursverfahren
+
+ELI: `/eli/cc/2015/828/de`
+
+- Art. 1 Gegenstand
+- Art. 2 Anzahl zulässige Forderungen in einem Begehren
+- Art. 3 Inhalt und Umfang des Forderungsgrunds
+- Art. 4 Teilzahlungen
+- Art. 5 Nichteinhaltung der Vorgaben
+- Art. 6 Inkrafttreten
+
+### SR 281.32 – Verordnung vom 13. Juli 1911 über die Geschäftsführung der Konkursämter (KOV)
+
+ELI: `/eli/cc/27/751_749_771/de`
+
+- Art. 14
+- Art. 2
+- Art. 3
+- Art. 48
+- Art. 5
+- Art. 6
+- Art. 7
+- Art. 811
+- Art. 9
+- Art. 10
+- Art. 1116
+- Art. 1218
+- Art. 13
+- Art. 1423
+- Art. 15
+- Art. 15a28
+- Art. 16
+- Art. 17
+- Art. 18
+- Art. 19
+- Art. 20
+- Art. 2133
+- Art. 22
+- Art. 23
+- Art. 24
+- Art. 24a34
+- Art. 25
+- Art. 2638
+- Art. 27
+- Art. 2839
+- Art. 29
+- Art. 3041
+- Art. 31
+- Art. 32
+- Art. 3343
+- Art. 3444
+- Art. 35
+- Art. 36
+- Art. 37
+- Art. 3848
+- Art. 3949
+- Art. 40
+- Art. 4154
+- Art. 42
+- Art. 43
+- Art. 4458
+- Art. 4559
+- Art. 4660
+- Art. 4761
+- Art. 48
+- Art. 49
+- Art. 50
+- Art. 5164
+- Art. 5265
+- Art. 5366
+- Art. 54
+- Art. 54a69
+- Art. 55
+- Art. 56
+- Art. 5771
+- Art. 58
+- Art. 5973
+- Art. 60
+- Art. 6175
+- Art. 62
+- Art. 63
+- Art. 64
+- Art. 6578
+- Art. 66
+- Art. 67
+- Art. 6880
+- Art. 69
+- Art. 70
+- Art. 7182
+- Art. 7283
+- Art. 73
+- Art. 74
+- Art. 7586
+- Art. 7688
+- Art. 77
+- Art. 7890
+- Art. 7991
+- Art. 80
+- Art. 8192
+- Art. 82
+- Art. 83
+- Art. 8493
+- Art. 8595
+- Art. 86
+- Art. 87
+- Art. 88
+- Art. 8997
+- Art. 9098
+- Art. 9199
+- Art. 92
+- Art. 93
+- Art. 94100
+- Art. 95
+- Art. 96102
+- Art. 97106
+- Art. 98
+- Art. 99
+- Art. 100
+
+### SR 281.33 – Verordnung vom 5. Juni 1996 über die Aufbewahrung der Betreibungs- und Konkursakten (VABK)
+
+ELI: `/eli/cc/1996/2895_2895_2895/de`
+
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 4
+- Art. 5
+- Art. 6
+- Art. 7
+
+### SR 281.35 – Gebührenverordnung vom 23. September 1996 zum Bundesgesetz über Schuldbetreibung und Konkurs (GebV SchKG)
+
+ELI: `/eli/cc/1996/2937_2937_2937/de`
+
+- Art. 1 Geltungsbereich
+- Art. 2 Aufsicht
+- Art. 3 Kostenrechnung
+- Art. 4 Berechnung nach Zeitaufwand
+- Art. 5 Berechnung nach Seitenzahl
+- Art. 6 Berechnung nach Forderungsbetrag
+- Art. 7 Zustellung auf Ersuchen eines andern Amtes
+- Art. 8 Nacht‑, Sonntags- und Feiertagszuschlag
+- Art. 9 Schriftstücke
+- Art. 103 Telefongespräche und Faxnachrichten
+- Art. 10bis 4
+- Art. 11 Öffentliche Bekanntmachungen
+- Art. 12 Akteneinsicht und Auskunft
+- Art. 12a5 Schriftliche Betreibungsregisterauskünfte
+- Art. 12b7 Gesuch nach Artikel 8a Absatz 3 Buchstabe d SchKG
+- Art. 13 Auslagen im allgemeinen
+- Art. 14 Wegentschädigung, Spesenvergütung
+- Art. 15 Mehrere Verrichtungen
+- Art. 15a15 Gebühren im eSchKG-Verbund16
+- Art. 15b22 Ersatz von Auslagen im eSchKG-Verbund
+- Art. 16 Zahlungsbefehl
+- Art. 17 Feststellung von Miete und Pacht
+- Art. 18 Rechtsvorschlag
+- Art. 19 Einzahlung und Überweisung
+- Art. 20 Vollzug der Pfändung
+- Art. 21 Arrestvollzug und Aufnahme eines Retentionsverzeichnisses
+- Art. 22 Ergänzung der Pfändung und Nachpfändung, Pfändungsanschluss und Revision von Einkommenspfändungen
+- Art. 23 Pfändung für mehrere Forderungen
+- Art. 24 Abschrift der Pfändungsurkunde
+- Art. 25 Beweismittel für Drittansprüche
+- Art. 26 Verwahrung beweglicher Sachen
+- Art. 27 Verwaltung von Grundstücken
+- Art. 28 Schätzung von Pfändern
+- Art. 29 Lastenverzeichnis und Steigerungsbedingungen
+- Art. 30 Versteigerung, Freihandverkauf und Ausverkauf
+- Art. 31 Verwertung aus mehreren Betreibungen
+- Art. 32 Mitteilungen an das Grundbuchamt
+- Art. 33 Einzug und Überweisung
+- Art. 34 Erstellung des Kollokations- und Verteilungsplans
+- Art. 35 Anweisung von Forderungen
+- Art. 36 Besondere Art der Abgeltung
+- Art. 37 Eigentumsvorbehalt
+- Art. 38 Selbständige Festsetzung des Kompetenzbetrages
+- Art. 39 Konkursandrohung
+- Art. 40 Güterverzeichnis
+- Art. 4126 Rückzug einer Betreibung und Löschung eines Verlustscheines
+- Art. 42 Übrige Eintragungen
+- Art. 43 Geltungsbereich
+- Art. 44 Feststellung der Konkursmasse
+- Art. 45 Gläubigerversammlung
+- Art. 46 Andere Verrichtungen
+- Art. 47 Anspruchsvolle Verfahren
+- Art. 4827 Entscheidgebühr
+- Art. 49 und 5029
+- Art. 51 Aufhebung des Rechtsstillstandes
+- Art. 52 Konkurseröffnung
+- Art. 53 Andere Verfügungen des Konkursgerichts
+- Art. 54 Nachlassstundung
+- Art. 55 Honorar der Organe
+- Art. 56 Einvernehmliche private Schuldenbereinigung
+- Art. 57 Notstundung
+- Art. 58–6030
+- Art. 61 Gebühren
+- Art. 62 Parteientschädigung
+- Art. 63
+- Art. 63a36 Übergangsbestimmung zur Änderung vom 28. April 2021
+
+### SR 281.41 – Verordnung vom 17. Januar 1923 über die Pfändung und Verwertung von Anteilen an Gemeinschaftsvermögen (VVAG)
+
+ELI: `/eli/cc/39/55_55_57/de`
+
+- Art. 1
+- Art. 2
+- Art. 36
+- Art. 47
+- Art. 5
+- Art. 6
+- Art. 710
+- Art. 8
+- Art. 9
+- Art. 10
+- Art. 11
+- Art. 12
+- Art. 13
+- Art. 14
+- Art. 1519
+- Art. 16
+- Art. 17
+
+### SR 281.42 – Verordnung des Bundesgerichts vom 23. April 1920 über die Zwangsverwertung von Grundstücken (VZG)
+
+ELI: `/eli/cc/36/425_433_469/de`
+
+- Art. 13
+- Art. 26
+- Art. 37
+- Art. 4
+- Art. 58
+- Art. 6
+- Art. 716
+- Art. 8
+- Art. 9
+- Art. 10
+- Art. 11
+- Art. 12
+- Art. 13
+- Art. 14
+- Art. 15
+- Art. 16
+- Art. 17
+- Art. 18
+- Art. 19
+- Art. 20
+- Art. 21
+- Art. 22
+- Art. 2337
+- Art. 23a40
+- Art. 23b43
+- Art. 23c45
+- Art. 23d46
+- Art. 24
+- Art. 25
+- Art. 2651
+- Art. 27
+- Art. 28
+- Art. 29
+- Art. 30
+- Art. 31
+- Art. 32
+- Art. 33
+- Art. 34
+- Art. 35
+- Art. 36
+- Art. 37
+- Art. 38
+- Art. 3966
+- Art. 40
+- Art. 4167
+- Art. 42
+- Art. 43
+- Art. 44
+- Art. 45
+- Art. 46
+- Art. 47
+- Art. 48
+- Art. 49
+- Art. 5076
+- Art. 5178
+- Art. 52
+- Art. 53
+- Art. 54
+- Art. 5583
+- Art. 5684
+- Art. 5785
+- Art. 58
+- Art. 59
+- Art. 60
+- Art. 60a87
+- Art. 6189
+- Art. 62
+- Art. 63
+- Art. 6492
+- Art. 65
+- Art. 66
+- Art. 67
+- Art. 68
+- Art. 69
+- Art. 70
+- Art. 71
+- Art. 72
+- Art. 73102
+- Art. 73a103
+- Art. 73b104
+- Art. 73c105
+- Art. 73d106
+- Art. 73e107
+- Art. 73f110
+- Art. 73g111
+- Art. 73h114
+- Art. 73i115
+- Art. 74
+- Art. 75
+- Art. 76
+- Art. 77
+- Art. 78
+- Art. 78a123
+- Art. 79
+- Art. 80125
+- Art. 81126
+- Art. 82
+- Art. 83
+- Art. 84
+- Art. 84a131
+- Art. 85132
+- Art. 86
+- Art. 87
+- Art. 88
+- Art. 89
+- Art. 90
+- Art. 91144
+- Art. 92146
+- Art. 93149
+- Art. 94
+- Art. 95
+- Art. 96
+- Art. 97
+- Art. 98
+- Art. 99159
+- Art. 100
+- Art. 101
+- Art. 102163
+- Art. 103164
+- Art. 104
+- Art. 105
+- Art. 106170
+- Art. 106a172
+- Art. 107
+- Art. 108
+- Art. 109
+- Art. 110
+- Art. 111
+- Art. 112179
+- Art. 113
+- Art. 114
+- Art. 115
+- Art. 116
+- Art. 117
+- Art. 118
+- Art. 119
+- Art. 120186
+- Art. 121187
+- Art. 122
+- Art. 123
+- Art. 124
+- Art. 125
+- Art. 126193
+- Art. 127
+- Art. 128
+- Art. 129
+- Art. 130
+- Art. 130a203
+- Art. 130b207
+- Art. 130c208
+- Art. 130d212
+- Art. 130e215
+- Art. 130f216
+- Art. 130g218
+- Art. 131
+- Art. 132
+- Art. 133–134221
+- Art. 135
+- Art. 136
+
+### SR 281.51 – Verordnung vom 10. Mai 1910 betreffend die Pfändung, Arrestierung und Verwertung von Versicherungsansprüchen nach dem Bundesgesetz vom 2. April 1908 über den Versicherungsvertrag (VPAV)
+
+ELI: `/eli/cc/26/205_203_198/de`
+
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 4
+- Art. 5
+- Art. 6
+- Art. 7
+- Art. 8
+- Art. 912
+- Art. 10
+- Art. 11
+- Art. 1215
+- Art. 1317
+- Art. 14
+- Art. 15
+- Art. 16
+- Art. 17
+- Art. 18
+- Art. 19
+- Art. 20
+- Art. 21
+- Art. 22
+- Art. 23
+
+### SR 281.52 – Verordnung des Bundesgerichts vom 20. Dezember 1937 über den Genossenschaftskonkurs (VGeK)
+
+ELI: `/eli/cc/54/15_15_25/de`
+
+- Art. 1
+- Art. 24
+- Art. 3
+- Art. 4
+- Art. 5
+- Art. 6
+- Art. 7
+- Art. 8
+- Art. 9
+- Art. 10
+- Art. 11
+- Art. 12
+- Art. 13
+- Art. 14
+- Art. 15
+- Art. 16
+- Art. 17
+- Art. 18
+- Art. 19
+- Art. 20
+- Art. 21
+- Art. 22
+- Art. 2320
+- Art. 24
+- Art. 25
+- Art. 26
+
+### SR 282.11 – Bundesgesetz vom 4. Dezember 1947 über die Schuldbetreibung gegen Gemeinden und andere Körperschaften des kantonalen öffentlichen Rechts
+
+ELI: `/eli/cc/1948/873_853_825/de`
+
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 4
+- Art. 5
+- Art. 6
+- Art. 7
+- Art. 8
+- Art. 9
+- Art. 10
+- Art. 11
+- Art. 12
+- Art. 13
+- Art. 14
+- Art. 15
+- Art. 1613
+- Art. 17
+- Art. 18
+- Art. 19
+- Art. 20
+- Art. 21
+- Art. 22
+- Art. 23
+- Art. 24
+- Art. 25
+- Art. 26
+- Art. 27
+- Art. 28
+- Art. 29
+- Art. 30
+- Art. 31
+- Art. 32
+- Art. 33
+- Art. 34
+- Art. 35
+- Art. 36
+- Art. 37
+- Art. 38
+- Art. 39
+- Art. 40
+- Art. 41
+- Art. 42
+- Art. 43
+- Art. 44
+- Art. 4518
+- Art. 46
+- Art. 47
+
+### SR 282.111 – Ausführungsbestimmung vom 20. Oktober 1948 zum Bundesgesetz vom 4. Dezember 1947 über die Schuldbetreibung gegen Gemeinden und andere Körperschaften des kantonalen öffentlichen Rechts
+
+ELI: `/eli/cc/1948/1111_1100_1074/de`
+
+_No articles listed._
+
+## 29 Internationales Privatrecht
+
+### SR 291 – Bundesgesetz vom 18. Dezember 1987 über das Internationale Privatrecht (IPRG)
+
+ELI: `/eli/cc/1988/1776_1776_1776/de`
+
+- Art. 1
+- Art. 2
+- Art. 3
+- Art. 4
+- Art. 5
+- Art. 68
+- Art. 7
+- Art. 8
+- Art. 8a9
+- Art. 8b10
+- Art. 8c11
+- Art. 9
+- Art. 1014
+- Art. 1115
+- Art. 11a19
+- Art. 11b21
+- Art. 11c23
+- Art. 1224
+- Art. 13
+- Art. 14
+- Art. 15
+- Art. 16
+- Art. 17
+- Art. 18
+- Art. 19
+- Art. 20
+- Art. 2126
+- Art. 22
+- Art. 23
+- Art. 24
+- Art. 25
+- Art. 26
+- Art. 27
+- Art. 28
+- Art. 29
+- Art. 30
+- Art. 31
+- Art. 32
+- Art. 33
+- Art. 34
+- Art. 35
+- Art. 36
+- Art. 37
+- Art. 38
+- Art. 39
+- Art. 40
+- Art. 40a29
+- Art. 41
+- Art. 42
+- Art. 43
+- Art. 4432
+- Art. 45
+- Art. 45a36
+- Art. 46
+- Art. 47
+- Art. 48
+- Art. 49
+- Art. 5038
+- Art. 51
+- Art. 52
+- Art. 53
+- Art. 54
+- Art. 55
+- Art. 56
+- Art. 57
+- Art. 58
+- Art. 59
+- Art. 60
+- Art. 60a44
+- Art. 6145
+- Art. 62
+- Art. 63
+- Art. 64
+- Art. 65
+- Art. 65a55
+- Art. 65b56
+- Art. 65c57
+- Art. 65d58
+- Art. 66
+- Art. 67
+- Art. 68
+- Art. 69
+- Art. 70
+- Art. 71
+- Art. 72
+- Art. 73
+- Art. 74
+- Art. 75
+- Art. 76
+- Art. 77
+- Art. 78
+- Art. 79
+- Art. 80
+- Art. 81
+- Art. 82
+- Art. 83
+- Art. 84
+- Art. 8561
+- Art. 86
+- Art. 87
+- Art. 88
+- Art. 88a68
+- Art. 88b69
+- Art. 8970
+- Art. 90
+- Art. 9174
+- Art. 92
+- Art. 93
+- Art. 9477
+- Art. 9578
+- Art. 95a79
+- Art. 95b80
+- Art. 96
+- Art. 97
+- Art. 98
+- Art. 98a86
+- Art. 99
+- Art. 100
+- Art. 101
+- Art. 102
+- Art. 103
+- Art. 104
+- Art. 105
+- Art. 10689
+- Art. 107
+- Art. 108
+- Art. 108a92
+- Art. 108b
+- Art. 108c
+- Art. 108d
+- Art. 10995
+- Art. 110
+- Art. 111
+- Art. 112
+- Art. 113100
+- Art. 114
+- Art. 115
+- Art. 116
+- Art. 117
+- Art. 119
+- Art. 120
+- Art. 121
+- Art. 122
+- Art. 123
+- Art. 124
+- Art. 125
+- Art. 126
+- Art. 127103
+- Art. 128
+- Art. 129104
+- Art. 130106
+- Art. 130a109
+- Art. 131
+- Art. 132
+- Art. 133
+- Art. 134
+- Art. 135
+- Art. 136
+- Art. 137
+- Art. 138
+- Art. 138a111
+- Art. 139
+- Art. 140
+- Art. 141
+- Art. 142
+- Art. 143
+- Art. 144
+- Art. 145
+- Art. 145a114
+- Art. 146
+- Art. 147
+- Art. 148
+- Art. 149
+- Art. 149a
+- Art. 149b
+- Art. 149c
+- Art. 149d
+- Art. 149e
+- Art. 150
+- Art. 151
+- Art. 152
+- Art. 153
+- Art. 154
+- Art. 155
+- Art. 156
+- Art. 157
+- Art. 158
+- Art. 159
+- Art. 160
+- Art. 161
+- Art. 162
+- Art. 163125
+- Art. 163a128
+- Art. 163b129
+- Art. 163c131
+- Art. 163d132
+- Art. 164133
+- Art. 164a137
+- Art. 164b139
+- Art. 165
+- Art. 166141
+- Art. 167
+- Art. 168
+- Art. 169
+- Art. 170
+- Art. 171
+- Art. 172
+- Art. 173
+- Art. 174
+- Art. 174a157
+- Art. 174b158
+- Art. 174c159
+- Art. 175
+- Art. 176
+- Art. 177
+- Art. 178
+- Art. 179168
+- Art. 180
+- Art. 180a174
+- Art. 180b175
+- Art. 181176
+- Art. 182
+- Art. 183
+- Art. 184
+- Art. 185
+- Art. 185a183
+- Art. 186
+- Art. 187
+- Art. 188
+- Art. 189
+- Art. 189a189
+- Art. 190
+- Art. 190a193
+- Art. 191194
+- Art. 192
+- Art. 193
+- Art. 194
+- Art. 195
+- Art. 196
+- Art. 197
+- Art. 198
+- Art. 199
+- Art. 199a202
+- Art. 199b203
+- Art. 199c204
+- Art. 200
+
+### SR 292.741.1 – Verordnung vom 17. September 1954 zu Artikel 13, Absätze 3-5, des Handelsvertrages zwischen der Schweizerischen Eidgenossenschaft und der Tschechoslowakischen Republik
+
+ELI: `/eli/cc/1954/991_1015_911/de`
+
+- Art. 1
+- Art. 2
+- Art. 3
